@@ -3,7 +3,7 @@
     "average_multiplier": 6.7904019790258845,
     "extra_payouts": {
       "total": 79,
-      "shibar": 2989127810.9238496
+      "shibar": 5332183911.052058
     },
     "missing_payouts": {
       "total": 188,
@@ -15,1870 +15,1870 @@
       "hbar_sent": "16.000872 ℏ",
       "shibar_balance": 2233705.1997,
       "shibar_short_lock": 32001.744,
-      "shibar_long_lock": 2016400.4939101206,
+      "shibar_long_lock": 2201703.4557000003,
       "rebalance": 0
     },
     "0.0.598777": {
       "hbar_sent": "100.00043101 ℏ",
       "shibar_balance": 4235585,
       "shibar_short_lock": 200000.86202,
-      "shibar_long_lock": 2877498.7507325094,
+      "shibar_long_lock": 4035584.13798,
       "rebalance": 0
     },
     "0.0.702183": {
       "hbar_sent": "10050.00086202 ℏ",
       "shibar_balance": 425605116.5,
       "shibar_short_lock": 20100001.72404,
-      "shibar_long_lock": 289118025.01465505,
+      "shibar_long_lock": 405505114.77595997,
       "rebalance": 0
     },
     "0.0.216935": {
       "hbar_sent": "1000.00043101 ℏ",
       "shibar_balance": 42348330,
       "shibar_short_lock": 2000000.86202,
-      "shibar_long_lock": 28767520.188485917,
+      "shibar_long_lock": 40348329.13798,
       "rebalance": 0
     },
     "0.0.642821": {
       "hbar_sent": "140.00043101 ℏ",
       "shibar_balance": 5928619.2,
       "shibar_short_lock": 280000.86202,
-      "shibar_long_lock": 4027300.792410439,
+      "shibar_long_lock": 5648618.33798,
       "rebalance": 0
     },
     "0.0.240740": {
       "hbar_sent": "1000.00086202 ℏ",
       "shibar_balance": 42344210,
       "shibar_short_lock": 2000001.72404,
-      "shibar_long_lock": 28763394.335023608,
+      "shibar_long_lock": 40344208.27596,
       "rebalance": 0
     },
     "0.0.725135": {
       "hbar_sent": "699.00086898 ℏ",
       "shibar_balance": 28021904.9799,
       "shibar_short_lock": 1398001.73796,
-      "shibar_long_lock": 18528911.211774793,
+      "shibar_long_lock": 26623903.24194,
       "rebalance": 0
     },
     "0.0.650437": {
       "hbar_sent": "100.00043101 ℏ",
       "shibar_balance": 4005702,
       "shibar_short_lock": 200000.86202,
-      "shibar_long_lock": 2647615.7507325094,
+      "shibar_long_lock": 3805701.13798,
       "rebalance": 0
     },
     "0.0.596391": {
       "hbar_sent": "42.6008579 ℏ",
       "shibar_balance": 1700412.934,
       "shibar_short_lock": 85201.7158,
-      "shibar_long_lock": 1121859.0344152788,
+      "shibar_long_lock": 1615211.2182,
       "rebalance": 0
     },
     "0.0.481938": {
       "hbar_sent": "325.00087109 ℏ",
       "shibar_balance": 12721680.75,
       "shibar_short_lock": 650001.74218,
-      "shibar_long_lock": 8307907.633530656,
+      "shibar_long_lock": 12071679.00782,
       "rebalance": 0
     },
     "0.0.725022": {
       "hbar_sent": "9890.00086898 ℏ",
       "shibar_balance": 373387031.1,
       "shibar_short_lock": 19780001.73796,
-      "shibar_long_lock": 239072868.153421,
+      "shibar_long_lock": 353607029.36204004,
       "rebalance": 0
     },
     "0.0.724840": {
       "hbar_sent": "38543.00139555 ℏ",
       "shibar_balance": 1379709569.7,
       "shibar_short_lock": 77086002.7911,
-      "shibar_long_lock": 856264623.79212,
+      "shibar_long_lock": 1302623566.9089,
       "rebalance": 0
     },
     "0.0.508854": {
       "hbar_sent": "5.000436 ℏ",
       "shibar_balance": 178249.9,
       "shibar_short_lock": 10000.872,
-      "shibar_long_lock": 110339.95897921546,
+      "shibar_long_lock": 168249.028,
       "rebalance": 0
     },
     "0.0.725167": {
       "hbar_sent": "19999.00043951 ℏ",
       "shibar_balance": 709040946.1798,
       "shibar_short_lock": 39998000.87902,
-      "shibar_long_lock": 437438441.8538236,
+      "shibar_long_lock": 669042945.30078,
       "rebalance": 0
     },
     "0.0.568491": {
       "hbar_sent": "100.000436 ℏ",
       "shibar_balance": 3545382,
       "shibar_short_lock": 200000.872,
-      "shibar_long_lock": 2187295.6829642975,
+      "shibar_long_lock": 3345381.128,
       "rebalance": 0
     },
     "0.0.427625": {
       "hbar_sent": "100.000436 ℏ",
       "shibar_balance": 3543992,
       "shibar_short_lock": 200000.872,
-      "shibar_long_lock": 2185905.682964298,
+      "shibar_long_lock": 3343991.128,
       "rebalance": 0
     },
     "0.0.721008": {
       "hbar_sent": "100.00043951 ℏ",
       "shibar_balance": 3543992,
       "shibar_short_lock": 200000.87902,
-      "shibar_long_lock": 2185905.635295676,
+      "shibar_long_lock": 3343991.12098,
       "rebalance": 0
     },
     "0.0.484262": {
       "hbar_sent": "100.000872 ℏ",
       "shibar_balance": 3543992,
       "shibar_short_lock": 200001.744,
-      "shibar_long_lock": 2185899.761733772,
+      "shibar_long_lock": 3343990.256,
       "rebalance": 0
     },
     "0.0.354842": {
       "hbar_sent": "4125.00220425 ℏ",
       "shibar_balance": 130817554.78,
       "shibar_short_lock": 8250004.4085,
-      "shibar_long_lock": 74796708.51754932,
+      "shibar_long_lock": 122567550.3715,
       "rebalance": 0
     },
     "0.0.642554": {
       "hbar_sent": "900.00043931 ℏ",
       "shibar_balance": 27756873,
       "shibar_short_lock": 1800000.87862,
-      "shibar_long_lock": 15534143.471570417,
+      "shibar_long_lock": 25956872.12138,
       "rebalance": 0
     },
     "0.0.725076": {
       "hbar_sent": "6439.30594593 ℏ",
       "shibar_balance": 198564427.9443,
       "shibar_short_lock": 12878611.89186,
-      "shibar_long_lock": 111113476.26670755,
+      "shibar_long_lock": 185685816.05244,
       "rebalance": 0
     },
     "0.0.204362": {
       "hbar_sent": "601.00217106 ℏ",
       "shibar_balance": 18507745.0599,
       "shibar_short_lock": 1202004.34212,
-      "shibar_long_lock": 10345652.396370646,
+      "shibar_long_lock": 17305740.71778,
       "rebalance": 0
     },
     "0.0.517585": {
       "hbar_sent": "692.00087531 ℏ",
       "shibar_balance": 21046752.96,
       "shibar_short_lock": 1384001.75062,
-      "shibar_long_lock": 11648824.733614666,
+      "shibar_long_lock": 19662751.20938,
       "rebalance": 0
     },
     "0.0.465176": {
       "hbar_sent": "19810.00223423 ℏ",
       "shibar_balance": 595574429.6335,
       "shibar_short_lock": 39620004.46846,
-      "shibar_long_lock": 326538672.8818548,
+      "shibar_long_lock": 555954425.16504,
       "rebalance": 0
     },
     "0.0.692130": {
       "hbar_sent": "1310.00174324 ℏ",
       "shibar_balance": 39009709.1,
       "shibar_short_lock": 2620003.48648,
-      "shibar_long_lock": 21218832.24035149,
+      "shibar_long_lock": 36389705.613520004,
       "rebalance": 0
     },
     "0.0.151226": {
       "hbar_sent": "601.20179478 ℏ",
       "shibar_balance": 17271638.4477,
       "shibar_short_lock": 1202403.58956,
-      "shibar_long_lock": 9106834.73356395,
+      "shibar_long_lock": 16069234.858140001,
       "rebalance": 0
     },
     "0.0.356713": {
       "hbar_sent": "1000.00044286 ℏ",
       "shibar_balance": 28497606,
       "shibar_short_lock": 2000000.88572,
-      "shibar_long_lock": 14916796.027553393,
+      "shibar_long_lock": 26497605.11428,
       "rebalance": 0
     },
     "0.0.629191": {
       "hbar_sent": "200.00044286 ℏ",
       "shibar_balance": 5691614,
       "shibar_short_lock": 400000.88572,
-      "shibar_long_lock": 2975447.193994805,
+      "shibar_long_lock": 5291613.11428,
       "rebalance": 0
     },
     "0.0.725323": {
       "hbar_sent": "69.00044286 ℏ",
       "shibar_balance": 1963606.8299,
       "shibar_short_lock": 138000.88572,
-      "shibar_long_lock": 1026525.3423995873,
+      "shibar_long_lock": 1825605.94418,
       "rebalance": 0
     },
     "0.0.439737": {
       "hbar_sent": "4400.00044286 ℏ",
       "shibar_balance": 125138683,
       "shibar_short_lock": 8800000.88572,
-      "shibar_long_lock": 65383139.57017738,
+      "shibar_long_lock": 116338682.11428,
       "rebalance": 0
     },
     "0.0.514968": {
       "hbar_sent": "1105.00086004 ℏ",
       "shibar_balance": 28905518.55,
       "shibar_short_lock": 2210001.72008,
-      "shibar_long_lock": 13898718.49631816,
+      "shibar_long_lock": 26695516.82992,
       "rebalance": 0
     },
     "0.0.438300": {
       "hbar_sent": "10.00044286 ℏ",
       "shibar_balance": 261104.4,
       "shibar_short_lock": 20000.88572,
-      "shibar_long_lock": 125290.34602464146,
+      "shibar_long_lock": 241103.51428,
       "rebalance": 0
     },
     "0.0.484172": {
       "hbar_sent": "500.00042903 ℏ",
       "shibar_balance": 13042534,
       "shibar_short_lock": 1000000.85806,
-      "shibar_long_lock": 6252126.194401792,
+      "shibar_long_lock": 12042533.14194,
       "rebalance": 0
     },
     "0.0.725291": {
       "hbar_sent": "396.56642894 ℏ",
       "shibar_balance": 10341822.6349,
       "shibar_short_lock": 793132.85788,
-      "shibar_long_lock": 4956131.707121192,
+      "shibar_long_lock": 9548689.77702,
       "rebalance": 0
     },
     "0.0.483509": {
       "hbar_sent": "1037.01280346 ℏ",
       "shibar_balance": 27029137.38,
       "shibar_short_lock": 2074025.60692,
-      "shibar_long_lock": 12945669.794220071,
+      "shibar_long_lock": 24955111.77308,
       "rebalance": 0
     },
     "0.0.662699": {
       "hbar_sent": "4800.00086032 ℏ",
       "shibar_balance": 123470418,
       "shibar_short_lock": 9600001.72064,
-      "shibar_long_lock": 58282547.31751424,
+      "shibar_long_lock": 113870416.27936,
       "rebalance": 0
     },
     "0.0.725357": {
       "hbar_sent": "196.00085806 ℏ",
       "shibar_balance": 4883668.3599,
       "shibar_short_lock": 392001.71612,
-      "shibar_long_lock": 2221819.1309772087,
+      "shibar_long_lock": 4491666.64378,
       "rebalance": 0
     },
     "0.0.433328": {
       "hbar_sent": "1000.00219507 ℏ",
       "shibar_balance": 24240348,
       "shibar_short_lock": 2000004.39014,
-      "shibar_long_lock": 10659514.231132885,
+      "shibar_long_lock": 22240343.60986,
       "rebalance": 0
     },
     "0.0.723934": {
       "hbar_sent": "51.00085806 ℏ",
       "shibar_balance": 1216757.06,
       "shibar_short_lock": 102001.71612,
-      "shibar_long_lock": 524124.40499471565,
+      "shibar_long_lock": 1114755.34388,
       "rebalance": 0
     },
     "0.0.454863": {
       "hbar_sent": "5010.00087374 ℏ",
       "shibar_balance": 119326338.2,
       "shibar_short_lock": 10020001.74748,
-      "shibar_long_lock": 51286498.504068986,
+      "shibar_long_lock": 109306336.45252,
       "rebalance": 0
     },
     "0.0.540754": {
       "hbar_sent": "250.00042903 ℏ",
       "shibar_balance": 5952386.5,
       "shibar_short_lock": 500000.85806,
-      "shibar_long_lock": 2557179.683914736,
+      "shibar_long_lock": 5452385.64194,
       "rebalance": 0
     },
     "0.0.518951": {
       "hbar_sent": "9763.00088406 ℏ",
       "shibar_balance": 222441477.9199,
       "shibar_short_lock": 19526001.76812,
-      "shibar_long_lock": 89852076.87119505,
+      "shibar_long_lock": 202915476.15178,
       "rebalance": 0
     },
     "0.0.622670": {
       "hbar_sent": "2515.00086898 ℏ",
       "shibar_balance": 56524831.15,
       "shibar_short_lock": 5030001.73796,
-      "shibar_long_lock": 22369097.394052777,
+      "shibar_long_lock": 51494829.412039995,
       "rebalance": 0
     },
     "0.0.650929": {
       "hbar_sent": "150.00043587 ℏ",
       "shibar_balance": 3225900,
       "shibar_short_lock": 300000.87174,
-      "shibar_long_lock": 1188773.4868272138,
+      "shibar_long_lock": 2925899.12826,
       "rebalance": 0
     },
     "0.0.688487": {
       "hbar_sent": "100.00043587 ℏ",
       "shibar_balance": 2150600,
       "shibar_short_lock": 200000.87174,
-      "shibar_long_lock": 792513.6847298017,
+      "shibar_long_lock": 1950599.12826,
       "rebalance": 0
     },
     "0.0.512364": {
       "hbar_sent": "1.00043587 ℏ",
       "shibar_balance": 21487.18,
       "shibar_short_lock": 2000.87174,
-      "shibar_long_lock": 7900.456576927036,
+      "shibar_long_lock": 19486.30826,
       "rebalance": 0
     },
     "0.0.474514": {
       "hbar_sent": "20.00088757 ℏ",
       "shibar_balance": 407794.7,
       "shibar_short_lock": 40001.77514,
-      "shibar_long_lock": 136166.5669247956,
+      "shibar_long_lock": 367792.92486,
       "rebalance": 0
     },
     "0.0.725385": {
       "hbar_sent": "184.78087924 ℏ",
       "shibar_balance": 3715908.0713,
       "shibar_short_lock": 369561.75848,
-      "shibar_long_lock": 1206435.1751451218,
+      "shibar_long_lock": 3346346.31282,
       "rebalance": 0
     },
     "0.0.488378": {
       "hbar_sent": "1849.66041112 ℏ",
       "shibar_balance": 36257629.5791,
       "shibar_short_lock": 3699320.82224,
-      "shibar_long_lock": 11137754.146709843,
+      "shibar_long_lock": 32558308.75686,
       "rebalance": 0
     },
     "0.0.481621": {
       "hbar_sent": "200.00044264 ℏ",
       "shibar_balance": 3839448,
       "shibar_short_lock": 400000.88528,
-      "shibar_long_lock": 1123281.196982582,
+      "shibar_long_lock": 3439447.11472,
       "rebalance": 0
     },
     "0.0.663476": {
       "hbar_sent": "890.00133549 ℏ",
       "shibar_balance": 17015709.5,
       "shibar_short_lock": 1780002.67098,
-      "shibar_long_lock": 4928775.840306047,
+      "shibar_long_lock": 15235706.829020001,
       "rebalance": 0
     },
     "0.0.653866": {
       "hbar_sent": "75.68090007 ℏ",
       "shibar_balance": 1371442.4021,
       "shibar_short_lock": 151361.80014,
-      "shibar_long_lock": 343634.93488042365,
+      "shibar_long_lock": 1220080.60196,
       "rebalance": 0
     },
     "0.0.397088": {
       "hbar_sent": "8495.00195763 ℏ",
       "shibar_balance": 148525440.3,
       "shibar_short_lock": 16990003.91526,
-      "shibar_long_lock": 33156484.090160996,
+      "shibar_long_lock": 131535436.38474001,
       "rebalance": 0
     },
     "0.0.484491": {
       "hbar_sent": "1010.00132341 ℏ",
       "shibar_balance": 17613980,
       "shibar_short_lock": 2020002.64682,
-      "shibar_long_lock": 3897350.0293959463,
+      "shibar_long_lock": 15593977.35318,
       "rebalance": 0
     },
     "0.0.723261": {
       "hbar_sent": "2061.00277097 ℏ",
       "shibar_balance": 35308061.6898,
       "shibar_short_lock": 4122005.54194,
-      "shibar_long_lock": 7317987.10025496,
+      "shibar_long_lock": 31186056.14786,
       "rebalance": 0
     },
     "0.0.644160": {
       "hbar_sent": "100.00044264 ℏ",
       "shibar_balance": 1698508,
       "shibar_short_lock": 200000.88528,
-      "shibar_long_lock": 340421.5927877592,
+      "shibar_long_lock": 1498507.11472,
       "rebalance": 0
     },
     "0.0.725495": {
       "hbar_sent": "4500.00090007 ℏ",
       "shibar_balance": 76425485,
       "shibar_short_lock": 9000001.80014,
-      "shibar_long_lock": 15311854.965092812,
+      "shibar_long_lock": 67425483.19986,
       "rebalance": 0
     },
     "0.0.712860": {
       "hbar_sent": "550.00131238 ℏ",
       "shibar_balance": 9130111.3,
       "shibar_short_lock": 1100002.62476,
-      "shibar_long_lock": 1660651.299896029,
+      "shibar_long_lock": 8030108.675240001,
       "rebalance": 0
     },
     "0.0.711720": {
       "hbar_sent": "5857.00132094 ℏ",
       "shibar_balance": 89314694.09,
       "shibar_short_lock": 11714002.64188,
-      "shibar_long_lock": 9771907.368263613,
+      "shibar_long_lock": 77600691.44812,
       "rebalance": 0
     },
     "0.0.513075": {
       "hbar_sent": "4900.0026256 ℏ",
       "shibar_balance": 72390898.2,
       "shibar_short_lock": 9800005.2512,
-      "shibar_long_lock": 5844923.147787462,
+      "shibar_long_lock": 62590892.948800005,
       "rebalance": 0
     },
     "0.0.513683": {
       "hbar_sent": "100.00045636 ℏ",
       "shibar_balance": 1474670,
       "shibar_short_lock": 200000.91272,
-      "shibar_long_lock": 116583.40645912882,
+      "shibar_long_lock": 1274669.08728,
       "rebalance": 0
     },
     "0.0.557223": {
       "hbar_sent": "900.00045705 ℏ",
       "shibar_balance": 13271571,
       "shibar_short_lock": 1800000.9141,
-      "shibar_long_lock": 1048841.23064696,
+      "shibar_long_lock": 11471570.0859,
       "rebalance": 0
     },
     "0.0.725597": {
       "hbar_sent": "110.00091272 ℏ",
       "shibar_balance": 1622029.3,
       "shibar_short_lock": 220001.82544,
-      "shibar_long_lock": 128128.46914291698,
+      "shibar_long_lock": 1402027.47456,
       "rebalance": 0
     },
     "0.0.725590": {
       "hbar_sent": "4999.00091259 ℏ",
       "shibar_balance": 73695724.3099,
       "shibar_short_lock": 9998001.82518,
-      "shibar_long_lock": 5805272.929893329,
+      "shibar_long_lock": 63697722.48472,
       "rebalance": 0
     },
     "0.0.52165": {
       "hbar_sent": "825.00045254 ℏ",
       "shibar_balance": 12154418.75,
       "shibar_short_lock": 1650000.90508,
-      "shibar_long_lock": 950249.3387502686,
+      "shibar_long_lock": 10504417.84492,
       "rebalance": 0
     },
     "0.0.659311": {
       "hbar_sent": "100.00044891 ℏ",
       "shibar_balance": 1473263,
       "shibar_short_lock": 200000.89782,
-      "shibar_long_lock": 115176.50763611829,
+      "shibar_long_lock": 1273262.10218,
       "rebalance": 0
     },
     "0.0.725581": {
       "hbar_sent": "201.00090508 ℏ",
       "shibar_balance": 2961251.6899,
       "shibar_short_lock": 402001.81016,
-      "shibar_long_lock": 231497.80261754812,
+      "shibar_long_lock": 2559249.8797400002,
       "rebalance": 0
     },
     "0.0.507293": {
       "hbar_sent": "2000.00044891 ℏ",
       "shibar_balance": 29461900,
       "shibar_short_lock": 4000000.89782,
-      "shibar_long_lock": 2300285.987337756,
+      "shibar_long_lock": 25461899.10218,
       "rebalance": 0
     },
     "0.0.656363": {
       "hbar_sent": "1000.00045254 ℏ",
       "shibar_balance": 14726060,
       "shibar_short_lock": 2000000.90508,
-      "shibar_long_lock": 1145249.8960912074,
+      "shibar_long_lock": 12726059.09492,
       "rebalance": 0
     },
     "0.0.621643": {
       "hbar_sent": "458.00089782 ℏ",
       "shibar_balance": 6744351.5,
       "shibar_short_lock": 916001.79564,
-      "shibar_long_lock": 524331.0940948798,
+      "shibar_long_lock": 5828349.70436,
       "rebalance": 0
     },
     "0.0.725551": {
       "hbar_sent": "381.00045254 ℏ",
       "shibar_balance": 5608285.7099,
       "shibar_short_lock": 762000.90508,
-      "shibar_long_lock": 433993.2560252523,
+      "shibar_long_lock": 4846284.80482,
       "rebalance": 0
     },
     "0.0.412535": {
       "hbar_sent": "5100.00090508 ℏ",
       "shibar_balance": 75071434,
       "shibar_short_lock": 10200001.81016,
-      "shibar_long_lock": 5809321.52222193,
+      "shibar_long_lock": 64871432.189840004,
       "rebalance": 0
     },
     "0.0.540435": {
       "hbar_sent": "226.00090508 ℏ",
       "shibar_balance": 3326699.66,
       "shibar_short_lock": 452001.81016,
-      "shibar_long_lock": 257425.6737662542,
+      "shibar_long_lock": 2874697.8498400003,
       "rebalance": 0
     },
     "0.0.467126": {
       "hbar_sent": "5.00044891 ℏ",
       "shibar_balance": 73599.55,
       "shibar_short_lock": 10000.89782,
-      "shibar_long_lock": 5689.433651036347,
+      "shibar_long_lock": 63598.652180000005,
       "rebalance": 0
     },
     "0.0.509965": {
       "hbar_sent": "500.00044891 ℏ",
       "shibar_balance": 7357340,
       "shibar_short_lock": 1000000.89782,
-      "shibar_long_lock": 566931.9244154107,
+      "shibar_long_lock": 6357339.10218,
       "rebalance": 0
     },
     "0.0.638341": {
       "hbar_sent": "100.00045636 ℏ",
       "shibar_balance": 1471063,
       "shibar_short_lock": 200000.91272,
-      "shibar_long_lock": 112976.40645912889,
+      "shibar_long_lock": 1271062.08728,
       "rebalance": 0
     },
     "0.0.333291": {
       "hbar_sent": "2000.00089694 ℏ",
       "shibar_balance": 29074154,
       "shibar_short_lock": 4000001.79388,
-      "shibar_long_lock": 1912533.9027301613,
+      "shibar_long_lock": 25074152.20612,
       "rebalance": 0
     },
     "0.0.620748": {
       "hbar_sent": "2860.00348917 ℏ",
       "shibar_balance": 39986201.7,
       "shibar_short_lock": 5720006.97834,
-      "shibar_long_lock": 1145054.9942382004,
+      "shibar_long_lock": 34266194.72166,
       "rebalance": 0
     },
     "0.0.656231": {
       "hbar_sent": "422.53088848 ℏ",
       "shibar_balance": 5746200.049,
       "shibar_short_lock": 845061.77696,
-      "shibar_long_lock": 7890.8863316845955,
+      "shibar_long_lock": 4901138.272039999,
       "rebalance": 0
     },
     "0.0.627512": {
       "hbar_sent": "1612.08009083 ℏ",
       "shibar_balance": 21612650.2984,
       "shibar_short_lock": 3224160.18166,
-      "shibar_long_lock": 280693.37984051666,
-      "rebalance": -18107796.736899484
+      "shibar_long_lock": 18669183.496580515,
+      "rebalance": 280693.37984051666
     },
     "0.0.659319": {
       "hbar_sent": "604.00216619 ℏ",
       "shibar_balance": 8077663.94,
       "shibar_short_lock": 1208004.33238,
-      "shibar_long_lock": 125171.06926499403,
-      "rebalance": -6744488.538355006
+      "shibar_long_lock": 6994830.676884994,
+      "rebalance": 125171.06926499403
     },
     "0.0.305873": {
       "hbar_sent": "104.0021763 ℏ",
       "shibar_balance": 1306974.71,
       "shibar_short_lock": 208004.3526,
-      "shibar_long_lock": 105458.45754103806,
-      "rebalance": -993511.8998589618
+      "shibar_long_lock": 1204428.814941038,
+      "rebalance": 105458.45754103806
     },
     "0.0.443325": {
       "hbar_sent": "300.00045636 ℏ",
       "shibar_balance": 3754515,
       "shibar_short_lock": 600000.91272,
-      "shibar_long_lock": 319732.3851512254,
-      "rebalance": -2834781.7021287745
+      "shibar_long_lock": 3474246.4724312252,
+      "rebalance": 319732.3851512254
     },
     "0.0.577070": {
       "hbar_sent": "10.00045694 ℏ",
       "shibar_balance": 125150.5,
       "shibar_short_lock": 20000.91388,
-      "shibar_long_lock": 10663.745193078279,
-      "rebalance": -94485.84092692172
+      "shibar_long_lock": 115813.33131307826,
+      "rebalance": 10663.745193078279
     },
     "0.0.655034": {
       "hbar_sent": "87.19624313 ℏ",
       "shibar_balance": 1059165.1407,
       "shibar_short_lock": 174392.48626,
-      "shibar_long_lock": 125029.94312714832,
-      "rebalance": -759742.7113128518
+      "shibar_long_lock": 1009802.5975671484,
+      "rebalance": 125029.94312714832
     },
     "0.0.509518": {
       "hbar_sent": "2010.00129845 ℏ",
       "shibar_balance": 23904801.3,
       "shibar_short_lock": 4020002.5969,
-      "shibar_long_lock": 3392632.2896789536,
-      "rebalance": -16492166.413421048
+      "shibar_long_lock": 23277430.992778953,
+      "rebalance": 3392632.2896789536
     },
     "0.0.621906": {
       "hbar_sent": "5000.00044703 ℏ",
       "shibar_balance": 58652850,
       "shibar_short_lock": 10000000.89406,
-      "shibar_long_lock": 9251175.861285644,
-      "rebalance": -39401673.24465436
+      "shibar_long_lock": 57904024.96722564,
+      "rebalance": 9251175.861285644
     },
     "0.0.466028": {
       "hbar_sent": "450.00132501 ℏ",
       "shibar_balance": 5278688.5,
       "shibar_short_lock": 900002.65002,
-      "shibar_long_lock": 832691.2758243481,
-      "rebalance": -3545994.574155652
+      "shibar_long_lock": 5211377.125804349,
+      "rebalance": 832691.2758243481
     },
     "0.0.454500": {
       "hbar_sent": "100.0008869 ℏ",
       "shibar_balance": 1172998.2,
       "shibar_short_lock": 200001.7738,
-      "shibar_long_lock": 185094.2406202074,
-      "rebalance": -787902.1855797926
+      "shibar_long_lock": 1158090.6668202071,
+      "rebalance": 185094.2406202074
     },
     "0.0.490906": {
       "hbar_sent": "100.00044345 ℏ",
       "shibar_balance": 1172913,
       "shibar_short_lock": 200000.8869,
-      "shibar_long_lock": 185173.4182126921,
-      "rebalance": -787738.6948873079
+      "shibar_long_lock": 1158085.531312692,
+      "rebalance": 185173.4182126921
     },
     "0.0.542623": {
       "hbar_sent": "999.0008869 ℏ",
       "shibar_balance": 11716335.43,
       "shibar_short_lock": 1998001.7738,
-      "shibar_long_lock": 1850899.7689087493,
-      "rebalance": -7867433.887291251
+      "shibar_long_lock": 11569233.42510875,
+      "rebalance": 1850899.7689087493
     },
     "0.0.706475": {
       "hbar_sent": "199.0008869 ℏ",
       "shibar_balance": 2333873.28,
       "shibar_short_lock": 398001.7738,
-      "shibar_long_lock": 368718.75246733293,
-      "rebalance": -1567152.7537326668
+      "shibar_long_lock": 2304590.2586673326,
+      "rebalance": 368718.75246733293
     },
     "0.0.8584": {
       "hbar_sent": "6001.0008869 ℏ",
       "shibar_balance": 70378648.13,
       "shibar_short_lock": 12002001.7738,
-      "shibar_long_lock": 11119768.467083704,
-      "rebalance": -47256877.88911629
+      "shibar_long_lock": 69496414.8232837,
+      "rebalance": 11119768.467083704
     },
     "0.0.706940": {
       "hbar_sent": "2489.54133302 ℏ",
       "shibar_balance": 29196852.2074,
       "shibar_short_lock": 4979082.66604,
-      "shibar_long_lock": 4613120.5818114905,
-      "rebalance": -19604648.95954851
+      "shibar_long_lock": 28830890.12317149,
+      "rebalance": 4613120.5818114905
     },
     "0.0.724620": {
       "hbar_sent": "3995.00044434 ℏ",
       "shibar_balance": 46847647.15,
       "shibar_short_lock": 7990000.88868,
-      "shibar_long_lock": 7407670.69691125,
-      "rebalance": -31449975.56440875
+      "shibar_long_lock": 46265316.958231255,
+      "rebalance": 7407670.69691125
     },
     "0.0.316647": {
       "hbar_sent": "888.00044078 ℏ",
       "shibar_balance": 10413194.16,
       "shibar_short_lock": 1776000.88156,
-      "shibar_long_lock": 1646565.740896739,
-      "rebalance": -6990627.537543261
+      "shibar_long_lock": 10283759.01933674,
+      "rebalance": 1646565.740896739
     },
     "0.0.220667": {
       "hbar_sent": "100.00044078 ℏ",
       "shibar_balance": 1172657,
       "shibar_short_lock": 200000.88156,
-      "shibar_long_lock": 185429.38195194554,
-      "rebalance": -787226.7364880545
+      "shibar_long_lock": 1158085.5003919457,
+      "rebalance": 185429.38195194554
     },
     "0.0.332052": {
       "hbar_sent": "45.00044703 ℏ",
       "shibar_balance": 527536.35,
       "shibar_short_lock": 90000.89406,
-      "shibar_long_lock": 83605.899139123,
-      "rebalance": -353929.556800877
+      "shibar_long_lock": 521141.355079123,
+      "rebalance": 83605.899139123
     },
     "0.0.607781": {
       "hbar_sent": "210.00088494 ℏ",
       "shibar_balance": 2461506.8,
       "shibar_short_lock": 420001.76988,
-      "shibar_long_lock": 390474.04938752606,
-      "rebalance": -1651030.9807324738
+      "shibar_long_lock": 2431979.079507526,
+      "rebalance": 390474.04938752606
     },
     "0.0.523118": {
       "hbar_sent": "10001.00133035 ℏ",
       "shibar_balance": 117141801.81,
       "shibar_short_lock": 20002002.6607,
-      "shibar_long_lock": 18679836.641698282,
-      "rebalance": -78459962.50760172
+      "shibar_long_lock": 115819635.79099828,
+      "rebalance": 18679836.641698282
     },
     "0.0.454647": {
       "hbar_sent": "100.00044345 ℏ",
       "shibar_balance": 1170653,
       "shibar_short_lock": 200000.8869,
-      "shibar_long_lock": 187433.41821269222,
-      "rebalance": -783218.6948873077
+      "shibar_long_lock": 1158085.5313126922,
+      "rebalance": 187433.41821269222
     },
     "0.0.632394": {
       "hbar_sent": "36000.00089406 ℏ",
       "shibar_balance": 421399079,
       "shibar_short_lock": 72000001.78812,
-      "shibar_long_lock": 67509875.6319173,
-      "rebalance": -281889201.57996273
+      "shibar_long_lock": 416908952.8437973,
+      "rebalance": 67509875.6319173
     },
     "0.0.454786": {
       "hbar_sent": "2000.00044345 ℏ",
       "shibar_balance": 23411060,
       "shibar_short_lock": 4000000.8869,
-      "shibar_long_lock": 3750553.9385110517,
-      "rebalance": -15660505.174588948
+      "shibar_long_lock": 23161613.05161105,
+      "rebalance": 3750553.9385110517
     },
     "0.0.720311": {
       "hbar_sent": "500.00044703 ℏ",
       "shibar_balance": 5852765,
       "shibar_short_lock": 1000000.89406,
-      "shibar_long_lock": 937643.0500526777,
-      "rebalance": -3915121.0558873224
+      "shibar_long_lock": 5790407.155992678,
+      "rebalance": 937643.0500526777
     },
     "0.0.708536": {
       "hbar_sent": "851.00177184 ℏ",
       "shibar_balance": 9959289.58,
       "shibar_short_lock": 1702003.54368,
-      "shibar_long_lock": 1597998.6513137403,
-      "rebalance": -6659287.38500626
+      "shibar_long_lock": 9855284.687633742,
+      "rebalance": 1597998.6513137403
     },
     "0.0.715328": {
       "hbar_sent": "4745.00134109 ℏ",
       "shibar_balance": 55519257.65,
       "shibar_short_lock": 9490002.68218,
-      "shibar_long_lock": 8921675.344036024,
-      "rebalance": -37107579.623783976
+      "shibar_long_lock": 54950930.31185602,
+      "rebalance": 8921675.344036024
     },
     "0.0.152825": {
       "hbar_sent": "5010.0008869 ℏ",
       "shibar_balance": 58603782.8,
       "shibar_short_lock": 10020001.7738,
-      "shibar_long_lock": 9436057.0746544,
-      "rebalance": -39147723.951545596
+      "shibar_long_lock": 58019838.1008544,
+      "rebalance": 9436057.0746544
     },
     "0.0.641825": {
       "hbar_sent": "350.00044345 ℏ",
       "shibar_balance": 4094079.5,
       "shibar_short_lock": 700000.8869,
-      "shibar_long_lock": 659207.9077256345,
-      "rebalance": -2734870.7053743657
+      "shibar_long_lock": 4053286.520825634,
+      "rebalance": 659207.9077256345
     },
     "0.0.454313": {
       "hbar_sent": "2000.0008869 ℏ",
       "shibar_balance": 23394331,
       "shibar_short_lock": 4000001.7738,
-      "shibar_long_lock": 3767288.9609185704,
-      "rebalance": -15627040.26528143
+      "shibar_long_lock": 23161618.18711857,
+      "rebalance": 3767288.9609185704
     },
     "0.0.659075": {
       "hbar_sent": "1010.00132643 ℏ",
       "shibar_balance": 11813450.8,
       "shibar_short_lock": 2020002.65286,
-      "shibar_long_lock": 1903179.2116180796,
-      "rebalance": -7890268.935521921
+      "shibar_long_lock": 11696627.358758079,
+      "rebalance": 1903179.2116180796
     },
     "0.0.654391": {
       "hbar_sent": "1253.00133035 ℏ",
       "shibar_balance": 14653812.3399,
       "shibar_short_lock": 2506002.6607,
-      "shibar_long_lock": 2362953.086761411,
-      "rebalance": -9784856.59243859
+      "shibar_long_lock": 14510762.765961409,
+      "rebalance": 2362953.086761411
     },
     "0.0.702103": {
       "hbar_sent": "44000.00223515 ℏ",
       "shibar_balance": 514437119,
       "shibar_short_lock": 88000004.4703,
-      "shibar_long_lock": 83118285.50941183,
-      "rebalance": -343318829.02028817
+      "shibar_long_lock": 509555400.0391118,
+      "rebalance": 83118285.50941183
     },
     "0.0.723083": {
       "hbar_sent": "780.00134109 ℏ",
       "shibar_balance": 9119558.4,
       "shibar_short_lock": 1560002.68218,
-      "shibar_long_lock": 1473486.900360759,
-      "rebalance": -6086068.8174592415
+      "shibar_long_lock": 9033042.61818076,
+      "rebalance": 1473486.900360759
     },
     "0.0.649095": {
       "hbar_sent": "218.5729879 ℏ",
       "shibar_balance": 2555130.5532,
       "shibar_short_lock": 437145.9758,
-      "shibar_long_lock": 413266.34599552146,
-      "rebalance": -1704718.2314044784
+      "shibar_long_lock": 2531250.9233955215,
+      "rebalance": 413266.34599552146
     },
     "0.0.709867": {
       "hbar_sent": "2620.00089406 ℏ",
       "shibar_balance": 30621515.6,
       "shibar_short_lock": 5240001.78812,
-      "shibar_long_lock": 4960202.912149218,
-      "rebalance": -20421310.899730783
+      "shibar_long_lock": 30341716.72402922,
+      "rebalance": 4960202.912149218
     },
     "0.0.540648": {
       "hbar_sent": "500.00044345 ℏ",
       "shibar_balance": 5843784,
       "shibar_short_lock": 1000000.8869,
-      "shibar_long_lock": 946624.0014334004,
-      "rebalance": -3897159.1116665993
+      "shibar_long_lock": 5790407.1145334,
+      "rebalance": 946624.0014334004
     },
     "0.0.542474": {
       "hbar_sent": "669.6017738 ℏ",
       "shibar_balance": 7736256.4479,
       "shibar_short_lock": 1339203.5476,
-      "shibar_long_lock": 1357473.9720415242,
-      "rebalance": -5039578.928258476
+      "shibar_long_lock": 7754526.872341524,
+      "rebalance": 1357473.9720415242
     },
     "0.0.452365": {
       "hbar_sent": "4502.00226712 ℏ",
       "shibar_balance": 51735332.5599,
       "shibar_short_lock": 9004004.53424,
-      "shibar_long_lock": 9405477.648561332,
-      "rebalance": -33325850.37709867
+      "shibar_long_lock": 52136805.67422133,
+      "rebalance": 9405477.648561332
     },
     "0.0.712297": {
       "hbar_sent": "664.00131421 ℏ",
       "shibar_balance": 7616229.8199,
       "shibar_short_lock": 1328002.62842,
-      "shibar_long_lock": 1401441.8562747447,
-      "rebalance": -4886785.335205255
+      "shibar_long_lock": 7689669.047754745,
+      "rebalance": 1401441.8562747447
     },
     "0.0.433278": {
       "hbar_sent": "234.00132768 ℏ",
       "shibar_balance": 2683522.4999,
       "shibar_short_lock": 468002.65536,
-      "shibar_long_lock": 494403.65724591253,
-      "rebalance": -1721116.1872940876
+      "shibar_long_lock": 2709923.5017859126,
+      "rebalance": 494403.65724591253
     },
     "0.0.711444": {
       "hbar_sent": "50009.00186668 ℏ",
       "shibar_balance": 537935749.7199,
       "shibar_short_lock": 100018003.73336,
-      "shibar_long_lock": 141226700.76932612,
-      "rebalance": -296691045.21721387
+      "shibar_long_lock": 579144446.755866,
+      "rebalance": 141226700.76932612
     },
     "0.0.518370": {
       "hbar_sent": "100.00045636 ℏ",
       "shibar_balance": 1031648,
       "shibar_short_lock": 200000.91272,
-      "shibar_long_lock": 326438.5935408711,
-      "rebalance": -505208.4937391289
+      "shibar_long_lock": 1158085.6808208711,
+      "rebalance": 326438.5935408711
     },
     "0.0.510242": {
       "hbar_sent": "1.00045569 ℏ",
       "shibar_balance": 10316.48,
       "shibar_short_lock": 2000.91138,
-      "shibar_long_lock": 3270.512594607413,
-      "rebalance": -5045.056025392587
+      "shibar_long_lock": 11586.081214607413,
+      "rebalance": 3270.512594607413
     },
     "0.0.25207": {
       "hbar_sent": "18860.87678785 ℏ",
       "shibar_balance": 185556267.8362,
       "shibar_short_lock": 37721753.5757,
-      "shibar_long_lock": 70589602.29656002,
-      "rebalance": -77244911.96393998
+      "shibar_long_lock": 218424116.55706,
+      "rebalance": 70589602.29656002
     },
     "0.0.109376": {
       "hbar_sent": "110.00176058 ℏ",
       "shibar_balance": 1042949.92,
       "shibar_short_lock": 220003.52116,
-      "shibar_long_lock": 450962.42547752714,
-      "rebalance": -371983.97336247296
+      "shibar_long_lock": 1273908.8243175272,
+      "rebalance": 450962.42547752714
     },
     "0.0.724788": {
       "hbar_sent": "999.00043463 ℏ",
       "shibar_balance": 9411018.5599,
       "shibar_short_lock": 1998000.86926,
-      "shibar_long_lock": 4156210.4968185415,
-      "rebalance": -3256807.193821459
+      "shibar_long_lock": 11569228.187458543,
+      "rebalance": 4156210.4968185415
     },
     "0.0.262277": {
       "hbar_sent": "1001.00086926 ℏ",
       "shibar_balance": 9429856.62,
       "shibar_short_lock": 2002001.73852,
-      "shibar_long_lock": 4164539.947259469,
-      "rebalance": -3263314.93422053
+      "shibar_long_lock": 11592394.828739468,
+      "rebalance": 4164539.947259469
     },
     "0.0.591522": {
       "hbar_sent": "145.38472049 ℏ",
       "shibar_balance": 1369583.9419,
       "shibar_short_lock": 290769.44098,
-      "shibar_long_lock": 604857.4455708422,
-      "rebalance": -473957.05534915766
+      "shibar_long_lock": 1683671.9464908424,
+      "rebalance": 604857.4455708422
     },
     "0.0.506520": {
       "hbar_sent": "350.00043115 ℏ",
       "shibar_balance": 3295817,
       "shibar_short_lock": 700000.8623,
-      "shibar_long_lock": 1457470.240681746,
-      "rebalance": -1138345.8970182538
+      "shibar_long_lock": 4053286.378381746,
+      "rebalance": 1457470.240681746
     },
     "0.0.467228": {
       "hbar_sent": "1000.00043115 ℏ",
       "shibar_balance": 9416440,
       "shibar_short_lock": 2000000.8623,
-      "shibar_long_lock": 4164369.813415395,
-      "rebalance": -3252069.3242846048
+      "shibar_long_lock": 11580808.951115396,
+      "rebalance": 4164369.813415395
     },
     "0.0.599761": {
       "hbar_sent": "1.00043115 ℏ",
       "shibar_balance": 9420.4399,
       "shibar_short_lock": 2000.8623,
-      "shibar_long_lock": 4166.219421678285,
-      "rebalance": -3253.358178321715
+      "shibar_long_lock": 11585.797021678283,
+      "rebalance": 4166.219421678285
     },
     "0.0.704335": {
       "hbar_sent": "45.0004396 ℏ",
       "shibar_balance": 423689.3,
       "shibar_short_lock": 90000.8792,
-      "shibar_long_lock": 187452.84823374957,
-      "rebalance": -146235.5725662504
+      "shibar_long_lock": 521141.2690337496,
+      "rebalance": 187452.84823374957
     },
     "0.0.551528": {
       "hbar_sent": "940.00087216 ℏ",
       "shibar_balance": 8847482.6,
       "shibar_short_lock": 1880001.74432,
-      "shibar_long_lock": 3918484.965202644,
-      "rebalance": -3048995.8904773556
+      "shibar_long_lock": 10885965.820882645,
+      "rebalance": 3918484.965202644
     },
     "0.0.454940": {
       "hbar_sent": "1000.00043608 ℏ",
       "shibar_balance": 9412120,
       "shibar_short_lock": 2000000.87216,
-      "shibar_long_lock": 4168689.8803687585,
-      "rebalance": -3243429.2474712413
+      "shibar_long_lock": 11580809.008208757,
+      "rebalance": 4168689.8803687585
     },
     "0.0.434029": {
       "hbar_sent": "2050.0008792 ℏ",
       "shibar_balance": 19294841.5,
       "shibar_short_lock": 4100001.7584,
-      "shibar_long_lock": 8545818.554248968,
-      "rebalance": -6649021.187351031
+      "shibar_long_lock": 23740658.295848966,
+      "rebalance": 8545818.554248968
     },
     "0.0.633800": {
       "hbar_sent": "500.00043608 ℏ",
       "shibar_balance": 4706060,
       "shibar_short_lock": 1000000.87216,
-      "shibar_long_lock": 2084347.901342875,
-      "rebalance": -1621711.2264971249
+      "shibar_long_lock": 5790407.0291828755,
+      "rebalance": 2084347.901342875
     },
     "0.0.397546": {
       "hbar_sent": "5300.00130824 ℏ",
       "shibar_balance": 49866566.6,
       "shibar_short_lock": 10600002.61648,
-      "shibar_long_lock": 22111712.14462535,
-      "rebalance": -17154851.83889465
+      "shibar_long_lock": 61378276.12814536,
+      "rebalance": 22111712.14462535
     },
     "0.0.428115": {
       "hbar_sent": "5100.00130824 ℏ",
       "shibar_balance": 47983863,
       "shibar_short_lock": 10200002.61648,
-      "shibar_long_lock": 21278254.953014996,
-      "rebalance": -16505605.430505004
+      "shibar_long_lock": 59062115.336535,
+      "rebalance": 21278254.953014996
     },
     "0.0.106186": {
       "hbar_sent": "22000.00132234 ℏ",
       "shibar_balance": 206983869,
       "shibar_short_lock": 44000002.64468,
-      "shibar_long_lock": 91793836.03557923,
-      "rebalance": -71190030.31974077
+      "shibar_long_lock": 254777702.3908992,
+      "rebalance": 91793836.03557923
     },
     "0.0.656153": {
       "hbar_sent": "250.00044434 ℏ",
       "shibar_balance": 2351955,
       "shibar_short_lock": 500000.88868,
-      "shibar_long_lock": 1043252.024007373,
-      "rebalance": -808702.0873126271
+      "shibar_long_lock": 2895206.135327373,
+      "rebalance": 1043252.024007373
     },
     "0.0.224534": {
       "hbar_sent": "100.00044078 ℏ",
       "shibar_balance": 940782,
       "shibar_short_lock": 200000.88156,
-      "shibar_long_lock": 417304.3819519456,
-      "rebalance": -323476.7364880544
+      "shibar_long_lock": 1158085.5003919457,
+      "rebalance": 417304.3819519456
     },
     "0.0.599826": {
       "hbar_sent": "1000.00044078 ℏ",
       "shibar_balance": 9407590,
       "shibar_short_lock": 2000000.88156,
-      "shibar_long_lock": 4173219.9441985367,
-      "rebalance": -3234369.1742414637
+      "shibar_long_lock": 11580809.062638538,
+      "rebalance": 4173219.9441985367
     },
     "0.0.724760": {
       "hbar_sent": "545.00086926 ℏ",
       "shibar_balance": 5126909.55,
       "shibar_short_lock": 1090001.73852,
-      "shibar_long_lock": 2274640.4123878623,
-      "rebalance": -1762267.3990921378
+      "shibar_long_lock": 6311548.223867862,
+      "rebalance": 2274640.4123878623
     },
     "0.0.490839": {
       "hbar_sent": "462.88156351 ℏ",
       "shibar_balance": 4353829.9026,
       "shibar_short_lock": 925763.12702,
-      "shibar_long_lock": 1932473.8672258,
-      "rebalance": -1495592.9083541995
+      "shibar_long_lock": 5360540.6428058,
+      "rebalance": 1932473.8672258
     },
     "0.0.606390": {
       "hbar_sent": "100.00044078 ℏ",
       "shibar_balance": 940440,
       "shibar_short_lock": 200000.88156,
-      "shibar_long_lock": 417646.38195194554,
-      "rebalance": -322792.7364880545
+      "shibar_long_lock": 1158085.5003919457,
+      "rebalance": 417646.38195194554
     },
     "0.0.581943": {
       "hbar_sent": "500.00043115 ℏ",
       "shibar_balance": 4702090,
       "shibar_short_lock": 1000000.8623,
-      "shibar_long_lock": 2088317.8343895113,
-      "rebalance": -1613771.3033104888
+      "shibar_long_lock": 5790406.972089511,
+      "rebalance": 2088317.8343895113
     },
     "0.0.505487": {
       "hbar_sent": "500.00043115 ℏ",
       "shibar_balance": 4702090,
       "shibar_short_lock": 1000000.8623,
-      "shibar_long_lock": 2088317.8343895113,
-      "rebalance": -1613771.3033104888
+      "shibar_long_lock": 5790406.972089511,
+      "rebalance": 2088317.8343895113
     },
     "0.0.635824": {
       "hbar_sent": "590.00130389 ℏ",
       "shibar_balance": 5547596.8,
       "shibar_short_lock": 1180002.60778,
-      "shibar_long_lock": 2465095.243125017,
-      "rebalance": -1902498.9490949828
+      "shibar_long_lock": 6832689.435345016,
+      "rebalance": 2465095.243125017
     },
     "0.0.657759": {
       "hbar_sent": "540.00316052 ℏ",
       "shibar_balance": 4984479.25,
       "shibar_short_lock": 1080006.32104,
-      "shibar_long_lock": 2349197.8097504815,
-      "rebalance": -1555275.1192095187
+      "shibar_long_lock": 6253670.738710482,
+      "rebalance": 2349197.8097504815
     },
     "0.0.641810": {
       "hbar_sent": "511.65908099 ℏ",
       "shibar_balance": 4432264.4275,
       "shibar_short_lock": 1023318.16198,
-      "shibar_long_lock": 2516477.244782122,
-      "rebalance": -892469.0207378785
+      "shibar_long_lock": 5925423.510302122,
+      "rebalance": 2516477.244782122
     },
     "0.0.458073": {
       "hbar_sent": "102.00262518 ℏ",
       "shibar_balance": 883540.32,
       "shibar_short_lock": 204005.25036,
-      "shibar_long_lock": 501737.3357762152,
-      "rebalance": -177797.73386378482
+      "shibar_long_lock": 1181272.4054162153,
+      "rebalance": 501737.3357762152
     },
     "0.0.35657": {
       "hbar_sent": "1989.0008623 ℏ",
       "shibar_balance": 16374317.55,
       "shibar_short_lock": 3978001.7246,
-      "shibar_long_lock": 10637913.233292218,
-      "rebalance": -1758402.5921077821
+      "shibar_long_lock": 23034229.05869222,
+      "rebalance": 10637913.233292218
     },
     "0.0.663055": {
       "hbar_sent": "70.00095078 ℏ",
       "shibar_balance": 548302.5,
       "shibar_short_lock": 140001.90156,
-      "shibar_long_lock": 402366.6894204111,
-      "rebalance": -5933.9090195889585
+      "shibar_long_lock": 810667.2878604111,
+      "rebalance": 402366.6894204111
     },
     "0.0.445590": {
       "hbar_sent": "20000.00096497 ℏ",
       "shibar_balance": 155639099,
       "shibar_short_lock": 40000001.92994,
-      "shibar_long_lock": 115976993.26610377,
-      "rebalance": 337896.1960437894
+      "shibar_long_lock": 231616090.33616376,
+      "rebalance": 115976993.26610377
     },
     "0.0.691029": {
       "hbar_sent": "1938.14668649 ℏ",
       "shibar_balance": 14887205.7693,
       "shibar_short_lock": 3876293.37298,
-      "shibar_long_lock": 11434384.421868311,
-      "rebalance": 423472.02554831095
+      "shibar_long_lock": 22445296.818188313,
+      "rebalance": 11434384.421868311
     },
     "0.0.724905": {
       "hbar_sent": "1222.00175832 ℏ",
       "shibar_balance": 9026977.62,
       "shibar_short_lock": 2444003.51664,
-      "shibar_long_lock": 7568788.696138478,
-      "rebalance": 985814.5927784797
+      "shibar_long_lock": 14151762.799498476,
+      "rebalance": 7568788.696138478
     },
     "0.0.6050": {
       "hbar_sent": "2600.00182267 ℏ",
       "shibar_balance": 19013565,
       "shibar_short_lock": 5200003.64534,
-      "shibar_long_lock": 16296550.044258552,
-      "rebalance": 2482988.689598553
+      "shibar_long_lock": 30110111.39891855,
+      "rebalance": 16296550.044258552
     },
     "0.0.508156": {
       "hbar_sent": "110.00086544 ℏ",
       "shibar_balance": 802371.4,
       "shibar_short_lock": 220001.73088,
-      "shibar_long_lock": 691528.788756672,
-      "rebalance": 109159.11963667197
+      "shibar_long_lock": 1273898.457876672,
+      "rebalance": 691528.788756672
     },
     "0.0.480508": {
       "hbar_sent": "350.00176999 ℏ",
       "shibar_balance": 2491476.5,
       "shibar_short_lock": 700003.53998,
-      "shibar_long_lock": 2261828.923205317,
-      "rebalance": 470355.9631853169
+      "shibar_long_lock": 4053301.883225317,
+      "rebalance": 2261828.923205317
     },
     "0.0.289304": {
       "hbar_sent": "50.00043429 ℏ",
       "shibar_balance": 354536,
       "shibar_short_lock": 100000.86858,
-      "shibar_long_lock": 324510.0959099394,
-      "rebalance": 69974.96448993939
+      "shibar_long_lock": 579045.2273299394,
+      "rebalance": 324510.0959099394
     },
     "0.0.632528": {
       "hbar_sent": "26.00087558 ℏ",
       "shibar_balance": 184347.33,
       "shibar_short_lock": 52001.75116,
-      "shibar_long_lock": 168765.4639896756,
-      "rebalance": 36419.885149675625
+      "shibar_long_lock": 301111.0428296756,
+      "rebalance": 168765.4639896756
     },
     "0.0.120681": {
       "hbar_sent": "1000.00087558 ℏ",
       "shibar_balance": 7081849,
       "shibar_short_lock": 2000001.75116,
-      "shibar_long_lock": 6498966.849132098,
-      "rebalance": 1417119.6002920978
+      "shibar_long_lock": 11580814.097972099,
+      "rebalance": 6498966.849132098
     },
     "0.0.612660": {
       "hbar_sent": "999.99987558 ℏ",
       "shibar_balance": 7081662.9183,
       "shibar_short_lock": 1999999.75116,
-      "shibar_long_lock": 6499139.35002814,
-      "rebalance": 1417476.18288814
+      "shibar_long_lock": 11580802.51716814,
+      "rebalance": 6499139.35002814
     },
     "0.0.505567": {
       "hbar_sent": "200.00043429 ℏ",
       "shibar_balance": 1416280,
       "shibar_short_lock": 400000.86858,
-      "shibar_long_lock": 1299886.6896177048,
-      "rebalance": 283607.55819770484
+      "shibar_long_lock": 2316165.8210377046,
+      "rebalance": 1299886.6896177048
     },
     "0.0.458156": {
       "hbar_sent": "43.00173716 ℏ",
       "shibar_balance": 304501.1,
       "shibar_short_lock": 86003.47432,
-      "shibar_long_lock": 279497.0622256298,
-      "rebalance": 60999.43654562981
+      "shibar_long_lock": 497994.6879056298,
+      "rebalance": 279497.0622256298
     },
     "0.0.243104": {
       "hbar_sent": "10999.00087701 ℏ",
       "shibar_balance": 77865565.7699,
       "shibar_short_lock": 21998001.75402,
-      "shibar_long_lock": 71509708.87521231,
-      "rebalance": 15642144.859332323
+      "shibar_long_lock": 127377272.8910923,
+      "rebalance": 71509708.87521231
     },
     "0.0.93907": {
       "hbar_sent": "10007.00088482 ℏ",
       "shibar_balance": 70830128.32,
       "shibar_short_lock": 20014001.76964,
-      "shibar_long_lock": 65072988.90479101,
-      "rebalance": 14256862.354431018
+      "shibar_long_lock": 115889115.45515099,
+      "rebalance": 65072988.90479101
     },
     "0.0.271496": {
       "hbar_sent": "716.90174432 ℏ",
       "shibar_balance": 5068510.676,
       "shibar_short_lock": 1433803.48864,
-      "shibar_long_lock": 4667591.370795274,
-      "rebalance": 1032884.1834352743
+      "shibar_long_lock": 8302298.558155275,
+      "rebalance": 4667591.370795274
     },
     "0.0.653423": {
       "hbar_sent": "4499.00044004 ℏ",
       "shibar_balance": 31799785.81,
       "shibar_short_lock": 8998000.88008,
-      "shibar_long_lock": 29300257.17337188,
-      "rebalance": 6498472.243451882
+      "shibar_long_lock": 52102042.103291884,
+      "rebalance": 29300257.17337188
     },
     "0.0.642980": {
       "hbar_sent": "500.00133173 ℏ",
       "shibar_balance": 3435815,
       "shibar_short_lock": 1000002.66346,
-      "shibar_long_lock": 3354605.0649899393,
-      "rebalance": 918792.7284499388
+      "shibar_long_lock": 5790417.40152994,
+      "rebalance": 3354605.0649899393
     },
     "0.0.1142": {
       "hbar_sent": "8.0018078 ℏ",
       "shibar_balance": 54189.7796,
       "shibar_short_lock": 16003.6156,
-      "shibar_long_lock": 54481.20344180951,
-      "rebalance": 16295.039441809517
+      "shibar_long_lock": 92667.36744180952,
+      "rebalance": 54481.20344180951
     },
     "0.0.722288": {
       "hbar_sent": "49913.00274165 ℏ",
       "shibar_balance": 329250474.42,
       "shibar_short_lock": 99826005.4833,
-      "shibar_long_lock": 348608230.7720491,
-      "rebalance": 119183761.83534914
+      "shibar_long_lock": 578032699.7087492,
+      "rebalance": 348608230.7720491
     },
     "0.0.637839": {
       "hbar_sent": "250.00095589 ℏ",
       "shibar_balance": 1547472,
       "shibar_short_lock": 500001.91178,
-      "shibar_long_lock": 1847741.971267638,
-      "rebalance": 800271.883047638
+      "shibar_long_lock": 2895212.0594876376,
+      "rebalance": 1847741.971267638
     },
     "0.0.618512": {
       "hbar_sent": "100.00050576 ℏ",
       "shibar_balance": 612096,
       "shibar_short_lock": 200001.01152,
-      "shibar_long_lock": 745991.2644325867,
-      "rebalance": 333896.2759525867
+      "shibar_long_lock": 1158086.2529125868,
+      "rebalance": 745991.2644325867
     },
     "0.0.600791": {
       "hbar_sent": "2800.00137442 ℏ",
       "shibar_balance": 15664358,
       "shibar_short_lock": 5600002.74884,
-      "shibar_long_lock": 22361911.748273525,
-      "rebalance": 12297556.497113526
+      "shibar_long_lock": 32426266.99943352,
+      "rebalance": 22361911.748273525
     },
     "0.0.93834": {
       "hbar_sent": "18505.00466459 ℏ",
       "shibar_balance": 101273332,
       "shibar_short_lock": 37010009.32918,
-      "shibar_long_lock": 150039508.59263036,
-      "rebalance": 85776185.92181036
+      "shibar_long_lock": 214302831.26345035,
+      "rebalance": 150039508.59263036
     },
     "0.0.58031": {
       "hbar_sent": "450.00043476 ℏ",
       "shibar_balance": 2129710.5,
       "shibar_short_lock": 900000.86952,
-      "shibar_long_lock": 3981657.185513624,
-      "rebalance": 2751947.555033624
+      "shibar_long_lock": 5211366.815993624,
+      "rebalance": 3981657.185513624
     },
     "0.0.108625": {
       "hbar_sent": "2000.00087255 ℏ",
       "shibar_balance": 9462936.4,
       "shibar_short_lock": 4000001.7451,
-      "shibar_long_lock": 17698683.366034035,
-      "rebalance": 12235748.711134033
+      "shibar_long_lock": 23161618.020934038,
+      "rebalance": 17698683.366034035
     },
     "0.0.724857": {
       "hbar_sent": "128.78086952 ℏ",
       "shibar_balance": 609236.5107,
       "shibar_short_lock": 257561.73904,
-      "shibar_long_lock": 1139711.231798564,
-      "rebalance": 788036.460138564
+      "shibar_long_lock": 1491386.0034585642,
+      "rebalance": 1139711.231798564
     },
     "0.0.50163": {
       "hbar_sent": "10000.00043846 ℏ",
       "shibar_balance": 47289597,
       "shibar_short_lock": 20000000.87692,
-      "shibar_long_lock": 88518448.53515698,
-      "rebalance": 61228852.41207698
+      "shibar_long_lock": 115808044.65823697,
+      "rebalance": 88518448.53515698
     },
     "0.0.281445": {
       "hbar_sent": "10.00043463 ℏ",
       "shibar_balance": 47273.2,
       "shibar_short_lock": 20000.86926,
-      "shibar_long_lock": 88540.74220534197,
-      "rebalance": 61268.41146534197
+      "shibar_long_lock": 115813.07294534196,
+      "rebalance": 88540.74220534197
     },
     "0.0.360340": {
       "hbar_sent": "4300.00043476 ℏ",
       "shibar_balance": 20300859,
       "shibar_short_lock": 8600000.86952,
-      "shibar_long_lock": 38096603.92401292,
-      "rebalance": 26395745.793532923
+      "shibar_long_lock": 49797462.05449292,
+      "rebalance": 38096603.92401292
     },
     "0.0.622222": {
       "hbar_sent": "4050.00221725 ℏ",
       "shibar_balance": 16992864.5,
       "shibar_short_lock": 8100004.4345,
-      "shibar_long_lock": 38009421.64214724,
-      "rebalance": 29116561.576647244
+      "shibar_long_lock": 46902281.70764724,
+      "rebalance": 38009421.64214724
     },
     "0.0.454804": {
       "hbar_sent": "106.00139144 ℏ",
       "shibar_balance": 415908.1199,
       "shibar_short_lock": 212002.78288,
-      "shibar_long_lock": 1023675.996527347,
-      "rebalance": 819770.659507347
+      "shibar_long_lock": 1227581.333547347,
+      "rebalance": 1023675.996527347
     },
     "0.0.726504": {
       "hbar_sent": "2152.73960205 ℏ",
       "shibar_balance": 8421838.1848,
       "shibar_short_lock": 4305479.2041,
-      "shibar_long_lock": 20814096.32337543,
-      "rebalance": 16697737.34267543
+      "shibar_long_lock": 24930455.304075435,
+      "rebalance": 20814096.32337543
     },
     "0.0.726494": {
       "hbar_sent": "999.00052383 ℏ",
       "shibar_balance": 3908237.85,
       "shibar_short_lock": 1998001.04766,
-      "shibar_long_lock": 9658992.418126253,
-      "rebalance": 7748755.615786254
+      "shibar_long_lock": 11569229.220466252,
+      "rebalance": 9658992.418126253
     },
     "0.0.422222": {
       "hbar_sent": "500.00104766 ℏ",
       "shibar_balance": 1956064.95,
       "shibar_short_lock": 1000002.09532,
-      "shibar_long_lock": 4834351.257090959,
-      "rebalance": 3878288.402410959
+      "shibar_long_lock": 5790414.111770959,
+      "rebalance": 4834351.257090959
     },
     "0.0.513362": {
       "hbar_sent": "240.91592403 ℏ",
       "shibar_balance": 942429.5664,
       "shibar_short_lock": 481831.84806,
-      "shibar_long_lock": 2329402.3682243233,
-      "rebalance": 1868804.6498843236
+      "shibar_long_lock": 2790000.086564323,
+      "rebalance": 2329402.3682243233
     },
     "0.0.482874": {
       "hbar_sent": "250.00052528 ℏ",
       "shibar_balance": 977352.5,
       "shibar_short_lock": 500001.05056,
-      "shibar_long_lock": 2417855.6232376453,
-      "rebalance": 1940504.1737976451
+      "shibar_long_lock": 2895207.0726776454,
+      "rebalance": 2417855.6232376453
     },
     "0.0.653987": {
       "hbar_sent": "9.80052528 ℏ",
       "shibar_balance": 38312.218,
       "shibar_short_lock": 19601.05056,
-      "shibar_long_lock": 94786.79451361042,
-      "rebalance": 76075.62707361043
+      "shibar_long_lock": 113497.96195361041,
+      "rebalance": 94786.79451361042
     },
     "0.0.454785": {
       "hbar_sent": "550.00105056 ℏ",
       "shibar_balance": 2148908.5,
       "shibar_short_lock": 1100002.10112,
-      "shibar_long_lock": 5320547.944377879,
-      "rebalance": 4271641.545497878
+      "shibar_long_lock": 6369454.343257879,
+      "rebalance": 5320547.944377879
     },
     "0.0.726459": {
       "hbar_sent": "5998.00052953 ℏ",
       "shibar_balance": 23429686.5,
       "shibar_short_lock": 11996001.05906,
-      "shibar_long_lock": 58027982.83183763,
-      "rebalance": 46594297.39089763
+      "shibar_long_lock": 69461668.27277762,
+      "rebalance": 58027982.83183763
     },
     "0.0.726278": {
       "hbar_sent": "6000.00105723 ℏ",
       "shibar_balance": 23435480,
       "shibar_short_lock": 12000002.11446,
-      "shibar_long_lock": 58049358.106343985,
-      "rebalance": 46613880.22080399
+      "shibar_long_lock": 69484835.99188398,
+      "rebalance": 58049358.106343985
     },
     "0.0.726407": {
       "hbar_sent": "99.73105906 ℏ",
       "shibar_balance": 389113.7812,
       "shibar_short_lock": 199462.11812,
-      "shibar_long_lock": 965314.1804227427,
-      "rebalance": 775662.5173427425
+      "shibar_long_lock": 1154965.8435027427,
+      "rebalance": 965314.1804227427
     },
     "0.0.726420": {
       "hbar_sent": "2000.00052953 ℏ",
       "shibar_balance": 7802220,
       "shibar_short_lock": 4000001.05906,
-      "shibar_long_lock": 19359395.107546657,
-      "rebalance": 15557176.166606657
+      "shibar_long_lock": 23161614.048486657,
+      "rebalance": 19359395.107546657
     },
     "0.0.726362": {
       "hbar_sent": "1043.00158676 ℏ",
       "shibar_balance": 4068655.31,
       "shibar_short_lock": 2086003.17352,
-      "shibar_long_lock": 10096144.767724482,
-      "rebalance": 8113492.6312444825
+      "shibar_long_lock": 12078796.904204482,
+      "rebalance": 10096144.767724482
     },
     "0.0.726412": {
       "hbar_sent": "2990.00105906 ℏ",
       "shibar_balance": 11663507.9,
       "shibar_short_lock": 5980002.11812,
-      "shibar_long_lock": 28943110.31746103,
-      "rebalance": 23259604.53558103
+      "shibar_long_lock": 34626616.09934103,
+      "rebalance": 28943110.31746103
     },
     "0.0.726373": {
       "hbar_sent": "544.00105906 ℏ",
       "shibar_balance": 2121685.59,
       "shibar_short_lock": 1088002.11812,
-      "shibar_long_lock": 5266286.146066402,
-      "rebalance": 4232602.674186402
+      "shibar_long_lock": 6299969.617946402,
+      "rebalance": 5266286.146066402
     },
     "0.0.725831": {
       "hbar_sent": "5260.00253533 ℏ",
       "shibar_balance": 20499581.13,
       "shibar_short_lock": 10520005.07066,
-      "shibar_long_lock": 50935482.12117201,
-      "rebalance": 40955906.06183201
+      "shibar_long_lock": 60915058.180512,
+      "rebalance": 50935482.12117201
     },
     "0.0.427173": {
       "hbar_sent": "500.0004752 ℏ",
       "shibar_balance": 1947965,
       "shibar_short_lock": 1000000.9504,
-      "shibar_long_lock": 4842443.432623926,
-      "rebalance": 3894479.383023925
+      "shibar_long_lock": 5790407.482223926,
+      "rebalance": 4842443.432623926
     },
     "0.0.662034": {
       "hbar_sent": "697.00052528 ℏ",
       "shibar_balance": 2715344.72,
       "shibar_short_lock": 1394001.05056,
-      "shibar_long_lock": 6750482.772486785,
-      "rebalance": 5429139.103046784
+      "shibar_long_lock": 8071826.441926787,
+      "rebalance": 6750482.772486785
     },
     "0.0.726404": {
       "hbar_sent": "240.00052953 ℏ",
       "shibar_balance": 934981.4,
       "shibar_short_lock": 480001.05906,
-      "shibar_long_lock": 2324418.7413755446,
-      "rebalance": 1869438.4004355446
+      "shibar_long_lock": 2779399.0823155446,
+      "rebalance": 2324418.7413755446
     },
     "0.0.701923": {
       "hbar_sent": "201.00157584 ℏ",
       "shibar_balance": 782638.76,
       "shibar_short_lock": 402003.15168,
-      "shibar_long_lock": 1947124.236742515,
-      "rebalance": 1566488.6284225148
+      "shibar_long_lock": 2327759.8450625148,
+      "rebalance": 1947124.236742515
     },
     "0.0.726521": {
       "hbar_sent": "49.70052383 ℏ",
       "shibar_balance": 193515.393,
       "shibar_short_lock": 99401.04766,
-      "shibar_long_lock": 481457.67774771026,
-      "rebalance": 387343.33240771026
+      "shibar_long_lock": 575572.0230877103,
+      "rebalance": 481457.67774771026
     },
     "0.0.482186": {
       "hbar_sent": "87.00103926 ℏ",
       "shibar_balance": 338645.53,
       "shibar_short_lock": 174002.07852,
-      "shibar_long_lock": 842898.5283368253,
-      "rebalance": 678255.0768568253
+      "shibar_long_lock": 1007541.9798168254,
+      "rebalance": 842898.5283368253
     },
     "0.0.725580": {
       "hbar_sent": "12880.00257501 ℏ",
       "shibar_balance": 50134061.4,
       "shibar_short_lock": 25760005.15002,
-      "shibar_long_lock": 124786728.55041279,
-      "rebalance": 100412672.30043277
+      "shibar_long_lock": 149160784.80039278,
+      "rebalance": 124786728.55041279
     },
     "0.0.636273": {
       "hbar_sent": "2500.00051963 ℏ",
       "shibar_balance": 9728950,
       "shibar_short_lock": 5000001.03926,
-      "shibar_long_lock": 24223066.952122584,
-      "rebalance": 19494117.991382584
+      "shibar_long_lock": 28952015.912862584,
+      "rebalance": 24223066.952122584
     },
     "0.0.585529": {
       "hbar_sent": "699.69951963 ℏ",
       "shibar_balance": 2722934.6344,
       "shibar_short_lock": 1399399.03926,
-      "shibar_long_lock": 6779547.371238026,
-      "rebalance": 5456011.776098026
+      "shibar_long_lock": 8103082.966378026,
+      "rebalance": 6779547.371238026
     },
     "0.0.726495": {
       "hbar_sent": "310.00104766 ℏ",
       "shibar_balance": 1206124.8,
       "shibar_short_lock": 620002.09532,
-      "shibar_long_lock": 3003938.6550611225,
-      "rebalance": 2417815.9503811225
+      "shibar_long_lock": 3590061.359741123,
+      "rebalance": 3003938.6550611225
     },
     "0.0.615987": {
       "hbar_sent": "10.00042903 ℏ",
       "shibar_balance": 38889.1,
       "shibar_short_lock": 20000.85806,
-      "shibar_long_lock": 96924.7661528398,
-      "rebalance": 78036.52421283981
+      "shibar_long_lock": 115813.0080928398,
+      "rebalance": 96924.7661528398
     },
     "0.0.620714": {
       "hbar_sent": "100.00052348 ℏ",
       "shibar_balance": 388261,
       "shibar_short_lock": 200001.04696,
-      "shibar_long_lock": 969826.5050844329,
-      "rebalance": 781566.5520444328
+      "shibar_long_lock": 1158086.458124433,
+      "rebalance": 969826.5050844329
     },
     "0.0.581850": {
       "hbar_sent": "500.00052348 ℏ",
       "shibar_balance": 1941270,
       "shibar_short_lock": 1000001.04696,
-      "shibar_long_lock": 4849139.08830514,
-      "rebalance": 3907870.13526514
+      "shibar_long_lock": 5790408.04134514,
+      "rebalance": 4849139.08830514
     },
     "0.0.726406": {
       "hbar_sent": "200.0005277 ℏ",
       "shibar_balance": 776508,
       "shibar_short_lock": 400001.0554,
-      "shibar_long_lock": 1939659.9582006026,
-      "rebalance": 1563153.0136006027
+      "shibar_long_lock": 2316166.902800603,
+      "rebalance": 1939659.9582006026
     },
     "0.0.208775": {
       "hbar_sent": "8773.72001032 ℏ",
       "shibar_balance": 34048435.4239,
       "shibar_short_lock": 17547440.02064,
-      "shibar_long_lock": 85105736.01909187,
-      "rebalance": 68604740.61583188
+      "shibar_long_lock": 101606731.42235188,
+      "rebalance": 85105736.01909187
     },
     "0.0.475962": {
       "hbar_sent": "750.0015622 ℏ",
       "shibar_balance": 2909204,
       "shibar_short_lock": 1500003.1244,
-      "shibar_long_lock": 7276420.18447077,
-      "rebalance": 5867219.30887077
+      "shibar_long_lock": 8685621.060070768,
+      "rebalance": 7276420.18447077
     },
     "0.0.231224": {
       "hbar_sent": "1000.00104696 ℏ",
       "shibar_balance": 3878900,
       "shibar_short_lock": 2000002.09392,
-      "shibar_long_lock": 9701918.17661028,
-      "rebalance": 7823020.27053028
+      "shibar_long_lock": 11580816.08269028,
+      "rebalance": 9701918.17661028
     },
     "0.0.456097": {
       "hbar_sent": "200.00052348 ℏ",
       "shibar_balance": 775670,
       "shibar_short_lock": 400001.04696,
-      "shibar_long_lock": 1940497.9008896097,
-      "rebalance": 1564828.94784961
+      "shibar_long_lock": 2316166.85392961,
+      "rebalance": 1940497.9008896097
     },
     "0.0.590448": {
       "hbar_sent": "499.00158493 ℏ",
       "shibar_balance": 1934781.17,
       "shibar_short_lock": 998003.16986,
-      "shibar_long_lock": 4842061.52969145,
-      "rebalance": 3905283.52955145
+      "shibar_long_lock": 5778839.52983145,
+      "rebalance": 4842061.52969145
     },
     "0.0.325127": {
       "hbar_sent": "550.00157838 ℏ",
       "shibar_balance": 2131369.5,
       "shibar_short_lock": 1100003.15676,
-      "shibar_long_lock": 5338094.112597824,
-      "rebalance": 4306727.769357824
+      "shibar_long_lock": 6369460.455837824,
+      "rebalance": 5338094.112597824
     },
     "0.0.610927": {
       "hbar_sent": "500.00104314 ℏ",
       "shibar_balance": 1571002,
       "shibar_short_lock": 1000002.08628,
-      "shibar_long_lock": 5219414.145705725,
-      "rebalance": 4648414.231985725
+      "shibar_long_lock": 5790414.059425725,
+      "rebalance": 5219414.145705725
     },
     "0.0.515468": {
       "hbar_sent": "1006.30157897 ℏ",
       "shibar_balance": 3016146.0799,
       "shibar_short_lock": 2012603.15794,
-      "shibar_long_lock": 10650238.386769522,
-      "rebalance": 9646695.464809522
+      "shibar_long_lock": 11653781.308729522,
+      "rebalance": 10650238.386769522
     },
     "0.0.600199": {
       "hbar_sent": "400.00086544 ℏ",
       "shibar_balance": 1179396,
       "shibar_short_lock": 800001.73088,
-      "shibar_long_lock": 4252937.336591685,
-      "rebalance": 3873543.067471685
+      "shibar_long_lock": 4632331.6057116855,
+      "rebalance": 4252937.336591685
     },
     "0.0.724890": {
       "hbar_sent": "495.00174472 ℏ",
       "shibar_balance": 1436534.15,
       "shibar_short_lock": 990003.48944,
-      "shibar_long_lock": 5285987.503935908,
-      "rebalance": 4839456.843375908
+      "shibar_long_lock": 5732518.164495908,
+      "rebalance": 5285987.503935908
     },
     "0.0.726596": {
       "hbar_sent": "9900.0020957 ℏ",
       "shibar_balance": 27377651,
       "shibar_short_lock": 19800004.1914,
-      "shibar_long_lock": 107072336.64600337,
-      "rebalance": 99494689.83740336
+      "shibar_long_lock": 114649983.45460337,
+      "rebalance": 107072336.64600337
     },
     "0.0.724002": {
       "hbar_sent": "297.00136054 ℏ",
       "shibar_balance": 768947.45,
       "shibar_short_lock": 594002.72108,
-      "shibar_long_lock": 3264569.802768393,
-      "rebalance": 3089625.073848393
+      "shibar_long_lock": 3439514.5316883926,
+      "rebalance": 3264569.802768393
     },
     "0.0.634576": {
       "hbar_sent": "10190.50628161 ℏ",
       "shibar_balance": 24085311.423,
       "shibar_short_lock": 20381012.56322,
-      "shibar_long_lock": 114309956.6208405,
-      "rebalance": 110605657.7610605
+      "shibar_long_lock": 118014255.4806205,
+      "rebalance": 114309956.6208405
     },
     "0.0.512836": {
       "hbar_sent": "2000.00043129 ℏ",
       "shibar_balance": 4703180,
       "shibar_short_lock": 4000000.86258,
-      "shibar_long_lock": 22458433.773368478,
-      "rebalance": 21755254.63594848
+      "shibar_long_lock": 23161612.910788476,
+      "rebalance": 22458433.773368478
     },
     "0.0.13280": {
       "hbar_sent": "5000.00086952 ℏ",
       "shibar_balance": 11751412.1,
       "shibar_short_lock": 10000001.73904,
-      "shibar_long_lock": 56152619.49903951,
-      "rebalance": 54401209.13807951
+      "shibar_long_lock": 57904029.85999951,
+      "rebalance": 56152619.49903951
     },
     "0.0.124390": {
       "hbar_sent": "1100.00043129 ℏ",
       "shibar_balance": 2585308,
       "shibar_short_lock": 2200000.86258,
-      "shibar_long_lock": 12353582.211121885,
-      "rebalance": 11968275.073701885
+      "shibar_long_lock": 12738889.348541886,
+      "rebalance": 12353582.211121885
     },
     "0.0.455364": {
       "hbar_sent": "297.57042661 ℏ",
       "shibar_balance": 697057.725,
       "shibar_short_lock": 595140.85322,
-      "shibar_long_lock": 3344187.9025042416,
-      "rebalance": 3242271.0307242414
+      "shibar_long_lock": 3446104.7742842417,
+      "rebalance": 3344187.9025042416
     },
     "0.0.481349": {
       "hbar_sent": "60.0015375 ℏ",
       "shibar_balance": 139610.9,
       "shibar_short_lock": 120003.075,
-      "shibar_long_lock": 675258.2179691916,
-      "rebalance": 655650.3929691915
+      "shibar_long_lock": 694866.0429691917,
+      "rebalance": 675258.2179691916
     },
     "0.0.589369": {
       "hbar_sent": "150.00050703 ℏ",
       "shibar_balance": 326007.675,
       "shibar_short_lock": 300001.01406,
-      "shibar_long_lock": 1711119.8045827963,
-      "rebalance": 1685113.1436427962
+      "shibar_long_lock": 1737126.4655227964,
+      "rebalance": 1711119.8045827963
     },
     "0.0.726587": {
       "hbar_sent": "1600.00101557 ℏ",
       "shibar_balance": 3352743,
       "shibar_short_lock": 3200002.03114,
-      "shibar_long_lock": 18376557.125139907,
-      "rebalance": 18223816.156279907
+      "shibar_long_lock": 18529298.093999907,
+      "rebalance": 18376557.125139907
     },
     "0.0.725718": {
       "hbar_sent": "300.00050984 ℏ",
       "shibar_balance": 627042,
       "shibar_short_lock": 600001.01968,
-      "shibar_long_lock": 3447206.111452621,
-      "rebalance": 3420165.131132621
+      "shibar_long_lock": 3474247.091772621,
+      "rebalance": 3447206.111452621
     },
     "0.0.620808": {
       "hbar_sent": "616.64107728 ℏ",
       "shibar_balance": 1288851.1406,
       "shibar_short_lock": 1233282.15456,
-      "shibar_long_lock": 7085630.44242153,
-      "rebalance": 7030061.45638153
+      "shibar_long_lock": 7141199.428461531,
+      "rebalance": 7085630.44242153
     },
     "0.0.615215": {
       "hbar_sent": "50.00050576 ℏ",
       "shibar_balance": 103658.5,
       "shibar_short_lock": 100001.01152,
-      "shibar_long_lock": 575388.5665299982,
-      "rebalance": 571731.0780499983
+      "shibar_long_lock": 579046.0550099981,
+      "rebalance": 575388.5665299982
     },
     "0.0.708074": {
       "hbar_sent": "1463.00759563 ℏ",
       "shibar_balance": 2997661.145,
       "shibar_short_lock": 2926015.19126,
-      "shibar_long_lock": 16871158.200391706,
-      "rebalance": 16799512.246651705
+      "shibar_long_lock": 16942804.154131707,
+      "rebalance": 16871158.200391706
     },
     "0.0.725662": {
       "hbar_sent": "995.00097818 ℏ",
       "shibar_balance": 2035153.65,
       "shibar_short_lock": 1990001.95636,
-      "shibar_long_lock": 11477759.572732326,
-      "rebalance": 11432607.879092325
+      "shibar_long_lock": 11522911.266372327,
+      "rebalance": 11477759.572732326
     },
     "0.0.535093": {
       "hbar_sent": "500.00049375 ℏ",
       "shibar_balance": 1022480,
       "shibar_short_lock": 1000000.9875,
-      "shibar_long_lock": 5767928.684547839,
-      "rebalance": 5745449.672047839
+      "shibar_long_lock": 5790407.697047839,
+      "rebalance": 5767928.684547839
     },
     "0.0.726513": {
       "hbar_sent": "737.0010394 ℏ",
       "shibar_balance": 1501165.27,
       "shibar_short_lock": 1474002.0788,
-      "shibar_long_lock": 8507901.362971788,
-      "rebalance": 8480738.171771789
+      "shibar_long_lock": 8535064.554171788,
+      "rebalance": 8507901.362971788
     },
     "0.0.726401": {
       "hbar_sent": "1490.00051931 ℏ",
       "shibar_balance": 3024625.5,
       "shibar_short_lock": 2980001.03862,
-      "shibar_long_lock": 17210779.450144436,
-      "rebalance": 17166154.988764435
+      "shibar_long_lock": 17255403.911524437,
+      "rebalance": 17210779.450144436
     },
     "0.0.726511": {
       "hbar_sent": "929.84155793 ℏ",
       "shibar_balance": 1882819.32,
       "shibar_short_lock": 1859683.11586,
-      "shibar_long_lock": 10745176.590296766,
-      "rebalance": 10722040.386156766
+      "shibar_long_lock": 10768312.794436766,
+      "rebalance": 10745176.590296766
     },
     "0.0.726625": {
       "hbar_sent": "1588.00103862 ℏ",
       "shibar_balance": 3210378.91,
       "shibar_short_lock": 3176002.07724,
-      "shibar_long_lock": 18355951.880680814,
-      "rebalance": 18321575.047920816
+      "shibar_long_lock": 18390328.713440813,
+      "rebalance": 18355951.880680814
     },
     "0.0.597763": {
       "hbar_sent": "7308.01030941 ℏ",
       "shibar_balance": 14625603.82,
       "shibar_short_lock": 14616020.61882,
-      "shibar_long_lock": 84623051.51551846,
-      "rebalance": 84613468.31433845
+      "shibar_long_lock": 84632634.71669845,
+      "rebalance": 84623051.51551846
     },
     "0.0.490215": {
       "hbar_sent": "500.00051515 ℏ",
       "shibar_balance": 998299,
       "shibar_short_lock": 1000001.0303,
-      "shibar_long_lock": 5792109.975177043,
-      "rebalance": 5793812.005477043
+      "shibar_long_lock": 5790407.944877043,
+      "rebalance": 5792109.975177043
     },
     "0.0.726619": {
       "hbar_sent": "1022.00155793 ℏ",
       "shibar_balance": 2040498.22,
       "shibar_short_lock": 2044003.11586,
-      "shibar_long_lock": 11839104.583070818,
-      "rebalance": 11842609.478930818
+      "shibar_long_lock": 11835599.687210819,
+      "rebalance": 11839104.583070818
     },
     "0.0.205729": {
       "hbar_sent": "50.00051983 ℏ",
       "shibar_balance": 99826,
       "shibar_short_lock": 100001.03966,
-      "shibar_long_lock": 579221.2576119099,
-      "rebalance": 579396.2972719099
+      "shibar_long_lock": 579046.2179519099,
+      "rebalance": 579221.2576119099
     },
     "0.0.488925": {
       "hbar_sent": "49.00052603 ℏ",
       "shibar_balance": 97315.47,
       "shibar_short_lock": 98001.05206,
-      "shibar_long_lock": 568151.0678548428,
-      "rebalance": 568836.6499148428
+      "shibar_long_lock": 567465.4857948427,
+      "rebalance": 568151.0678548428
     },
     "0.0.726593": {
       "hbar_sent": "450.00052182 ℏ",
       "shibar_balance": 888592.5,
       "shibar_short_lock": 900001.04364,
-      "shibar_long_lock": 5222776.367858417,
-      "rebalance": 5234184.911498417
+      "shibar_long_lock": 5211367.8242184175,
+      "rebalance": 5222776.367858417
     },
     "0.0.706203": {
       "hbar_sent": "219.73787561 ℏ",
       "shibar_balance": 433106.7191,
       "shibar_short_lock": 439475.75122,
-      "shibar_long_lock": 2551110.291718175,
-      "rebalance": 2557479.3238381753
+      "shibar_long_lock": 2544741.259598175,
+      "rebalance": 2551110.291718175
     },
     "0.0.725943": {
       "hbar_sent": "1350.00052603 ℏ",
       "shibar_balance": 2650603.5,
       "shibar_short_lock": 2700001.05206,
-      "shibar_long_lock": 15683488.987280196,
-      "rebalance": 15732886.539340194
+      "shibar_long_lock": 15634091.435220197,
+      "rebalance": 15683488.987280196
     },
     "0.0.726582": {
       "hbar_sent": "370.00104364 ℏ",
       "shibar_balance": 726305.1,
       "shibar_short_lock": 740002.08728,
-      "shibar_long_lock": 4298606.537949397,
-      "rebalance": 4312303.525229397
+      "shibar_long_lock": 4284909.550669397,
+      "rebalance": 4298606.537949397
     },
     "0.0.726559": {
       "hbar_sent": "451.00105206 ℏ",
       "shibar_balance": 885242.13,
       "shibar_short_lock": 902002.10412,
-      "shibar_long_lock": 5239714.742901959,
-      "rebalance": 5256474.71702196
+      "shibar_long_lock": 5222954.768781959,
+      "rebalance": 5239714.742901959
     },
     "0.0.454451": {
       "hbar_sent": "40.00052182 ℏ",
       "shibar_balance": 78513.2,
       "shibar_short_lock": 80001.04364,
-      "shibar_long_lock": 464726.04505719215,
-      "rebalance": 466213.88869719213
+      "shibar_long_lock": 463238.2014171922,
+      "rebalance": 464726.04505719215
     },
     "0.0.515817": {
       "hbar_sent": "550.00052603 ℏ",
       "shibar_balance": 1078775.5,
       "shibar_short_lock": 1100001.05206,
-      "shibar_long_lock": 6390673.820838778,
-      "rebalance": 6411899.372898778
+      "shibar_long_lock": 6369448.268778779,
+      "rebalance": 6390673.820838778
     },
     "0.0.481936": {
       "hbar_sent": "250.00052182 ℏ",
       "shibar_balance": 490352.5,
       "shibar_short_lock": 500001.04364,
-      "shibar_long_lock": 2904855.5762480632,
-      "rebalance": 2914504.119888063
+      "shibar_long_lock": 2895207.0326080634,
+      "rebalance": 2904855.5762480632
     },
     "0.0.616912": {
       "hbar_sent": "400.00052182 ℏ",
       "shibar_balance": 784384,
       "shibar_short_lock": 800001.04364,
-      "shibar_long_lock": 4647944.669955829,
-      "rebalance": 4663561.713595829
+      "shibar_long_lock": 4632327.626315829,
+      "rebalance": 4647944.669955829
     },
     "0.0.724877": {
       "hbar_sent": "204.00130203 ℏ",
       "shibar_balance": 58943.44,
       "shibar_short_lock": 408002.60406,
-      "shibar_long_lock": 2711558.250056738,
-      "rebalance": 3060617.414116738
+      "shibar_long_lock": 2362499.085996738,
+      "rebalance": 2711558.250056738
     },
     "0.0.726939": {
       "hbar_sent": "100.00049773 ℏ",
       "shibar_balance": 0,
       "shibar_short_lock": 200000.99546,
-      "shibar_long_lock": 1358087.155378731,
-      "rebalance": 1558088.1508387309
+      "shibar_long_lock": 1158086.159918731,
+      "rebalance": 1358087.155378731
     },
     "0.0.726512": {
       "hbar_sent": "2999.00047887 ℏ",
       "shibar_balance": 0,
       "shibar_short_lock": 5998000.95774,
-      "shibar_long_lock": 40728837.57363685,
-      "rebalance": 46726838.53137685
+      "shibar_long_lock": 34730836.61589685,
+      "rebalance": 40728837.57363685
     },
     "0.0.725433": {
       "hbar_sent": "50.00047186 ℏ",
       "shibar_balance": 0,
       "shibar_short_lock": 100000.94372,
-      "shibar_long_lock": 679046.606140744,
-      "rebalance": 779047.549860744
+      "shibar_long_lock": 579045.6624207441,
+      "rebalance": 679046.606140744
     },
     "0.0.688593": {
       "hbar_sent": "400.00049449 ℏ",
       "shibar_balance": 0,
       "shibar_short_lock": 800000.98898,
-      "shibar_long_lock": 5432328.298792457,
-      "rebalance": 6232329.287772457
+      "shibar_long_lock": 4632327.309812457,
+      "rebalance": 5432328.298792457
     },
     "0.0.659028": {
       "hbar_sent": "229.10178289 ℏ",
       "shibar_balance": 0,
       "shibar_short_lock": 458203.56578,
-      "shibar_long_lock": 3111386.399869229,
-      "rebalance": 3569589.965649229
+      "shibar_long_lock": 2653182.8340892293,
+      "rebalance": 3111386.399869229
     },
     "0.0.636857": {
       "hbar_sent": "47.000872 ℏ",
       "shibar_balance": 0,
       "shibar_short_lock": 94001.744,
-      "shibar_long_lock": 638309.6284894847,
-      "rebalance": 732311.3724894847
+      "shibar_long_lock": 544307.8844894846,
+      "rebalance": 638309.6284894847
     },
     "0.0.635729": {
       "hbar_sent": "50.00049694 ℏ",
       "shibar_balance": 0,
       "shibar_short_lock": 100000.99388,
-      "shibar_long_lock": 679046.9467473073,
-      "rebalance": 779047.9406273073
+      "shibar_long_lock": 579045.9528673074,
+      "rebalance": 679046.9467473073
     },
     "0.0.619680": {
       "hbar_sent": "500.000436 ℏ",
       "shibar_balance": 0,
       "shibar_short_lock": 1000000.872,
-      "shibar_long_lock": 6790407.90025641,
-      "rebalance": 7790408.77225641
+      "shibar_long_lock": 5790407.028256411,
+      "rebalance": 6790407.90025641
     },
     "0.0.132174": {
       "hbar_sent": "10.00049773 ℏ",
       "shibar_balance": 0,
       "shibar_short_lock": 20000.99546,
-      "shibar_long_lock": 135814.79915407172,
-      "rebalance": 155815.79461407172
+      "shibar_long_lock": 115813.80369407171,
+      "rebalance": 135814.79915407172
     }
   }
 }
