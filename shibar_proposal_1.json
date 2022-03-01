@@ -1,4 +1,20 @@
 {
+  "results": {
+    "option_1": {
+      "votes": 32,
+      "weight": 17320773481648,
+      "percentage": 37.58659208867471
+    },
+    "option_2": {
+      "votes": 23,
+      "weight": 28761546088013,
+      "percentage": 62.41340791132529
+    },
+    "winner": "Option 2",
+    "invalid": [
+      "0.0.706018"
+    ]
+  },
   "votes": {
     "0.0.13280": [
       {
@@ -1585,22 +1601,6 @@
         },
         "status": "VALID (LATEST VOTE SENT)"
       }
-    ]
-  },
-  "results": {
-    "option_1": {
-      "votes": 32,
-      "weight": 17320773481648,
-      "percentage": 37.58659208867471
-    },
-    "option_2": {
-      "votes": 23,
-      "weight": 28761546088013,
-      "percentage": 62.41340791132529
-    },
-    "winner": "Option 2",
-    "invalid": [
-      "0.0.706018"
     ]
   }
 }
