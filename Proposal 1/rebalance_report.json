@@ -1,0 +1,6030 @@
+{
+  "report": {
+    "usd_total": 164135.796,
+    "hbar_total": 728538.1918,
+    "shibar_distributed": 10000000000
+  },
+  "holders": [
+    {
+      "wallet": "0.0.106186",
+      "usd_total": 5159.0003,
+      "shibar_payout": 314312930.252,
+      "short_lock": 51590003,
+      "long_lock": 262722927.252,
+      "payments": [
+        {
+          "transaction_id": "0.0.106186-1645610236-269033303",
+          "hbar_amount": 2000.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 469.0001
+        },
+        {
+          "transaction_id": "0.0.106186-1645609947-139444351",
+          "hbar_amount": 15000.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 3517.5001
+        },
+        {
+          "transaction_id": "0.0.106186-1645608767-044839066",
+          "hbar_amount": 5000.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 1172.5001
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.108625",
+      "usd_total": 474.4002,
+      "shibar_payout": 28902909.1497,
+      "short_lock": 4744002,
+      "long_lock": 24158907.1497,
+      "payments": [
+        {
+          "transaction_id": "0.0.108625-1645621322-746966449",
+          "hbar_amount": 1990.0004,
+          "hbar_price": 0.2372,
+          "usd_total": 472.0281
+        },
+        {
+          "transaction_id": "0.0.108625-1645621111-778956590",
+          "hbar_amount": 10.0004,
+          "hbar_price": 0.2372,
+          "usd_total": 2.3721
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.109376",
+      "usd_total": 26.0642,
+      "shibar_payout": 1587965.6135,
+      "short_lock": 260642,
+      "long_lock": 1327323.6135,
+      "payments": [
+        {
+          "transaction_id": "0.0.109376-1645617793-315797590",
+          "hbar_amount": 107.0004,
+          "hbar_price": 0.2372,
+          "usd_total": 25.3805
+        },
+        {
+          "transaction_id": "0.0.109376-1645587061-176856949",
+          "hbar_amount": 1.0004,
+          "hbar_price": 0.2278,
+          "usd_total": 0.2279
+        },
+        {
+          "transaction_id": "0.0.109376-1645586740-968789179",
+          "hbar_amount": 1.0004,
+          "hbar_price": 0.2278,
+          "usd_total": 0.2279
+        },
+        {
+          "transaction_id": "0.0.109376-1645586620-610255449",
+          "hbar_amount": 1.0004,
+          "hbar_price": 0.2278,
+          "usd_total": 0.2279
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.1142",
+      "usd_total": 1.7539,
+      "shibar_payout": 106856.6419,
+      "short_lock": 17539,
+      "long_lock": 89317.642,
+      "payments": [
+        {
+          "transaction_id": "0.0.1142-1645728098-033872590",
+          "hbar_amount": 5.0005,
+          "hbar_price": 0.2103,
+          "usd_total": 1.0516
+        },
+        {
+          "transaction_id": "0.0.1142-1645630336-197612949",
+          "hbar_amount": 1.0004,
+          "hbar_price": 0.2303,
+          "usd_total": 0.2304
+        },
+        {
+          "transaction_id": "0.0.1142-1645621069-025187179",
+          "hbar_amount": 1.0004,
+          "hbar_price": 0.2372,
+          "usd_total": 0.2373
+        },
+        {
+          "transaction_id": "0.0.1142-1645617638-641824590",
+          "hbar_amount": 1.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 0.2346
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.120681",
+      "usd_total": 237.2002,
+      "shibar_payout": 14451460.6674,
+      "short_lock": 2372002,
+      "long_lock": 12079458.6674,
+      "payments": [
+        {
+          "transaction_id": "0.0.120681-1645619933-576652449",
+          "hbar_amount": 500.0004,
+          "hbar_price": 0.2372,
+          "usd_total": 118.6001
+        },
+        {
+          "transaction_id": "0.0.120681-1645619506-674338590",
+          "hbar_amount": 500.0004,
+          "hbar_price": 0.2372,
+          "usd_total": 118.6001
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.124390",
+      "usd_total": 257.6201,
+      "shibar_payout": 15695546.3877,
+      "short_lock": 2576201,
+      "long_lock": 13119345.3877,
+      "payments": [
+        {
+          "transaction_id": "0.0.124390-1645624084-206042721",
+          "hbar_amount": 1100.0004,
+          "hbar_price": 0.2342,
+          "usd_total": 257.6201
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.132174",
+      "usd_total": 2.1031,
+      "shibar_payout": 128131.7087,
+      "short_lock": 21031,
+      "long_lock": 107100.7087,
+      "payments": [
+        {
+          "transaction_id": "0.0.132174-1645728694-312457179",
+          "hbar_amount": 10.0005,
+          "hbar_price": 0.2103,
+          "usd_total": 2.1031
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.13280",
+      "usd_total": 1171.0002,
+      "shibar_payout": 71343377.1631,
+      "short_lock": 11710002,
+      "long_lock": 59633375.1631,
+      "payments": [
+        {
+          "transaction_id": "0.0.13280-1645624071-735186063",
+          "hbar_amount": 4990.0004,
+          "hbar_price": 0.2342,
+          "usd_total": 1168.6581
+        },
+        {
+          "transaction_id": "0.0.13280-1645623969-991320949",
+          "hbar_amount": 10.0004,
+          "hbar_price": 0.2342,
+          "usd_total": 2.3421
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.151226",
+      "usd_total": 138.2528,
+      "shibar_payout": 8423074.2696,
+      "short_lock": 1382528,
+      "long_lock": 7040546.2696,
+      "payments": [
+        {
+          "transaction_id": "0.0.151226-1645727748-951385222",
+          "hbar_amount": 100.0005,
+          "hbar_price": 0.2103,
+          "usd_total": 21.0301
+        },
+        {
+          "transaction_id": "0.0.151226-1645639388-478378445",
+          "hbar_amount": 100.0004,
+          "hbar_price": 0.2282,
+          "usd_total": 22.8201
+        },
+        {
+          "transaction_id": "0.0.151226-1645633419-391295685",
+          "hbar_amount": 200.0004,
+          "hbar_price": 0.2353,
+          "usd_total": 47.0601
+        },
+        {
+          "transaction_id": "0.0.151226-1645633157-214873269",
+          "hbar_amount": 201.2004,
+          "hbar_price": 0.2353,
+          "usd_total": 47.3425
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.152825",
+      "usd_total": 1163.8232,
+      "shibar_payout": 70906117.2738,
+      "short_lock": 11638232,
+      "long_lock": 59267885.2738,
+      "payments": [
+        {
+          "transaction_id": "0.0.152825-1645604235-492518069",
+          "hbar_amount": 5000.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 1161.5001
+        },
+        {
+          "transaction_id": "0.0.152825-1645603900-241718935",
+          "hbar_amount": 10.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 2.3231
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.204362",
+      "usd_total": 137.783,
+      "shibar_payout": 8394451.6283,
+      "short_lock": 1377830,
+      "long_lock": 7016621.6283,
+      "payments": [
+        {
+          "transaction_id": "0.0.204362-1645642712-479579369",
+          "hbar_amount": 300.0004,
+          "hbar_price": 0.2282,
+          "usd_total": 68.4601
+        },
+        {
+          "transaction_id": "0.0.204362-1645632069-845634251",
+          "hbar_amount": 190.0004,
+          "hbar_price": 0.2303,
+          "usd_total": 43.7571
+        },
+        {
+          "transaction_id": "0.0.204362-1645631603-242781174",
+          "hbar_amount": 100.0004,
+          "hbar_price": 0.2303,
+          "usd_total": 23.0301
+        },
+        {
+          "transaction_id": "0.0.204362-1645631547-936336894",
+          "hbar_amount": 10.0004,
+          "hbar_price": 0.2303,
+          "usd_total": 2.3031
+        },
+        {
+          "transaction_id": "0.0.204362-1645626965-916848335",
+          "hbar_amount": 1.0004,
+          "hbar_price": 0.2325,
+          "usd_total": 0.2326
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.205729",
+      "usd_total": 10.2051,
+      "shibar_payout": 621747.3731,
+      "short_lock": 102051,
+      "long_lock": 519696.3731,
+      "payments": [
+        {
+          "transaction_id": "0.0.205729-1645715251-441552449",
+          "hbar_amount": 50.0005,
+          "hbar_price": 0.2041,
+          "usd_total": 10.2051
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.208775",
+      "usd_total": 1690.6958,
+      "shibar_payout": 103005915.9064,
+      "short_lock": 16906958,
+      "long_lock": 86098957.9064,
+      "payments": [
+        {
+          "transaction_id": "0.0.208775-1645699498-855646179",
+          "hbar_amount": 8773.72,
+          "hbar_price": 0.1927,
+          "usd_total": 1690.6958
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.216935",
+      "usd_total": 230.3001,
+      "shibar_payout": 14031070.9554,
+      "short_lock": 2303001,
+      "long_lock": 11728069.9554,
+      "payments": [
+        {
+          "transaction_id": "0.0.216935-1645630324-960493826",
+          "hbar_amount": 1000.0004,
+          "hbar_price": 0.2303,
+          "usd_total": 230.3001
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.220667",
+      "usd_total": 23.4501,
+      "shibar_payout": 1428701.1469,
+      "short_lock": 234501,
+      "long_lock": 1194200.1469,
+      "payments": [
+        {
+          "transaction_id": "0.0.220667-1645607385-631157428",
+          "hbar_amount": 100.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 23.4501
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.224534",
+      "usd_total": 23.4501,
+      "shibar_payout": 1428701.1469,
+      "short_lock": 234501,
+      "long_lock": 1194200.1469,
+      "payments": [
+        {
+          "transaction_id": "0.0.224534-1645609452-443065396",
+          "hbar_amount": 100.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 23.4501
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.231224",
+      "usd_total": 194.8002,
+      "shibar_payout": 11868233.7886,
+      "short_lock": 1948002,
+      "long_lock": 9920231.7886,
+      "payments": [
+        {
+          "transaction_id": "0.0.231224-1645700978-215724576",
+          "hbar_amount": 900.0005,
+          "hbar_price": 0.1948,
+          "usd_total": 175.3201
+        },
+        {
+          "transaction_id": "0.0.231224-1645700878-661601770",
+          "hbar_amount": 100.0005,
+          "hbar_price": 0.1948,
+          "usd_total": 19.4801
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.240740",
+      "usd_total": 230.3002,
+      "shibar_payout": 14031077.0479,
+      "short_lock": 2303002,
+      "long_lock": 11728075.0479,
+      "payments": [
+        {
+          "transaction_id": "0.0.240740-1645629433-575763881",
+          "hbar_amount": 900.0004,
+          "hbar_price": 0.2303,
+          "usd_total": 207.2701
+        },
+        {
+          "transaction_id": "0.0.240740-1645629375-070383396",
+          "hbar_amount": 100.0004,
+          "hbar_price": 0.2303,
+          "usd_total": 23.0301
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.243104",
+      "usd_total": 2608.963,
+      "shibar_payout": 158951494.0422,
+      "short_lock": 26089630,
+      "long_lock": 132861864.0422,
+      "payments": [
+        {
+          "transaction_id": "0.0.243104-1645618782-063066134",
+          "hbar_amount": 10989.0004,
+          "hbar_price": 0.2372,
+          "usd_total": 2606.5909
+        },
+        {
+          "transaction_id": "0.0.243104-1645618656-188648573",
+          "hbar_amount": 10.0004,
+          "hbar_price": 0.2372,
+          "usd_total": 2.3721
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.25207",
+      "usd_total": 4220.5116,
+      "shibar_payout": 257135353.948,
+      "short_lock": 42205116,
+      "long_lock": 214930237.948,
+      "payments": [
+        {
+          "transaction_id": "0.0.25207-1645728215-842824449",
+          "hbar_amount": 10.0005,
+          "hbar_price": 0.2103,
+          "usd_total": 2.1031
+        },
+        {
+          "transaction_id": "0.0.25207-1645710267-445357449",
+          "hbar_amount": 4000.0005,
+          "hbar_price": 0.1966,
+          "usd_total": 786.4001
+        },
+        {
+          "transaction_id": "0.0.25207-1645710124-874505590",
+          "hbar_amount": 500.0005,
+          "hbar_price": 0.1966,
+          "usd_total": 98.3001
+        },
+        {
+          "transaction_id": "0.0.25207-1645604854-860517949",
+          "hbar_amount": 4340.8743,
+          "hbar_price": 0.2323,
+          "usd_total": 1008.3851
+        },
+        {
+          "transaction_id": "0.0.25207-1645604163-366656449",
+          "hbar_amount": 10000.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 2323.0001
+        },
+        {
+          "transaction_id": "0.0.25207-1645603982-182804590",
+          "hbar_amount": 10.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 2.3231
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.262277",
+      "usd_total": 234.7347,
+      "shibar_payout": 14301249.6799,
+      "short_lock": 2347347,
+      "long_lock": 11953902.6799,
+      "payments": [
+        {
+          "transaction_id": "0.0.262277-1645616991-875601853",
+          "hbar_amount": 1000.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 234.5001
+        },
+        {
+          "transaction_id": "0.0.262277-1645616868-482424036",
+          "hbar_amount": 1.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 0.2346
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.271496",
+      "usd_total": 167.1815,
+      "shibar_payout": 10185560.0103,
+      "short_lock": 1671815,
+      "long_lock": 8513745.0103,
+      "payments": [
+        {
+          "transaction_id": "0.0.271496-1645610646-864178698",
+          "hbar_amount": 496.9004,
+          "hbar_price": 0.2332,
+          "usd_total": 115.8772
+        },
+        {
+          "transaction_id": "0.0.271496-1645610582-318637138",
+          "hbar_amount": 200.0004,
+          "hbar_price": 0.2332,
+          "usd_total": 46.6401
+        },
+        {
+          "transaction_id": "0.0.271496-1645610513-658163463",
+          "hbar_amount": 10.0004,
+          "hbar_price": 0.2332,
+          "usd_total": 2.3321
+        },
+        {
+          "transaction_id": "0.0.271496-1645610495-594173079",
+          "hbar_amount": 10.0004,
+          "hbar_price": 0.2332,
+          "usd_total": 2.3321
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.281445",
+      "usd_total": 2.3451,
+      "shibar_payout": 142875.598,
+      "short_lock": 23451,
+      "long_lock": 119424.598,
+      "payments": [
+        {
+          "transaction_id": "0.0.281445-1645617308-871816449",
+          "hbar_amount": 10.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 2.3451
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.289304",
+      "usd_total": 11.8601,
+      "shibar_payout": 722578.5166,
+      "short_lock": 118601,
+      "long_lock": 603977.5166,
+      "payments": [
+        {
+          "transaction_id": "0.0.289304-1645620141-155633170",
+          "hbar_amount": 50.0004,
+          "hbar_price": 0.2372,
+          "usd_total": 11.8601
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.305873",
+      "usd_total": 24.309,
+      "shibar_payout": 1481029.7688,
+      "short_lock": 243090,
+      "long_lock": 1237939.7688,
+      "payments": [
+        {
+          "transaction_id": "0.0.305873-1645628675-278822483",
+          "hbar_amount": 20.0004,
+          "hbar_price": 0.2303,
+          "usd_total": 4.6061
+        },
+        {
+          "transaction_id": "0.0.305873-1645622288-032227965",
+          "hbar_amount": 66.0004,
+          "hbar_price": 0.2342,
+          "usd_total": 15.4573
+        },
+        {
+          "transaction_id": "0.0.305873-1645618544-697098448",
+          "hbar_amount": 9.0004,
+          "hbar_price": 0.2372,
+          "usd_total": 2.1349
+        },
+        {
+          "transaction_id": "0.0.305873-1645616088-967297765",
+          "hbar_amount": 8.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 1.8761
+        },
+        {
+          "transaction_id": "0.0.305873-1645615726-397129897",
+          "hbar_amount": 1.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 0.2346
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.316647",
+      "usd_total": 208.2361,
+      "shibar_payout": 12686818.1758,
+      "short_lock": 2082361,
+      "long_lock": 10604457.1758,
+      "payments": [
+        {
+          "transaction_id": "0.0.316647-1645607536-969389664",
+          "hbar_amount": 888.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 208.2361
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.325127",
+      "usd_total": 106.9603,
+      "shibar_payout": 6516573.6303,
+      "short_lock": 1069603,
+      "long_lock": 5446970.6303,
+      "payments": [
+        {
+          "transaction_id": "0.0.325127-1645702686-176849949",
+          "hbar_amount": 400.0005,
+          "hbar_price": 0.1948,
+          "usd_total": 77.9201
+        },
+        {
+          "transaction_id": "0.0.325127-1645698825-899292179",
+          "hbar_amount": 100.0005,
+          "hbar_price": 0.1927,
+          "usd_total": 19.2701
+        },
+        {
+          "transaction_id": "0.0.325127-1645689792-626300449",
+          "hbar_amount": 50.0005,
+          "hbar_price": 0.1954,
+          "usd_total": 9.7701
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.332052",
+      "usd_total": 10.4536,
+      "shibar_payout": 636887.2759,
+      "short_lock": 104536,
+      "long_lock": 532351.2759,
+      "payments": [
+        {
+          "transaction_id": "0.0.332052-1645605826-734338449",
+          "hbar_amount": 45.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 10.4536
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.333291",
+      "usd_total": 437.5502,
+      "shibar_payout": 26657816.9213,
+      "short_lock": 4375502,
+      "long_lock": 22282314.9213,
+      "payments": [
+        {
+          "transaction_id": "0.0.333291-1645666328-566770590",
+          "hbar_amount": 1500.0005,
+          "hbar_price": 0.2142,
+          "usd_total": 321.3001
+        },
+        {
+          "transaction_id": "0.0.333291-1645626366-694529179",
+          "hbar_amount": 500.0004,
+          "hbar_price": 0.2325,
+          "usd_total": 116.2501
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.354842",
+      "usd_total": 965.553,
+      "shibar_payout": 58826473.1723,
+      "short_lock": 9655530,
+      "long_lock": 49170943.1723,
+      "payments": [
+        {
+          "transaction_id": "0.0.354842-1645636759-968764590",
+          "hbar_amount": 2150.0004,
+          "hbar_price": 0.233,
+          "usd_total": 500.9501
+        },
+        {
+          "transaction_id": "0.0.354842-1645636110-927644590",
+          "hbar_amount": 50.0004,
+          "hbar_price": 0.233,
+          "usd_total": 11.6501
+        },
+        {
+          "transaction_id": "0.0.354842-1645635494-242650449",
+          "hbar_amount": 46.0004,
+          "hbar_price": 0.2353,
+          "usd_total": 10.8239
+        },
+        {
+          "transaction_id": "0.0.354842-1645633207-653015590",
+          "hbar_amount": 1800.0004,
+          "hbar_price": 0.2353,
+          "usd_total": 423.5401
+        },
+        {
+          "transaction_id": "0.0.354842-1645633110-885189590",
+          "hbar_amount": 79.0004,
+          "hbar_price": 0.2353,
+          "usd_total": 18.5888
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.35657",
+      "usd_total": 466.4207,
+      "shibar_payout": 28416756.8176,
+      "short_lock": 4664207,
+      "long_lock": 23752549.8176,
+      "payments": [
+        {
+          "transaction_id": "0.0.35657-1645614937-942763321",
+          "hbar_amount": 989.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 231.9206
+        },
+        {
+          "transaction_id": "0.0.35657-1645614454-952519655",
+          "hbar_amount": 1000.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 234.5001
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.356713",
+      "usd_total": 233.0001,
+      "shibar_payout": 14195568.8935,
+      "short_lock": 2330001,
+      "long_lock": 11865567.8935,
+      "payments": [
+        {
+          "transaction_id": "0.0.356713-1645637999-079951260",
+          "hbar_amount": 1000.0004,
+          "hbar_price": 0.233,
+          "usd_total": 233.0001
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.360340",
+      "usd_total": 1007.0601,
+      "shibar_payout": 61355299.9737,
+      "short_lock": 10070601,
+      "long_lock": 51284698.9737,
+      "payments": [
+        {
+          "transaction_id": "0.0.360340-1645622666-726488835",
+          "hbar_amount": 4300.0004,
+          "hbar_price": 0.2342,
+          "usd_total": 1007.0601
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.397088",
+      "usd_total": 1881.4609,
+      "shibar_payout": 114628310.5728,
+      "short_lock": 18814609,
+      "long_lock": 95813701.5728,
+      "payments": [
+        {
+          "transaction_id": "0.0.397088-1645728206-968824949",
+          "hbar_amount": 5.0005,
+          "hbar_price": 0.2103,
+          "usd_total": 1.0516
+        },
+        {
+          "transaction_id": "0.0.397088-1645727566-629629179",
+          "hbar_amount": 500.0005,
+          "hbar_price": 0.2103,
+          "usd_total": 105.1501
+        },
+        {
+          "transaction_id": "0.0.397088-1645716680-255398590",
+          "hbar_amount": 2990.0005,
+          "hbar_price": 0.2041,
+          "usd_total": 610.2591
+        },
+        {
+          "transaction_id": "0.0.397088-1645636675-623715590",
+          "hbar_amount": 5000.0004,
+          "hbar_price": 0.233,
+          "usd_total": 1165.0001
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.397546",
+      "usd_total": 1235.9603,
+      "shibar_payout": 75301081.7945,
+      "short_lock": 12359603,
+      "long_lock": 62941478.7945,
+      "payments": [
+        {
+          "transaction_id": "0.0.397546-1645613837-115022140",
+          "hbar_amount": 5000.0004,
+          "hbar_price": 0.2332,
+          "usd_total": 1166.0001
+        },
+        {
+          "transaction_id": "0.0.397546-1645610824-290655990",
+          "hbar_amount": 290.0004,
+          "hbar_price": 0.2332,
+          "usd_total": 67.6281
+        },
+        {
+          "transaction_id": "0.0.397546-1645610615-915120497",
+          "hbar_amount": 10.0004,
+          "hbar_price": 0.2332,
+          "usd_total": 2.3321
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.412535",
+      "usd_total": 1139.3402,
+      "shibar_payout": 69414486.5268,
+      "short_lock": 11393402,
+      "long_lock": 58021084.5268,
+      "payments": [
+        {
+          "transaction_id": "0.0.412535-1645655821-044639949",
+          "hbar_amount": 5000.0005,
+          "hbar_price": 0.2234,
+          "usd_total": 1117.0001
+        },
+        {
+          "transaction_id": "0.0.412535-1645654876-593755449",
+          "hbar_amount": 100.0005,
+          "hbar_price": 0.2234,
+          "usd_total": 22.3401
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.422222",
+      "usd_total": 98.3002,
+      "shibar_payout": 5988955.6328,
+      "short_lock": 983002,
+      "long_lock": 5005953.6328,
+      "payments": [
+        {
+          "transaction_id": "0.0.422222-1645710617-866663179",
+          "hbar_amount": 499.0005,
+          "hbar_price": 0.1966,
+          "usd_total": 98.1035
+        },
+        {
+          "transaction_id": "0.0.422222-1645709610-947006449",
+          "hbar_amount": 1.0005,
+          "hbar_price": 0.1966,
+          "usd_total": 0.1967
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.427173",
+      "usd_total": 100.0501,
+      "shibar_payout": 6095568.5742,
+      "short_lock": 1000501,
+      "long_lock": 5095067.5742,
+      "payments": [
+        {
+          "transaction_id": "0.0.427173-1645675125-149324389",
+          "hbar_amount": 500.0005,
+          "hbar_price": 0.2001,
+          "usd_total": 100.0501
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.427625",
+      "usd_total": 23.5301,
+      "shibar_payout": 1433575.1599,
+      "short_lock": 235301,
+      "long_lock": 1198274.1599,
+      "payments": [
+        {
+          "transaction_id": "0.0.427625-1645633265-834254634",
+          "hbar_amount": 100.0004,
+          "hbar_price": 0.2353,
+          "usd_total": 23.5301
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.428115",
+      "usd_total": 1189.3203,
+      "shibar_payout": 72459532.2278,
+      "short_lock": 11893203,
+      "long_lock": 60566329.2278,
+      "payments": [
+        {
+          "transaction_id": "0.0.428115-1645613734-273657544",
+          "hbar_amount": 4500.0004,
+          "hbar_price": 0.2332,
+          "usd_total": 1049.4001
+        },
+        {
+          "transaction_id": "0.0.428115-1645613374-905964567",
+          "hbar_amount": 500.0004,
+          "hbar_price": 0.2332,
+          "usd_total": 116.6001
+        },
+        {
+          "transaction_id": "0.0.428115-1645613074-641583077",
+          "hbar_amount": 100.0004,
+          "hbar_price": 0.2332,
+          "usd_total": 23.3201
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.433278",
+      "usd_total": 54.4113,
+      "shibar_payout": 3315017.28,
+      "short_lock": 544113,
+      "long_lock": 2770904.28,
+      "payments": [
+        {
+          "transaction_id": "0.0.433278-1645608790-701265426",
+          "hbar_amount": 24.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 5.6281
+        },
+        {
+          "transaction_id": "0.0.433278-1645604786-848929595",
+          "hbar_amount": 200.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 46.4601
+        },
+        {
+          "transaction_id": "0.0.433278-1645604695-242810935",
+          "hbar_amount": 10.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 2.3231
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.433328",
+      "usd_total": 232.6105,
+      "shibar_payout": 14171832.4502,
+      "short_lock": 2326105,
+      "long_lock": 11845727.4502,
+      "payments": [
+        {
+          "transaction_id": "0.0.433328-1645625883-096369305",
+          "hbar_amount": 450.0004,
+          "hbar_price": 0.2325,
+          "usd_total": 104.6251
+        },
+        {
+          "transaction_id": "0.0.433328-1645606925-344182303",
+          "hbar_amount": 100.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 23.4501
+        },
+        {
+          "transaction_id": "0.0.433328-1645606846-022355019",
+          "hbar_amount": 100.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 23.2301
+        },
+        {
+          "transaction_id": "0.0.433328-1645606732-297364855",
+          "hbar_amount": 150.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 34.8451
+        },
+        {
+          "transaction_id": "0.0.433328-1645605598-583771995",
+          "hbar_amount": 200.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 46.4601
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.434029",
+      "usd_total": 478.0602,
+      "shibar_payout": 29125895.2435,
+      "short_lock": 4780602,
+      "long_lock": 24345293.2435,
+      "payments": [
+        {
+          "transaction_id": "0.0.434029-1645612576-081271590",
+          "hbar_amount": 2000.0004,
+          "hbar_price": 0.2332,
+          "usd_total": 466.4001
+        },
+        {
+          "transaction_id": "0.0.434029-1645612441-618560449",
+          "hbar_amount": 50.0004,
+          "hbar_price": 0.2332,
+          "usd_total": 11.6601
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.438300",
+      "usd_total": 2.3301,
+      "shibar_payout": 141961.7205,
+      "short_lock": 23301,
+      "long_lock": 118660.7205,
+      "payments": [
+        {
+          "transaction_id": "0.0.438300-1645637533-251051899",
+          "hbar_amount": 10.0004,
+          "hbar_price": 0.233,
+          "usd_total": 2.3301
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.439737",
+      "usd_total": 1025.2001,
+      "shibar_payout": 62460482.4166,
+      "short_lock": 10252001,
+      "long_lock": 52208481.4166,
+      "payments": [
+        {
+          "transaction_id": "0.0.439737-1645639151-904881864",
+          "hbar_amount": 4400.0004,
+          "hbar_price": 0.233,
+          "usd_total": 1025.2001
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.443325",
+      "usd_total": 65.9401,
+      "shibar_payout": 4017411.2903,
+      "short_lock": 659401,
+      "long_lock": 3358010.2903,
+      "payments": [
+        {
+          "transaction_id": "0.0.443325-1645659729-500370781",
+          "hbar_amount": 300.0005,
+          "hbar_price": 0.2198,
+          "usd_total": 65.9401
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.445590",
+      "usd_total": 4234.0002,
+      "shibar_payout": 257957149.0914,
+      "short_lock": 42340002,
+      "long_lock": 215617147.0914,
+      "payments": [
+        {
+          "transaction_id": "0.0.445590-1645702763-234320948",
+          "hbar_amount": 10000.0005,
+          "hbar_price": 0.1948,
+          "usd_total": 1948.0001
+        },
+        {
+          "transaction_id": "0.0.445590-1645603019-315608295",
+          "hbar_amount": 10000.0004,
+          "hbar_price": 0.2286,
+          "usd_total": 2286.0001
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.452365",
+      "usd_total": 1043.0211,
+      "shibar_payout": 63546229.7328,
+      "short_lock": 10430211,
+      "long_lock": 53116018.7328,
+      "payments": [
+        {
+          "transaction_id": "0.0.452365-1645720168-711268807",
+          "hbar_amount": 100.0005,
+          "hbar_price": 0.2044,
+          "usd_total": 20.4401
+        },
+        {
+          "transaction_id": "0.0.452365-1645631765-105222586",
+          "hbar_amount": 2.0004,
+          "hbar_price": 0.2303,
+          "usd_total": 0.4607
+        },
+        {
+          "transaction_id": "0.0.452365-1645604542-835260996",
+          "hbar_amount": 30.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 6.9691
+        },
+        {
+          "transaction_id": "0.0.452365-1645603956-056849698",
+          "hbar_amount": 4340.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 1008.1821
+        },
+        {
+          "transaction_id": "0.0.452365-1645603777-457489015",
+          "hbar_amount": 30.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 6.9691
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.454313",
+      "usd_total": 464.6002,
+      "shibar_payout": 28305842.5598,
+      "short_lock": 4646002,
+      "long_lock": 23659840.5598,
+      "payments": [
+        {
+          "transaction_id": "0.0.454313-1645604004-829045009",
+          "hbar_amount": 1900.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 441.3701
+        },
+        {
+          "transaction_id": "0.0.454313-1645603882-604639326",
+          "hbar_amount": 100.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 23.2301
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.454451",
+      "usd_total": 7.9801,
+      "shibar_payout": 486188.8872,
+      "short_lock": 79801,
+      "long_lock": 406387.8872,
+      "payments": [
+        {
+          "transaction_id": "0.0.454451-1645713211-236194214",
+          "hbar_amount": 40.0005,
+          "hbar_price": 0.1995,
+          "usd_total": 7.9801
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.454500",
+      "usd_total": 23.2302,
+      "shibar_payout": 1415303.7038,
+      "short_lock": 232302,
+      "long_lock": 1183001.7038,
+      "payments": [
+        {
+          "transaction_id": "0.0.454500-1645606143-727180827",
+          "hbar_amount": 80.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 18.5841
+        },
+        {
+          "transaction_id": "0.0.454500-1645606001-413150898",
+          "hbar_amount": 20.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 4.6461
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.454647",
+      "usd_total": 23.2301,
+      "shibar_payout": 1415297.6113,
+      "short_lock": 232301,
+      "long_lock": 1182996.6113,
+      "payments": [
+        {
+          "transaction_id": "0.0.454647-1645604610-563634646",
+          "hbar_amount": 100.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 23.2301
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.454785",
+      "usd_total": 106.5352,
+      "shibar_payout": 6490674.3438,
+      "short_lock": 1065352,
+      "long_lock": 5425322.3438,
+      "payments": [
+        {
+          "transaction_id": "0.0.454785-1645707344-961114675",
+          "hbar_amount": 450.0005,
+          "hbar_price": 0.1937,
+          "usd_total": 87.1651
+        },
+        {
+          "transaction_id": "0.0.454785-1645707035-053530759",
+          "hbar_amount": 100.0005,
+          "hbar_price": 0.1937,
+          "usd_total": 19.3701
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.454786",
+      "usd_total": 464.6001,
+      "shibar_payout": 28305836.4673,
+      "short_lock": 4646001,
+      "long_lock": 23659835.4673,
+      "payments": [
+        {
+          "transaction_id": "0.0.454786-1645604632-469992507",
+          "hbar_amount": 2000.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 464.6001
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.454804",
+      "usd_total": 21.8221,
+      "shibar_payout": 1329514.9828,
+      "short_lock": 218221,
+      "long_lock": 1111293.9828,
+      "payments": [
+        {
+          "transaction_id": "0.0.454804-1645716064-789256870",
+          "hbar_amount": 100.0005,
+          "hbar_price": 0.2041,
+          "usd_total": 20.4101
+        },
+        {
+          "transaction_id": "0.0.454804-1645634373-538324754",
+          "hbar_amount": 5.0004,
+          "hbar_price": 0.2353,
+          "usd_total": 1.1766
+        },
+        {
+          "transaction_id": "0.0.454804-1645634252-504048763",
+          "hbar_amount": 1.0004,
+          "hbar_price": 0.2353,
+          "usd_total": 0.2354
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.454863",
+      "usd_total": 1130.3532,
+      "shibar_payout": 68866952.0937,
+      "short_lock": 11303532,
+      "long_lock": 57563420.0937,
+      "payments": [
+        {
+          "transaction_id": "0.0.454863-1645643113-347755485",
+          "hbar_amount": 5000.0004,
+          "hbar_price": 0.2256,
+          "usd_total": 1128.0001
+        },
+        {
+          "transaction_id": "0.0.454863-1645632316-494083795",
+          "hbar_amount": 10.0004,
+          "hbar_price": 0.2353,
+          "usd_total": 2.3531
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.454940",
+      "usd_total": 233.2001,
+      "shibar_payout": 14207753.9259,
+      "short_lock": 2332001,
+      "long_lock": 11875752.9259,
+      "payments": [
+        {
+          "transaction_id": "0.0.454940-1645612938-203578063",
+          "hbar_amount": 1000.0004,
+          "hbar_price": 0.2332,
+          "usd_total": 233.2001
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.455364",
+      "usd_total": 69.1851,
+      "shibar_payout": 4215113.4418,
+      "short_lock": 691851,
+      "long_lock": 3523262.4418,
+      "payments": [
+        {
+          "transaction_id": "0.0.455364-1645624932-322288296",
+          "hbar_amount": 297.5704,
+          "hbar_price": 0.2325,
+          "usd_total": 69.1851
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.456097",
+      "usd_total": 38.9601,
+      "shibar_payout": 2373650.4132,
+      "short_lock": 389601,
+      "long_lock": 1984049.4132,
+      "payments": [
+        {
+          "transaction_id": "0.0.456097-1645702508-330099019",
+          "hbar_amount": 200.0005,
+          "hbar_price": 0.1948,
+          "usd_total": 38.9601
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.458073",
+      "usd_total": 23.9817,
+      "shibar_payout": 1461088.9632,
+      "short_lock": 239817,
+      "long_lock": 1221271.9632,
+      "payments": [
+        {
+          "transaction_id": "0.0.458073-1645666629-072411004",
+          "hbar_amount": 1.0005,
+          "hbar_price": 0.2142,
+          "usd_total": 0.2143
+        },
+        {
+          "transaction_id": "0.0.458073-1645618462-267135752",
+          "hbar_amount": 1.0004,
+          "hbar_price": 0.2372,
+          "usd_total": 0.2373
+        },
+        {
+          "transaction_id": "0.0.458073-1645618197-269246237",
+          "hbar_amount": 30.0004,
+          "hbar_price": 0.2372,
+          "usd_total": 7.1161
+        },
+        {
+          "transaction_id": "0.0.458073-1645615399-339150412",
+          "hbar_amount": 64.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 15.0081
+        },
+        {
+          "transaction_id": "0.0.458073-1645614525-433834560",
+          "hbar_amount": 5.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 1.1726
+        },
+        {
+          "transaction_id": "0.0.458073-1645614097-001088727",
+          "hbar_amount": 1.0004,
+          "hbar_price": 0.2332,
+          "usd_total": 0.2333
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.458156",
+      "usd_total": 10.2,
+      "shibar_payout": 621436.6548,
+      "short_lock": 102000,
+      "long_lock": 519436.6548,
+      "payments": [
+        {
+          "transaction_id": "0.0.458156-1645619907-756292366",
+          "hbar_amount": 1.0004,
+          "hbar_price": 0.2372,
+          "usd_total": 0.2373
+        },
+        {
+          "transaction_id": "0.0.458156-1645619671-290573394",
+          "hbar_amount": 1.0004,
+          "hbar_price": 0.2372,
+          "usd_total": 0.2373
+        },
+        {
+          "transaction_id": "0.0.458156-1645619509-052817343",
+          "hbar_amount": 40.0004,
+          "hbar_price": 0.2372,
+          "usd_total": 9.4881
+        },
+        {
+          "transaction_id": "0.0.458156-1645619387-839070008",
+          "hbar_amount": 1.0004,
+          "hbar_price": 0.2372,
+          "usd_total": 0.2373
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.465176",
+      "usd_total": 4435.3555,
+      "shibar_payout": 270224753.4109,
+      "short_lock": 44353555,
+      "long_lock": 225871198.4109,
+      "payments": [
+        {
+          "transaction_id": "0.0.465176-1645718908-509845795",
+          "hbar_amount": 4900.0005,
+          "hbar_price": 0.2044,
+          "usd_total": 1001.5601
+        },
+        {
+          "transaction_id": "0.0.465176-1645632124-884894798",
+          "hbar_amount": 10000.0004,
+          "hbar_price": 0.2303,
+          "usd_total": 2303.0001
+        },
+        {
+          "transaction_id": "0.0.465176-1645629576-356095731",
+          "hbar_amount": 4300.0004,
+          "hbar_price": 0.2303,
+          "usd_total": 990.2901
+        },
+        {
+          "transaction_id": "0.0.465176-1645629182-968127950",
+          "hbar_amount": 600.0004,
+          "hbar_price": 0.2303,
+          "usd_total": 138.1801
+        },
+        {
+          "transaction_id": "0.0.465176-1645627029-728253429",
+          "hbar_amount": 10.0004,
+          "hbar_price": 0.2325,
+          "usd_total": 2.3251
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.466028",
+      "usd_total": 104.8653,
+      "shibar_payout": 6388935.4154,
+      "short_lock": 1048653,
+      "long_lock": 5340282.4154,
+      "payments": [
+        {
+          "transaction_id": "0.0.466028-1645606984-894425364",
+          "hbar_amount": 50.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 11.7251
+        },
+        {
+          "transaction_id": "0.0.466028-1645606895-686350981",
+          "hbar_amount": 100.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 23.4501
+        },
+        {
+          "transaction_id": "0.0.466028-1645606253-881933936",
+          "hbar_amount": 300.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 69.6901
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.467126",
+      "usd_total": 1.1171,
+      "shibar_payout": 68059.4987,
+      "short_lock": 11171,
+      "long_lock": 56888.4987,
+      "payments": [
+        {
+          "transaction_id": "0.0.467126-1645655721-947490231",
+          "hbar_amount": 5.0004,
+          "hbar_price": 0.2234,
+          "usd_total": 1.1171
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.467228",
+      "usd_total": 234.5001,
+      "shibar_payout": 14286956.6368,
+      "short_lock": 2345001,
+      "long_lock": 11941955.6368,
+      "payments": [
+        {
+          "transaction_id": "0.0.467228-1645616497-470682290",
+          "hbar_amount": 1000.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 234.5001
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.474514",
+      "usd_total": 4.4962,
+      "shibar_payout": 273931.7144,
+      "short_lock": 44962,
+      "long_lock": 228969.7144,
+      "payments": [
+        {
+          "transaction_id": "0.0.474514-1645650214-149634680",
+          "hbar_amount": 10.0005,
+          "hbar_price": 0.2214,
+          "usd_total": 2.2141
+        },
+        {
+          "transaction_id": "0.0.474514-1645641655-883477949",
+          "hbar_amount": 10.0004,
+          "hbar_price": 0.2282,
+          "usd_total": 2.2821
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.475962",
+      "usd_total": 145.2603,
+      "shibar_payout": 8850007.3439,
+      "short_lock": 1452603,
+      "long_lock": 7397404.3439,
+      "payments": [
+        {
+          "transaction_id": "0.0.475962-1645700846-968691005",
+          "hbar_amount": 350.0005,
+          "hbar_price": 0.1948,
+          "usd_total": 68.1801
+        },
+        {
+          "transaction_id": "0.0.475962-1645699388-400166345",
+          "hbar_amount": 300.0005,
+          "hbar_price": 0.1927,
+          "usd_total": 57.8101
+        },
+        {
+          "transaction_id": "0.0.475962-1645699174-083746857",
+          "hbar_amount": 100.0005,
+          "hbar_price": 0.1927,
+          "usd_total": 19.2701
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.481349",
+      "usd_total": 12.1373,
+      "shibar_payout": 739466.9716,
+      "short_lock": 121373,
+      "long_lock": 618093.9716,
+      "payments": [
+        {
+          "transaction_id": "0.0.481349-1645715759-086656794",
+          "hbar_amount": 30.0005,
+          "hbar_price": 0.2041,
+          "usd_total": 6.1231
+        },
+        {
+          "transaction_id": "0.0.481349-1645715439-649470092",
+          "hbar_amount": 20.0005,
+          "hbar_price": 0.2041,
+          "usd_total": 4.0821
+        },
+        {
+          "transaction_id": "0.0.481349-1645684731-745449769",
+          "hbar_amount": 10.0005,
+          "hbar_price": 0.1932,
+          "usd_total": 1.9321
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.481621",
+      "usd_total": 45.0001,
+      "shibar_payout": 2741638.3931,
+      "short_lock": 450001,
+      "long_lock": 2291637.3931,
+      "payments": [
+        {
+          "transaction_id": "0.0.481621-1645647187-958959232",
+          "hbar_amount": 200.0004,
+          "hbar_price": 0.225,
+          "usd_total": 45.0001
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.481936",
+      "usd_total": 49.8751,
+      "shibar_payout": 3038648.559,
+      "short_lock": 498751,
+      "long_lock": 2539897.559,
+      "payments": [
+        {
+          "transaction_id": "0.0.481936-1645712157-042267357",
+          "hbar_amount": 250.0005,
+          "hbar_price": 0.1995,
+          "usd_total": 49.8751
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.481938",
+      "usd_total": 75.0502,
+      "shibar_payout": 4572445.6108,
+      "short_lock": 750502,
+      "long_lock": 3821943.6108,
+      "payments": [
+        {
+          "transaction_id": "0.0.481938-1645638461-779591518",
+          "hbar_amount": 75.0004,
+          "hbar_price": 0.233,
+          "usd_total": 17.4751
+        },
+        {
+          "transaction_id": "0.0.481938-1645630085-297083118",
+          "hbar_amount": 250.0004,
+          "hbar_price": 0.2303,
+          "usd_total": 57.5751
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.482186",
+      "usd_total": 17.1044,
+      "shibar_payout": 1042088.3449,
+      "short_lock": 171044,
+      "long_lock": 871044.3449,
+      "payments": [
+        {
+          "transaction_id": "0.0.482186-1645708973-905079956",
+          "hbar_amount": 37.0005,
+          "hbar_price": 0.1966,
+          "usd_total": 7.2743
+        },
+        {
+          "transaction_id": "0.0.482186-1645708732-336709365",
+          "hbar_amount": 50.0005,
+          "hbar_price": 0.1966,
+          "usd_total": 9.8301
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.482874",
+      "usd_total": 48.4251,
+      "shibar_payout": 2950307.0738,
+      "short_lock": 484251,
+      "long_lock": 2466056.0738,
+      "payments": [
+        {
+          "transaction_id": "0.0.482874-1645704271-582560616",
+          "hbar_amount": 250.0005,
+          "hbar_price": 0.1937,
+          "usd_total": 48.4251
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.483509",
+      "usd_total": 236.6464,
+      "shibar_payout": 14417720.3125,
+      "short_lock": 2366464,
+      "long_lock": 12051256.3125,
+      "payments": [
+        {
+          "transaction_id": "0.0.483509-1645641240-666485601",
+          "hbar_amount": 932.0043,
+          "hbar_price": 0.2282,
+          "usd_total": 212.6834
+        },
+        {
+          "transaction_id": "0.0.483509-1645641110-873126394",
+          "hbar_amount": 100.0043,
+          "hbar_price": 0.2282,
+          "usd_total": 22.821
+        },
+        {
+          "transaction_id": "0.0.483509-1645640952-193944243",
+          "hbar_amount": 5.0043,
+          "hbar_price": 0.2282,
+          "usd_total": 1.142
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.484172",
+      "usd_total": 114.1001,
+      "shibar_payout": 6951567.1036,
+      "short_lock": 1141001,
+      "long_lock": 5810566.1036,
+      "payments": [
+        {
+          "transaction_id": "0.0.484172-1645640082-856150378",
+          "hbar_amount": 500.0004,
+          "hbar_price": 0.2282,
+          "usd_total": 114.1001
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.484262",
+      "usd_total": 23.5302,
+      "shibar_payout": 1433581.2524,
+      "short_lock": 235302,
+      "long_lock": 1198279.2524,
+      "payments": [
+        {
+          "transaction_id": "0.0.484262-1645633251-650198897",
+          "hbar_amount": 90.0004,
+          "hbar_price": 0.2353,
+          "usd_total": 21.1771
+        },
+        {
+          "transaction_id": "0.0.484262-1645633188-972341485",
+          "hbar_amount": 10.0004,
+          "hbar_price": 0.2353,
+          "usd_total": 2.3531
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.484491",
+      "usd_total": 225.9033,
+      "shibar_payout": 13763195.2021,
+      "short_lock": 2259033,
+      "long_lock": 11504162.2021,
+      "payments": [
+        {
+          "transaction_id": "0.0.484491-1645665784-884495969",
+          "hbar_amount": 500.0005,
+          "hbar_price": 0.2142,
+          "usd_total": 107.1001
+        },
+        {
+          "transaction_id": "0.0.484491-1645639275-153480912",
+          "hbar_amount": 500.0004,
+          "hbar_price": 0.233,
+          "usd_total": 116.5001
+        },
+        {
+          "transaction_id": "0.0.484491-1645631552-773428660",
+          "hbar_amount": 10.0004,
+          "hbar_price": 0.2303,
+          "usd_total": 2.3031
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.484814",
+      "usd_total": 3.765,
+      "shibar_payout": 229383.2358,
+      "short_lock": 37650,
+      "long_lock": 191733.2358,
+      "payments": [
+        {
+          "transaction_id": "0.0.484814-1645633578-011351291",
+          "hbar_amount": 15.0004,
+          "hbar_price": 0.2353,
+          "usd_total": 3.5296
+        },
+        {
+          "transaction_id": "0.0.484814-1645633496-957773140",
+          "hbar_amount": 1.0004,
+          "hbar_price": 0.2353,
+          "usd_total": 0.2354
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.488378",
+      "usd_total": 422.2178,
+      "shibar_payout": 25723687.9638,
+      "short_lock": 4222178,
+      "long_lock": 21501509.9638,
+      "payments": [
+        {
+          "transaction_id": "0.0.488378-1645648091-568821322",
+          "hbar_amount": 161.5115,
+          "hbar_price": 0.225,
+          "usd_total": 36.3401
+        },
+        {
+          "transaction_id": "0.0.488378-1645647517-292359858",
+          "hbar_amount": 224.3525,
+          "hbar_price": 0.225,
+          "usd_total": 50.4793
+        },
+        {
+          "transaction_id": "0.0.488378-1645629333-787440349",
+          "hbar_amount": 455.5556,
+          "hbar_price": 0.2303,
+          "usd_total": 104.9145
+        },
+        {
+          "transaction_id": "0.0.488378-1645602993-142555872",
+          "hbar_amount": 998.2404,
+          "hbar_price": 0.2286,
+          "usd_total": 228.1978
+        },
+        {
+          "transaction_id": "0.0.488378-1645602764-423028864",
+          "hbar_amount": 10.0004,
+          "hbar_price": 0.2286,
+          "usd_total": 2.2861
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.488925",
+      "usd_total": 9.7756,
+      "shibar_payout": 595580.016,
+      "short_lock": 97756,
+      "long_lock": 497824.016,
+      "payments": [
+        {
+          "transaction_id": "0.0.488925-1645714416-920788449",
+          "hbar_amount": 49.0005,
+          "hbar_price": 0.1995,
+          "usd_total": 9.7756
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.490215",
+      "usd_total": 99.7501,
+      "shibar_payout": 6077291.0255,
+      "short_lock": 997501,
+      "long_lock": 5079790.0255,
+      "payments": [
+        {
+          "transaction_id": "0.0.490215-1645714812-327944942",
+          "hbar_amount": 500.0005,
+          "hbar_price": 0.1995,
+          "usd_total": 99.7501
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.490839",
+      "usd_total": 108.5457,
+      "shibar_payout": 6613164.3825,
+      "short_lock": 1085457,
+      "long_lock": 5527707.3825,
+      "payments": [
+        {
+          "transaction_id": "0.0.490839-1645609347-491252937",
+          "hbar_amount": 200.8811,
+          "hbar_price": 0.2345,
+          "usd_total": 47.1066
+        },
+        {
+          "transaction_id": "0.0.490839-1645607617-549128484",
+          "hbar_amount": 262.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 61.4391
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.490906",
+      "usd_total": 23.2301,
+      "shibar_payout": 1415297.6113,
+      "short_lock": 232301,
+      "long_lock": 1182996.6113,
+      "payments": [
+        {
+          "transaction_id": "0.0.490906-1645606406-005570082",
+          "hbar_amount": 100.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 23.2301
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.50163",
+      "usd_total": 2372.0001,
+      "shibar_payout": 144514490.9158,
+      "short_lock": 23720001,
+      "long_lock": 120794489.9158,
+      "payments": [
+        {
+          "transaction_id": "0.0.50163-1645620308-427172590",
+          "hbar_amount": 10000.0004,
+          "hbar_price": 0.2372,
+          "usd_total": 2372.0001
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.505487",
+      "usd_total": 117.2501,
+      "shibar_payout": 7143481.3647,
+      "short_lock": 1172501,
+      "long_lock": 5970980.3647,
+      "payments": [
+        {
+          "transaction_id": "0.0.505487-1645614365-197963807",
+          "hbar_amount": 500.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 117.2501
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.505567",
+      "usd_total": 47.4401,
+      "shibar_payout": 2890295.789,
+      "short_lock": 474401,
+      "long_lock": 2415894.789,
+      "payments": [
+        {
+          "transaction_id": "0.0.505567-1645619464-159920847",
+          "hbar_amount": 200.0004,
+          "hbar_price": 0.2372,
+          "usd_total": 47.4401
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.506520",
+      "usd_total": 82.0751,
+      "shibar_payout": 5000438.783,
+      "short_lock": 820751,
+      "long_lock": 4179687.783,
+      "payments": [
+        {
+          "transaction_id": "0.0.506520-1645616796-145676016",
+          "hbar_amount": 350.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 82.0751
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.507293",
+      "usd_total": 446.8001,
+      "shibar_payout": 27221368.5795,
+      "short_lock": 4468001,
+      "long_lock": 22753367.5795,
+      "payments": [
+        {
+          "transaction_id": "0.0.507293-1645654354-496906274",
+          "hbar_amount": 2000.0004,
+          "hbar_price": 0.2234,
+          "usd_total": 446.8001
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.508156",
+      "usd_total": 26.0652,
+      "shibar_payout": 1588026.5387,
+      "short_lock": 260652,
+      "long_lock": 1327374.5387,
+      "payments": [
+        {
+          "transaction_id": "0.0.508156-1645619313-859914176",
+          "hbar_amount": 100.0004,
+          "hbar_price": 0.2372,
+          "usd_total": 23.7201
+        },
+        {
+          "transaction_id": "0.0.508156-1645617139-025413364",
+          "hbar_amount": 10.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 2.3451
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.508854",
+      "usd_total": 1.1766,
+      "shibar_payout": 71684.5459,
+      "short_lock": 11766,
+      "long_lock": 59918.5459,
+      "payments": [
+        {
+          "transaction_id": "0.0.508854-1645633660-318769931",
+          "hbar_amount": 5.0004,
+          "hbar_price": 0.2353,
+          "usd_total": 1.1766
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.509518",
+      "usd_total": 462.1423,
+      "shibar_payout": 28156094.6035,
+      "short_lock": 4621423,
+      "long_lock": 23534671.6035,
+      "payments": [
+        {
+          "transaction_id": "0.0.509518-1645645117-190714055",
+          "hbar_amount": 1000.0004,
+          "hbar_price": 0.2256,
+          "usd_total": 225.6001
+        },
+        {
+          "transaction_id": "0.0.509518-1645623159-917959919",
+          "hbar_amount": 1000.0004,
+          "hbar_price": 0.2342,
+          "usd_total": 234.2001
+        },
+        {
+          "transaction_id": "0.0.509518-1645622908-624967498",
+          "hbar_amount": 10.0004,
+          "hbar_price": 0.2342,
+          "usd_total": 2.3421
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.509965",
+      "usd_total": 111.7001,
+      "shibar_payout": 6805346.7143,
+      "short_lock": 1117001,
+      "long_lock": 5688345.7143,
+      "payments": [
+        {
+          "transaction_id": "0.0.509965-1645655267-756191563",
+          "hbar_amount": 500.0004,
+          "hbar_price": 0.2234,
+          "usd_total": 111.7001
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.510242",
+      "usd_total": 0.2146,
+      "shibar_payout": 13074.5398,
+      "short_lock": 2146,
+      "long_lock": 10928.5398,
+      "payments": [
+        {
+          "transaction_id": "0.0.510242-1645661427-497579462",
+          "hbar_amount": 1.0005,
+          "hbar_price": 0.2145,
+          "usd_total": 0.2146
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.512364",
+      "usd_total": 0.2257,
+      "shibar_payout": 13750.8091,
+      "short_lock": 2257,
+      "long_lock": 11493.8091,
+      "payments": [
+        {
+          "transaction_id": "0.0.512364-1645645993-792897449",
+          "hbar_amount": 1.0004,
+          "hbar_price": 0.2256,
+          "usd_total": 0.2257
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.512836",
+      "usd_total": 468.4001,
+      "shibar_payout": 28537352.0838,
+      "short_lock": 4684001,
+      "long_lock": 23853351.0838,
+      "payments": [
+        {
+          "transaction_id": "0.0.512836-1645623223-838386599",
+          "hbar_amount": 2000.0004,
+          "hbar_price": 0.2342,
+          "usd_total": 468.4001
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.513075",
+      "usd_total": 1120.7306,
+      "shibar_payout": 68280693.6276,
+      "short_lock": 11207306,
+      "long_lock": 57073387.6276,
+      "payments": [
+        {
+          "transaction_id": "0.0.513075-1645653072-797631626",
+          "hbar_amount": 2000.0005,
+          "hbar_price": 0.2214,
+          "usd_total": 442.8001
+        },
+        {
+          "transaction_id": "0.0.513075-1645632197-074042909",
+          "hbar_amount": 600.0004,
+          "hbar_price": 0.2353,
+          "usd_total": 141.1801
+        },
+        {
+          "transaction_id": "0.0.513075-1645614166-412673982",
+          "hbar_amount": 300.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 70.3501
+        },
+        {
+          "transaction_id": "0.0.513075-1645613598-268154874",
+          "hbar_amount": 1000.0004,
+          "hbar_price": 0.2332,
+          "usd_total": 233.2001
+        },
+        {
+          "transaction_id": "0.0.513075-1645612377-109435008",
+          "hbar_amount": 990.0004,
+          "hbar_price": 0.2332,
+          "usd_total": 230.8681
+        },
+        {
+          "transaction_id": "0.0.513075-1645612079-733818436",
+          "hbar_amount": 10.0004,
+          "hbar_price": 0.2332,
+          "usd_total": 2.3321
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.513362",
+      "usd_total": 47.3641,
+      "shibar_payout": 2885665.4767,
+      "short_lock": 473641,
+      "long_lock": 2412024.4767,
+      "payments": [
+        {
+          "transaction_id": "0.0.513362-1645710418-324949986",
+          "hbar_amount": 230.9154,
+          "hbar_price": 0.1966,
+          "usd_total": 45.398
+        },
+        {
+          "transaction_id": "0.0.513362-1645709859-030157488",
+          "hbar_amount": 10.0005,
+          "hbar_price": 0.1966,
+          "usd_total": 1.9661
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.513683",
+      "usd_total": 21.9801,
+      "shibar_payout": 1339141.1585,
+      "short_lock": 219801,
+      "long_lock": 1119340.1585,
+      "payments": [
+        {
+          "transaction_id": "0.0.513683-1645657951-506928992",
+          "hbar_amount": 100.0005,
+          "hbar_price": 0.2198,
+          "usd_total": 21.9801
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.514968",
+      "usd_total": 252.1717,
+      "shibar_payout": 15363601.7338,
+      "short_lock": 2521717,
+      "long_lock": 12841884.7338,
+      "payments": [
+        {
+          "transaction_id": "0.0.514968-1645640184-781769930",
+          "hbar_amount": 1100.0004,
+          "hbar_price": 0.2282,
+          "usd_total": 251.0201
+        },
+        {
+          "transaction_id": "0.0.514968-1645628870-529139471",
+          "hbar_amount": 5.0004,
+          "hbar_price": 0.2303,
+          "usd_total": 1.1516
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.515468",
+      "usd_total": 203.9206,
+      "shibar_payout": 12423895.6382,
+      "short_lock": 2039206,
+      "long_lock": 10384689.6382,
+      "payments": [
+        {
+          "transaction_id": "0.0.515468-1645727066-254389285",
+          "hbar_amount": 489.2086,
+          "hbar_price": 0.2103,
+          "usd_total": 102.8806
+        },
+        {
+          "transaction_id": "0.0.515468-1645692505-858522390",
+          "hbar_amount": 517.093,
+          "hbar_price": 0.1954,
+          "usd_total": 101.04
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.515817",
+      "usd_total": 109.7251,
+      "shibar_payout": 6685019.5188,
+      "short_lock": 1097251,
+      "long_lock": 5587768.5188,
+      "payments": [
+        {
+          "transaction_id": "0.0.515817-1645711776-667302179",
+          "hbar_amount": 550.0005,
+          "hbar_price": 0.1995,
+          "usd_total": 109.7251
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.517585",
+      "usd_total": 161.6778,
+      "shibar_payout": 9850246.1949,
+      "short_lock": 1616778,
+      "long_lock": 8233468.1949,
+      "payments": [
+        {
+          "transaction_id": "0.0.517585-1645637717-947774483",
+          "hbar_amount": 500.0004,
+          "hbar_price": 0.233,
+          "usd_total": 116.5001
+        },
+        {
+          "transaction_id": "0.0.517585-1645633957-828851171",
+          "hbar_amount": 192.0004,
+          "hbar_price": 0.2353,
+          "usd_total": 45.1777
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.518370",
+      "usd_total": 21.9801,
+      "shibar_payout": 1339141.1585,
+      "short_lock": 219801,
+      "long_lock": 1119340.1585,
+      "payments": [
+        {
+          "transaction_id": "0.0.518370-1645660166-776419780",
+          "hbar_amount": 100.0005,
+          "hbar_price": 0.2198,
+          "usd_total": 21.9801
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.518951",
+      "usd_total": 2226.7472,
+      "shibar_payout": 135664934.4181,
+      "short_lock": 22267472,
+      "long_lock": 113397462.4181,
+      "payments": [
+        {
+          "transaction_id": "0.0.518951-1645646808-385309155",
+          "hbar_amount": 6004.0004,
+          "hbar_price": 0.225,
+          "usd_total": 1350.9001
+        },
+        {
+          "transaction_id": "0.0.518951-1645637211-177806471",
+          "hbar_amount": 3759.0004,
+          "hbar_price": 0.233,
+          "usd_total": 875.8471
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.52165",
+      "usd_total": 184.3051,
+      "shibar_payout": 11228818.1184,
+      "short_lock": 1843051,
+      "long_lock": 9385767.1184,
+      "payments": [
+        {
+          "transaction_id": "0.0.52165-1645657014-895399179",
+          "hbar_amount": 825.0005,
+          "hbar_price": 0.2234,
+          "usd_total": 184.3051
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.523118",
+      "usd_total": 2323.2326,
+      "shibar_payout": 141543323.0665,
+      "short_lock": 23232326,
+      "long_lock": 118310997.0665,
+      "payments": [
+        {
+          "transaction_id": "0.0.523118-1645604934-684226360",
+          "hbar_amount": 5000.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 1161.5001
+        },
+        {
+          "transaction_id": "0.0.523118-1645604594-892436328",
+          "hbar_amount": 5000.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 1161.5001
+        },
+        {
+          "transaction_id": "0.0.523118-1645604502-494071612",
+          "hbar_amount": 1.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 0.2324
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.535093",
+      "usd_total": 105.1501,
+      "shibar_payout": 6406286.9016,
+      "short_lock": 1051501,
+      "long_lock": 5354785.9016,
+      "payments": [
+        {
+          "transaction_id": "0.0.535093-1645726482-321738491",
+          "hbar_amount": 500.0005,
+          "hbar_price": 0.2103,
+          "usd_total": 105.1501
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.540435",
+      "usd_total": 50.4886,
+      "shibar_payout": 3076026.1461,
+      "short_lock": 504886,
+      "long_lock": 2571140.1461,
+      "payments": [
+        {
+          "transaction_id": "0.0.540435-1645655918-373605674",
+          "hbar_amount": 216.0005,
+          "hbar_price": 0.2234,
+          "usd_total": 48.2545
+        },
+        {
+          "transaction_id": "0.0.540435-1645655781-557385216",
+          "hbar_amount": 10.0005,
+          "hbar_price": 0.2234,
+          "usd_total": 2.2341
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.540648",
+      "usd_total": 114.3001,
+      "shibar_payout": 6963752.1361,
+      "short_lock": 1143001,
+      "long_lock": 5820751.1361,
+      "payments": [
+        {
+          "transaction_id": "0.0.540648-1645603188-194506555",
+          "hbar_amount": 500.0004,
+          "hbar_price": 0.2286,
+          "usd_total": 114.3001
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.540754",
+      "usd_total": 57.0501,
+      "shibar_payout": 3475786.5981,
+      "short_lock": 570501,
+      "long_lock": 2905285.5981,
+      "payments": [
+        {
+          "transaction_id": "0.0.540754-1645642402-226080754",
+          "hbar_amount": 250.0004,
+          "hbar_price": 0.2282,
+          "usd_total": 57.0501
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.542474",
+      "usd_total": 155.5485,
+      "shibar_payout": 9476817.598,
+      "short_lock": 1555485,
+      "long_lock": 7921332.598,
+      "payments": [
+        {
+          "transaction_id": "0.0.542474-1645606579-286107638",
+          "hbar_amount": 389.6004,
+          "hbar_price": 0.2323,
+          "usd_total": 90.5042
+        },
+        {
+          "transaction_id": "0.0.542474-1645605787-999155944",
+          "hbar_amount": 180.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 41.8141
+        },
+        {
+          "transaction_id": "0.0.542474-1645605709-141774292",
+          "hbar_amount": 50.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 11.6151
+        },
+        {
+          "transaction_id": "0.0.542474-1645605612-972976213",
+          "hbar_amount": 50.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 11.6151
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.542623",
+      "usd_total": 232.0679,
+      "shibar_payout": 14138774.4572,
+      "short_lock": 2320679,
+      "long_lock": 11818095.4572,
+      "payments": [
+        {
+          "transaction_id": "0.0.542623-1645605409-697228902",
+          "hbar_amount": 899.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 208.8378
+        },
+        {
+          "transaction_id": "0.0.542623-1645604594-309273243",
+          "hbar_amount": 100.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 23.2301
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.551528",
+      "usd_total": 219.2082,
+      "shibar_payout": 13355295.1484,
+      "short_lock": 2192082,
+      "long_lock": 11163213.1484,
+      "payments": [
+        {
+          "transaction_id": "0.0.551528-1645612752-967988768",
+          "hbar_amount": 900.0004,
+          "hbar_price": 0.2332,
+          "usd_total": 209.8801
+        },
+        {
+          "transaction_id": "0.0.551528-1645612062-561278094",
+          "hbar_amount": 40.0004,
+          "hbar_price": 0.2332,
+          "usd_total": 9.3281
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.557223",
+      "usd_total": 197.8201,
+      "shibar_payout": 12052221.686,
+      "short_lock": 1978201,
+      "long_lock": 10074020.686,
+      "payments": [
+        {
+          "transaction_id": "0.0.557223-1645657473-924004162",
+          "hbar_amount": 900.0005,
+          "hbar_price": 0.2198,
+          "usd_total": 197.8201
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.568491",
+      "usd_total": 23.5301,
+      "shibar_payout": 1433575.1599,
+      "short_lock": 235301,
+      "long_lock": 1198274.1599,
+      "payments": [
+        {
+          "transaction_id": "0.0.568491-1645632475-358360773",
+          "hbar_amount": 100.0004,
+          "hbar_price": 0.2353,
+          "usd_total": 23.5301
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.577070",
+      "usd_total": 2.1981,
+      "shibar_payout": 133919.5991,
+      "short_lock": 21981,
+      "long_lock": 111938.5991,
+      "payments": [
+        {
+          "transaction_id": "0.0.577070-1645660046-145882108",
+          "hbar_amount": 10.0005,
+          "hbar_price": 0.2198,
+          "usd_total": 2.1981
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.58031",
+      "usd_total": 105.3901,
+      "shibar_payout": 6420908.9405,
+      "short_lock": 1053901,
+      "long_lock": 5367007.9405,
+      "payments": [
+        {
+          "transaction_id": "0.0.58031-1645622051-361236611",
+          "hbar_amount": 450.0004,
+          "hbar_price": 0.2342,
+          "usd_total": 105.3901
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.581850",
+      "usd_total": 97.4001,
+      "shibar_payout": 5934116.8943,
+      "short_lock": 974001,
+      "long_lock": 4960115.8943,
+      "payments": [
+        {
+          "transaction_id": "0.0.581850-1645702930-413802018",
+          "hbar_amount": 500.0005,
+          "hbar_price": 0.1948,
+          "usd_total": 97.4001
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.581943",
+      "usd_total": 117.2501,
+      "shibar_payout": 7143481.3647,
+      "short_lock": 1172501,
+      "long_lock": 5970980.3647,
+      "payments": [
+        {
+          "transaction_id": "0.0.581943-1645614416-212620963",
+          "hbar_amount": 500.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 117.2501
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.585529",
+      "usd_total": 137.5609,
+      "shibar_payout": 8380920.1498,
+      "short_lock": 1375609,
+      "long_lock": 7005311.1498,
+      "payments": [
+        {
+          "transaction_id": "0.0.585529-1645708653-680428036",
+          "hbar_amount": 699.6995,
+          "hbar_price": 0.1966,
+          "usd_total": 137.5609
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.589369",
+      "usd_total": 30.6601,
+      "shibar_payout": 1867971.5667,
+      "short_lock": 306601,
+      "long_lock": 1561370.5667,
+      "payments": [
+        {
+          "transaction_id": "0.0.589369-1645720942-803245972",
+          "hbar_amount": 150.0005,
+          "hbar_price": 0.2044,
+          "usd_total": 30.6601
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.590448",
+      "usd_total": 97.0955,
+      "shibar_payout": 5915559.0899,
+      "short_lock": 970955,
+      "long_lock": 4944604.0899,
+      "payments": [
+        {
+          "transaction_id": "0.0.590448-1645705450-257472590",
+          "hbar_amount": 100.0005,
+          "hbar_price": 0.1937,
+          "usd_total": 19.3701
+        },
+        {
+          "transaction_id": "0.0.590448-1645702859-189434449",
+          "hbar_amount": 389.0005,
+          "hbar_price": 0.1948,
+          "usd_total": 75.7773
+        },
+        {
+          "transaction_id": "0.0.590448-1645702633-783862590",
+          "hbar_amount": 10.0005,
+          "hbar_price": 0.1948,
+          "usd_total": 1.9481
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.591522",
+      "usd_total": 34.0927,
+      "shibar_payout": 2077103.2786,
+      "short_lock": 340927,
+      "long_lock": 1736176.2786,
+      "payments": [
+        {
+          "transaction_id": "0.0.591522-1645617071-630377449",
+          "hbar_amount": 145.3847,
+          "hbar_price": 0.2345,
+          "usd_total": 34.0927
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.596391",
+      "usd_total": 9.9091,
+      "shibar_payout": 603713.5251,
+      "short_lock": 99091,
+      "long_lock": 504622.5251,
+      "payments": [
+        {
+          "transaction_id": "0.0.596391-1645627762-833083398",
+          "hbar_amount": 40.0004,
+          "hbar_price": 0.2325,
+          "usd_total": 9.3001
+        },
+        {
+          "transaction_id": "0.0.596391-1645623607-204222944",
+          "hbar_amount": 2.6004,
+          "hbar_price": 0.2342,
+          "usd_total": 0.609
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.597763",
+      "usd_total": 1473.6145,
+      "shibar_payout": 89780202.4855,
+      "short_lock": 14736145,
+      "long_lock": 75044057.4855,
+      "payments": [
+        {
+          "transaction_id": "0.0.597763-1645720108-848290642",
+          "hbar_amount": 200.0005,
+          "hbar_price": 0.2044,
+          "usd_total": 40.8801
+        },
+        {
+          "transaction_id": "0.0.597763-1645719925-928275716",
+          "hbar_amount": 100.0005,
+          "hbar_price": 0.2044,
+          "usd_total": 20.4401
+        },
+        {
+          "transaction_id": "0.0.597763-1645719100-432635641",
+          "hbar_amount": 119.0005,
+          "hbar_price": 0.2044,
+          "usd_total": 24.3237
+        },
+        {
+          "transaction_id": "0.0.597763-1645718681-284955473",
+          "hbar_amount": 2000.0005,
+          "hbar_price": 0.2044,
+          "usd_total": 408.8001
+        },
+        {
+          "transaction_id": "0.0.597763-1645718440-983014259",
+          "hbar_amount": 80.0005,
+          "hbar_price": 0.2041,
+          "usd_total": 16.3281
+        },
+        {
+          "transaction_id": "0.0.597763-1645718165-641419899",
+          "hbar_amount": 50.0005,
+          "hbar_price": 0.2041,
+          "usd_total": 10.2051
+        },
+        {
+          "transaction_id": "0.0.597763-1645717925-465740747",
+          "hbar_amount": 150.0005,
+          "hbar_price": 0.2041,
+          "usd_total": 30.6151
+        },
+        {
+          "transaction_id": "0.0.597763-1645717852-931826488",
+          "hbar_amount": 74.0005,
+          "hbar_price": 0.2041,
+          "usd_total": 15.1035
+        },
+        {
+          "transaction_id": "0.0.597763-1645717777-037805079",
+          "hbar_amount": 125.0005,
+          "hbar_price": 0.2041,
+          "usd_total": 25.5126
+        },
+        {
+          "transaction_id": "0.0.597763-1645717680-264890654",
+          "hbar_amount": 300.0005,
+          "hbar_price": 0.2041,
+          "usd_total": 61.2301
+        },
+        {
+          "transaction_id": "0.0.597763-1645714998-243655588",
+          "hbar_amount": 50.0005,
+          "hbar_price": 0.2041,
+          "usd_total": 10.2051
+        },
+        {
+          "transaction_id": "0.0.597763-1645714899-153812585",
+          "hbar_amount": 150.0005,
+          "hbar_price": 0.1995,
+          "usd_total": 29.9251
+        },
+        {
+          "transaction_id": "0.0.597763-1645714292-965658499",
+          "hbar_amount": 500.0005,
+          "hbar_price": 0.1995,
+          "usd_total": 99.7501
+        },
+        {
+          "transaction_id": "0.0.597763-1645713928-655414709",
+          "hbar_amount": 275.0005,
+          "hbar_price": 0.1995,
+          "usd_total": 54.8626
+        },
+        {
+          "transaction_id": "0.0.597763-1645713774-213836852",
+          "hbar_amount": 200.0005,
+          "hbar_price": 0.1995,
+          "usd_total": 39.9001
+        },
+        {
+          "transaction_id": "0.0.597763-1645713578-243337522",
+          "hbar_amount": 525.0005,
+          "hbar_price": 0.1995,
+          "usd_total": 104.7376
+        },
+        {
+          "transaction_id": "0.0.597763-1645713330-777370737",
+          "hbar_amount": 60.0005,
+          "hbar_price": 0.1995,
+          "usd_total": 11.9701
+        },
+        {
+          "transaction_id": "0.0.597763-1645713208-107450632",
+          "hbar_amount": 350.0005,
+          "hbar_price": 0.1995,
+          "usd_total": 69.8251
+        },
+        {
+          "transaction_id": "0.0.597763-1645712995-233433947",
+          "hbar_amount": 1400.0005,
+          "hbar_price": 0.1995,
+          "usd_total": 279.3001
+        },
+        {
+          "transaction_id": "0.0.597763-1645712078-756926071",
+          "hbar_amount": 600.0005,
+          "hbar_price": 0.1995,
+          "usd_total": 119.7001
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.598777",
+      "usd_total": 23.0301,
+      "shibar_payout": 1403112.5788,
+      "short_lock": 230301,
+      "long_lock": 1172811.5788,
+      "payments": [
+        {
+          "transaction_id": "0.0.598777-1645629984-034587825",
+          "hbar_amount": 100.0004,
+          "hbar_price": 0.2303,
+          "usd_total": 23.0301
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.599761",
+      "usd_total": 0.2346,
+      "shibar_payout": 14293.0431,
+      "short_lock": 2346,
+      "long_lock": 11947.0431,
+      "payments": [
+        {
+          "transaction_id": "0.0.599761-1645617220-854381983",
+          "hbar_amount": 1.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 0.2346
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.599826",
+      "usd_total": 234.5001,
+      "shibar_payout": 14286956.6368,
+      "short_lock": 2345001,
+      "long_lock": 11941955.6368,
+      "payments": [
+        {
+          "transaction_id": "0.0.599826-1645609082-496962629",
+          "hbar_amount": 1000.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 234.5001
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.600199",
+      "usd_total": 94.3402,
+      "shibar_payout": 5747691.9904,
+      "short_lock": 943402,
+      "long_lock": 4804289.9904,
+      "payments": [
+        {
+          "transaction_id": "0.0.600199-1645620210-084707645",
+          "hbar_amount": 200.0004,
+          "hbar_price": 0.2372,
+          "usd_total": 47.4401
+        },
+        {
+          "transaction_id": "0.0.600199-1645617066-381702259",
+          "hbar_amount": 200.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 46.9001
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.600791",
+      "usd_total": 594.8003,
+      "shibar_payout": 36238304.7754,
+      "short_lock": 5948003,
+      "long_lock": 30290301.7754,
+      "payments": [
+        {
+          "transaction_id": "0.0.600791-1645722144-428241242",
+          "hbar_amount": 2000.0005,
+          "hbar_price": 0.2036,
+          "usd_total": 407.2001
+        },
+        {
+          "transaction_id": "0.0.600791-1645608640-839033880",
+          "hbar_amount": 700.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 164.1501
+        },
+        {
+          "transaction_id": "0.0.600791-1645608512-112535534",
+          "hbar_amount": 100.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 23.4501
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.6050",
+      "usd_total": 606.2104,
+      "shibar_payout": 36933466.969,
+      "short_lock": 6062104,
+      "long_lock": 30871362.969,
+      "payments": [
+        {
+          "transaction_id": "0.0.6050-1645717710-576788590",
+          "hbar_amount": 100.0005,
+          "hbar_price": 0.2041,
+          "usd_total": 20.4101
+        },
+        {
+          "transaction_id": "0.0.6050-1645623038-792740240",
+          "hbar_amount": 500.0004,
+          "hbar_price": 0.2342,
+          "usd_total": 117.1001
+        },
+        {
+          "transaction_id": "0.0.6050-1645622748-635078854",
+          "hbar_amount": 1000.0004,
+          "hbar_price": 0.2342,
+          "usd_total": 234.2001
+        },
+        {
+          "transaction_id": "0.0.6050-1645607219-279507123",
+          "hbar_amount": 1000.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 234.5001
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.606390",
+      "usd_total": 23.4501,
+      "shibar_payout": 1428701.1469,
+      "short_lock": 234501,
+      "long_lock": 1194200.1469,
+      "payments": [
+        {
+          "transaction_id": "0.0.606390-1645608758-147060852",
+          "hbar_amount": 100.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 23.4501
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.607781",
+      "usd_total": 48.7462,
+      "shibar_payout": 2969870.1434,
+      "short_lock": 487462,
+      "long_lock": 2482408.1434,
+      "payments": [
+        {
+          "transaction_id": "0.0.607781-1645605784-362328465",
+          "hbar_amount": 200.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 46.4601
+        },
+        {
+          "transaction_id": "0.0.607781-1645602962-980340277",
+          "hbar_amount": 10.0004,
+          "hbar_price": 0.2286,
+          "usd_total": 2.2861
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.610927",
+      "usd_total": 99.8002,
+      "shibar_payout": 6080343.3762,
+      "short_lock": 998002,
+      "long_lock": 5082341.3762,
+      "payments": [
+        {
+          "transaction_id": "0.0.610927-1645715193-989413662",
+          "hbar_amount": 200.0005,
+          "hbar_price": 0.2041,
+          "usd_total": 40.8201
+        },
+        {
+          "transaction_id": "0.0.610927-1645709894-166565353",
+          "hbar_amount": 300.0005,
+          "hbar_price": 0.1966,
+          "usd_total": 58.9801
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.612660",
+      "usd_total": 237.2,
+      "shibar_payout": 14451448.4823,
+      "short_lock": 2372000,
+      "long_lock": 12079448.4823,
+      "payments": [
+        {
+          "transaction_id": "0.0.612660-1645619364-149560261",
+          "hbar_amount": 899.9994,
+          "hbar_price": 0.2372,
+          "usd_total": 213.4799
+        },
+        {
+          "transaction_id": "0.0.612660-1645619275-969606796",
+          "hbar_amount": 100.0004,
+          "hbar_price": 0.2372,
+          "usd_total": 23.7201
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.615215",
+      "usd_total": 10.2201,
+      "shibar_payout": 622661.2506,
+      "short_lock": 102201,
+      "long_lock": 520460.2506,
+      "payments": [
+        {
+          "transaction_id": "0.0.615215-1645719158-593375669",
+          "hbar_amount": 50.0005,
+          "hbar_price": 0.2044,
+          "usd_total": 10.2201
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.615987",
+      "usd_total": 2.2821,
+      "shibar_payout": 139037.3127,
+      "short_lock": 22821,
+      "long_lock": 116216.3127,
+      "payments": [
+        {
+          "transaction_id": "0.0.615987-1645640608-364408515",
+          "hbar_amount": 10.0004,
+          "hbar_price": 0.2282,
+          "usd_total": 2.2821
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.616912",
+      "usd_total": 79.8001,
+      "shibar_payout": 4861834.0389,
+      "short_lock": 798001,
+      "long_lock": 4063833.0389,
+      "payments": [
+        {
+          "transaction_id": "0.0.616912-1645711677-797320122",
+          "hbar_amount": 400.0005,
+          "hbar_price": 0.1995,
+          "usd_total": 79.8001
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.618512",
+      "usd_total": 20.4401,
+      "shibar_payout": 1245316.4086,
+      "short_lock": 204401,
+      "long_lock": 1040915.4086,
+      "payments": [
+        {
+          "transaction_id": "0.0.618512-1645721320-223669268",
+          "hbar_amount": 100.0005,
+          "hbar_price": 0.2044,
+          "usd_total": 20.4401
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.619680",
+      "usd_total": 117.6501,
+      "shibar_payout": 7167851.4296,
+      "short_lock": 1176501,
+      "long_lock": 5991350.4296,
+      "payments": [
+        {
+          "transaction_id": "0.0.619680-1645633531-880665194",
+          "hbar_amount": 500.0004,
+          "hbar_price": 0.2353,
+          "usd_total": 117.6501
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.620714",
+      "usd_total": 19.4801,
+      "shibar_payout": 1186828.2529,
+      "short_lock": 194801,
+      "long_lock": 992027.2529,
+      "payments": [
+        {
+          "transaction_id": "0.0.620714-1645702270-636691963",
+          "hbar_amount": 100.0005,
+          "hbar_price": 0.1948,
+          "usd_total": 19.4801
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.620748",
+      "usd_total": 654.5758,
+      "shibar_payout": 39880136.8106,
+      "short_lock": 6545758,
+      "long_lock": 33334378.8106,
+      "payments": [
+        {
+          "transaction_id": "0.0.620748-1645645789-920299551",
+          "hbar_amount": 1000.0004,
+          "hbar_price": 0.2256,
+          "usd_total": 225.6001
+        },
+        {
+          "transaction_id": "0.0.620748-1645645412-061917784",
+          "hbar_amount": 250.0004,
+          "hbar_price": 0.2256,
+          "usd_total": 56.4001
+        },
+        {
+          "transaction_id": "0.0.620748-1645645270-144577242",
+          "hbar_amount": 250.0004,
+          "hbar_price": 0.2256,
+          "usd_total": 56.4001
+        },
+        {
+          "transaction_id": "0.0.620748-1645645164-791719680",
+          "hbar_amount": 250.0004,
+          "hbar_price": 0.2256,
+          "usd_total": 56.4001
+        },
+        {
+          "transaction_id": "0.0.620748-1645625607-346739949",
+          "hbar_amount": 100.0004,
+          "hbar_price": 0.2325,
+          "usd_total": 23.2501
+        },
+        {
+          "transaction_id": "0.0.620748-1645625507-240643449",
+          "hbar_amount": 10.0004,
+          "hbar_price": 0.2325,
+          "usd_total": 2.3251
+        },
+        {
+          "transaction_id": "0.0.620748-1645624511-626680242",
+          "hbar_amount": 500.0004,
+          "hbar_price": 0.2342,
+          "usd_total": 117.1001
+        },
+        {
+          "transaction_id": "0.0.620748-1645624229-224003063",
+          "hbar_amount": 500.0004,
+          "hbar_price": 0.2342,
+          "usd_total": 117.1001
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.620808",
+      "usd_total": 126.0414,
+      "shibar_payout": 7679092.7434,
+      "short_lock": 1260414,
+      "long_lock": 6418678.7434,
+      "payments": [
+        {
+          "transaction_id": "0.0.620808-1645720303-015022595",
+          "hbar_amount": 0.6401,
+          "hbar_price": 0.2044,
+          "usd_total": 0.1308
+        },
+        {
+          "transaction_id": "0.0.620808-1645720242-136509432",
+          "hbar_amount": 600.0005,
+          "hbar_price": 0.2044,
+          "usd_total": 122.6401
+        },
+        {
+          "transaction_id": "0.0.620808-1645718724-213280707",
+          "hbar_amount": 16.0005,
+          "hbar_price": 0.2044,
+          "usd_total": 3.2705
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.621643",
+      "usd_total": 102.3174,
+      "shibar_payout": 6233704.1945,
+      "short_lock": 1023174,
+      "long_lock": 5210530.1945,
+      "payments": [
+        {
+          "transaction_id": "0.0.621643-1645656183-949618777",
+          "hbar_amount": 452.0004,
+          "hbar_price": 0.2234,
+          "usd_total": 100.9769
+        },
+        {
+          "transaction_id": "0.0.621643-1645654661-883092858",
+          "hbar_amount": 6.0004,
+          "hbar_price": 0.2234,
+          "usd_total": 1.3405
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.621906",
+      "usd_total": 1161.5001,
+      "shibar_payout": 70764582.0294,
+      "short_lock": 11615001,
+      "long_lock": 59149581.0294,
+      "payments": [
+        {
+          "transaction_id": "0.0.621906-1645605290-458645599",
+          "hbar_amount": 5000.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 1161.5001
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.622222",
+      "usd_total": 940.8155,
+      "shibar_payout": 57319336.9714,
+      "short_lock": 9408155,
+      "long_lock": 47911181.9714,
+      "payments": [
+        {
+          "transaction_id": "0.0.622222-1645606589-581345848",
+          "hbar_amount": 1500.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 348.4501
+        },
+        {
+          "transaction_id": "0.0.622222-1645605657-372553797",
+          "hbar_amount": 1000.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 232.3001
+        },
+        {
+          "transaction_id": "0.0.622222-1645605446-097220394",
+          "hbar_amount": 1000.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 232.3001
+        },
+        {
+          "transaction_id": "0.0.622222-1645605117-499595750",
+          "hbar_amount": 500.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 116.1501
+        },
+        {
+          "transaction_id": "0.0.622222-1645605058-058036831",
+          "hbar_amount": 50.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 11.6151
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.622670",
+      "usd_total": 579.2047,
+      "shibar_payout": 35288140.3152,
+      "short_lock": 5792047,
+      "long_lock": 29496093.3152,
+      "payments": [
+        {
+          "transaction_id": "0.0.622670-1645629841-157498063",
+          "hbar_amount": 2510.0004,
+          "hbar_price": 0.2303,
+          "usd_total": 578.0531
+        },
+        {
+          "transaction_id": "0.0.622670-1645629372-149855590",
+          "hbar_amount": 5.0004,
+          "hbar_price": 0.2303,
+          "usd_total": 1.1516
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.627512",
+      "usd_total": 366.2381,
+      "shibar_payout": 22313115.6594,
+      "short_lock": 3662381,
+      "long_lock": 18650734.6594,
+      "payments": [
+        {
+          "transaction_id": "0.0.627512-1645653715-938999205",
+          "hbar_amount": 420.6904,
+          "hbar_price": 0.2234,
+          "usd_total": 93.9822
+        },
+        {
+          "transaction_id": "0.0.627512-1645653626-079350919",
+          "hbar_amount": 420.6904,
+          "hbar_price": 0.2234,
+          "usd_total": 93.9822
+        },
+        {
+          "transaction_id": "0.0.627512-1645653399-003955029",
+          "hbar_amount": 69.6974,
+          "hbar_price": 0.2214,
+          "usd_total": 15.431
+        },
+        {
+          "transaction_id": "0.0.627512-1645604214-190049748",
+          "hbar_amount": 1.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 0.2324
+        },
+        {
+          "transaction_id": "0.0.627512-1645603570-040874867",
+          "hbar_amount": 200.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 46.4601
+        },
+        {
+          "transaction_id": "0.0.627512-1645603489-373854204",
+          "hbar_amount": 400.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 92.9201
+        },
+        {
+          "transaction_id": "0.0.627512-1645603370-950102349",
+          "hbar_amount": 100.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 23.2301
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.629191",
+      "usd_total": 46.6001,
+      "shibar_payout": 2839118.6527,
+      "short_lock": 466001,
+      "long_lock": 2373117.6527,
+      "payments": [
+        {
+          "transaction_id": "0.0.629191-1645638800-243896716",
+          "hbar_amount": 200.0004,
+          "hbar_price": 0.233,
+          "usd_total": 46.6001
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.632394",
+      "usd_total": 8362.8002,
+      "shibar_payout": 509504958.9305,
+      "short_lock": 83628002,
+      "long_lock": 425876956.9305,
+      "payments": [
+        {
+          "transaction_id": "0.0.632394-1645604764-683973964",
+          "hbar_amount": 35000.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 8130.5001
+        },
+        {
+          "transaction_id": "0.0.632394-1645604694-797869107",
+          "hbar_amount": 1000.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 232.3001
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.632528",
+      "usd_total": 6.1674,
+      "shibar_payout": 375749.8456,
+      "short_lock": 61674,
+      "long_lock": 314075.8456,
+      "payments": [
+        {
+          "transaction_id": "0.0.632528-1645620025-595492008",
+          "hbar_amount": 25.0004,
+          "hbar_price": 0.2372,
+          "usd_total": 5.9301
+        },
+        {
+          "transaction_id": "0.0.632528-1645619062-078112784",
+          "hbar_amount": 1.0004,
+          "hbar_price": 0.2372,
+          "usd_total": 0.2373
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.633800",
+      "usd_total": 116.6001,
+      "shibar_payout": 7103880.0092,
+      "short_lock": 1166001,
+      "long_lock": 5937879.0092,
+      "payments": [
+        {
+          "transaction_id": "0.0.633800-1645612819-152343596",
+          "hbar_amount": 500.0004,
+          "hbar_price": 0.2332,
+          "usd_total": 116.6001
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.634576",
+      "usd_total": 2030.2963,
+      "shibar_payout": 123696131.4642,
+      "short_lock": 20302963,
+      "long_lock": 103393168.4642,
+      "payments": [
+        {
+          "transaction_id": "0.0.634576-1645724061-121146270",
+          "hbar_amount": 1400.0005,
+          "hbar_price": 0.2036,
+          "usd_total": 285.0401
+        },
+        {
+          "transaction_id": "0.0.634576-1645719858-807722512",
+          "hbar_amount": 640.0005,
+          "hbar_price": 0.2044,
+          "usd_total": 130.8161
+        },
+        {
+          "transaction_id": "0.0.634576-1645713669-906625452",
+          "hbar_amount": 999.0005,
+          "hbar_price": 0.1995,
+          "usd_total": 199.3006
+        },
+        {
+          "transaction_id": "0.0.634576-1645713291-343193871",
+          "hbar_amount": 1000.0005,
+          "hbar_price": 0.1995,
+          "usd_total": 199.5001
+        },
+        {
+          "transaction_id": "0.0.634576-1645713130-455376026",
+          "hbar_amount": 751.0005,
+          "hbar_price": 0.1995,
+          "usd_total": 149.8246
+        },
+        {
+          "transaction_id": "0.0.634576-1645712767-851599139",
+          "hbar_amount": 3400.0005,
+          "hbar_price": 0.1995,
+          "usd_total": 678.3001
+        },
+        {
+          "transaction_id": "0.0.634576-1645704355-997342069",
+          "hbar_amount": 1500.0005,
+          "hbar_price": 0.1937,
+          "usd_total": 290.5501
+        },
+        {
+          "transaction_id": "0.0.634576-1645704278-677636547",
+          "hbar_amount": 500.0005,
+          "hbar_price": 0.1937,
+          "usd_total": 96.8501
+        },
+        {
+          "transaction_id": "0.0.634576-1645640492-647477521",
+          "hbar_amount": 0.1004,
+          "hbar_price": 0.2282,
+          "usd_total": 0.0229
+        },
+        {
+          "transaction_id": "0.0.634576-1645640474-517976322",
+          "hbar_amount": 0.1004,
+          "hbar_price": 0.2282,
+          "usd_total": 0.0229
+        },
+        {
+          "transaction_id": "0.0.634576-1645640461-157794441",
+          "hbar_amount": 0.1004,
+          "hbar_price": 0.2282,
+          "usd_total": 0.0229
+        },
+        {
+          "transaction_id": "0.0.634576-1645640441-779323891",
+          "hbar_amount": 0.1004,
+          "hbar_price": 0.2282,
+          "usd_total": 0.0229
+        },
+        {
+          "transaction_id": "0.0.634576-1645639907-166664111",
+          "hbar_amount": 0.1004,
+          "hbar_price": 0.2282,
+          "usd_total": 0.0229
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.635824",
+      "usd_total": 138.3553,
+      "shibar_payout": 8429319.0987,
+      "short_lock": 1383553,
+      "long_lock": 7045766.0987,
+      "payments": [
+        {
+          "transaction_id": "0.0.635824-1645615331-048517063",
+          "hbar_amount": 440.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 103.1801
+        },
+        {
+          "transaction_id": "0.0.635824-1645615244-988775949",
+          "hbar_amount": 100.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 23.4501
+        },
+        {
+          "transaction_id": "0.0.635824-1645614287-759070449",
+          "hbar_amount": 50.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 11.7251
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.636273",
+      "usd_total": 491.5001,
+      "shibar_payout": 29944723.3314,
+      "short_lock": 4915001,
+      "long_lock": 25029722.3314,
+      "payments": [
+        {
+          "transaction_id": "0.0.636273-1645708660-336154945",
+          "hbar_amount": 2500.0005,
+          "hbar_price": 0.1966,
+          "usd_total": 491.5001
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.636857",
+      "usd_total": 11.0593,
+      "shibar_payout": 673789.6467,
+      "short_lock": 110593,
+      "long_lock": 563196.6467,
+      "payments": [
+        {
+          "transaction_id": "0.0.636857-1645633742-246637000",
+          "hbar_amount": 37.0004,
+          "hbar_price": 0.2353,
+          "usd_total": 8.7062
+        },
+        {
+          "transaction_id": "0.0.636857-1645633630-980319000",
+          "hbar_amount": 10.0004,
+          "hbar_price": 0.2353,
+          "usd_total": 2.3531
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.637839",
+      "usd_total": 53.6152,
+      "shibar_payout": 3266514.7583,
+      "short_lock": 536152,
+      "long_lock": 2730362.7583,
+      "payments": [
+        {
+          "transaction_id": "0.0.637839-1645730815-581917590",
+          "hbar_amount": 100.0005,
+          "hbar_price": 0.2144,
+          "usd_total": 21.4401
+        },
+        {
+          "transaction_id": "0.0.637839-1645661552-351434590",
+          "hbar_amount": 150.0005,
+          "hbar_price": 0.2145,
+          "usd_total": 32.1751
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.638341",
+      "usd_total": 21.9801,
+      "shibar_payout": 1339141.1585,
+      "short_lock": 219801,
+      "long_lock": 1119340.1585,
+      "payments": [
+        {
+          "transaction_id": "0.0.638341-1645658752-738801671",
+          "hbar_amount": 100.0005,
+          "hbar_price": 0.2198,
+          "usd_total": 21.9801
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.641810",
+      "usd_total": 109.4083,
+      "shibar_payout": 6665718.4274,
+      "short_lock": 1094083,
+      "long_lock": 5571635.4274,
+      "payments": [
+        {
+          "transaction_id": "0.0.641810-1645715034-023224170",
+          "hbar_amount": 250.0005,
+          "hbar_price": 0.2041,
+          "usd_total": 51.0251
+        },
+        {
+          "transaction_id": "0.0.641810-1645654498-696861960",
+          "hbar_amount": 225.9973,
+          "hbar_price": 0.2234,
+          "usd_total": 50.4878
+        },
+        {
+          "transaction_id": "0.0.641810-1645651852-234523967",
+          "hbar_amount": 35.6612,
+          "hbar_price": 0.2214,
+          "usd_total": 7.8954
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.641825",
+      "usd_total": 81.3051,
+      "shibar_payout": 4953526.4081,
+      "short_lock": 813051,
+      "long_lock": 4140475.4081,
+      "payments": [
+        {
+          "transaction_id": "0.0.641825-1645604136-961883159",
+          "hbar_amount": 350.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 81.3051
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.642554",
+      "usd_total": 209.7001,
+      "shibar_payout": 12776012.6134,
+      "short_lock": 2097001,
+      "long_lock": 10679011.6134,
+      "payments": [
+        {
+          "transaction_id": "0.0.642554-1645636128-111944336",
+          "hbar_amount": 900.0004,
+          "hbar_price": 0.233,
+          "usd_total": 209.7001
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.642821",
+      "usd_total": 32.2421,
+      "shibar_payout": 1964355.1733,
+      "short_lock": 322421,
+      "long_lock": 1641934.1733,
+      "payments": [
+        {
+          "transaction_id": "0.0.642821-1645629224-591729813",
+          "hbar_amount": 140.0004,
+          "hbar_price": 0.2303,
+          "usd_total": 32.2421
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.642980",
+      "usd_total": 116.3003,
+      "shibar_payout": 7085614.6456,
+      "short_lock": 1163003,
+      "long_lock": 5922611.6456,
+      "payments": [
+        {
+          "transaction_id": "0.0.642980-1645666363-247914859",
+          "hbar_amount": 100.0005,
+          "hbar_price": 0.2142,
+          "usd_total": 21.4201
+        },
+        {
+          "transaction_id": "0.0.642980-1645619941-633705833",
+          "hbar_amount": 300.0004,
+          "hbar_price": 0.2372,
+          "usd_total": 71.1601
+        },
+        {
+          "transaction_id": "0.0.642980-1645619876-937137070",
+          "hbar_amount": 100.0004,
+          "hbar_price": 0.2372,
+          "usd_total": 23.7201
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.644160",
+      "usd_total": 22.5001,
+      "shibar_payout": 1370822.2428,
+      "short_lock": 225001,
+      "long_lock": 1145821.2428,
+      "payments": [
+        {
+          "transaction_id": "0.0.644160-1645649365-104623692",
+          "hbar_amount": 100.0004,
+          "hbar_price": 0.225,
+          "usd_total": 22.5001
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.649095",
+      "usd_total": 49.9658,
+      "shibar_payout": 3044174.4712,
+      "short_lock": 499658,
+      "long_lock": 2544516.4712,
+      "payments": [
+        {
+          "transaction_id": "0.0.649095-1645602763-768781726",
+          "hbar_amount": 218.573,
+          "hbar_price": 0.2286,
+          "usd_total": 49.9658
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.650437",
+      "usd_total": 23.0301,
+      "shibar_payout": 1403112.5788,
+      "short_lock": 230301,
+      "long_lock": 1172811.5788,
+      "payments": [
+        {
+          "transaction_id": "0.0.650437-1645629091-772762548",
+          "hbar_amount": 100.0004,
+          "hbar_price": 0.2303,
+          "usd_total": 23.0301
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.650929",
+      "usd_total": 33.8401,
+      "shibar_payout": 2061713.5826,
+      "short_lock": 338401,
+      "long_lock": 1723312.5826,
+      "payments": [
+        {
+          "transaction_id": "0.0.650929-1645645335-011722470",
+          "hbar_amount": 150.0004,
+          "hbar_price": 0.2256,
+          "usd_total": 33.8401
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.653423",
+      "usd_total": 1049.1669,
+      "shibar_payout": 63920663.5949,
+      "short_lock": 10491669,
+      "long_lock": 53428994.5949,
+      "payments": [
+        {
+          "transaction_id": "0.0.653423-1645612274-195282852",
+          "hbar_amount": 4499.0004,
+          "hbar_price": 0.2332,
+          "usd_total": 1049.1669
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.653866",
+      "usd_total": 16.8954,
+      "shibar_payout": 1029354.986,
+      "short_lock": 168954,
+      "long_lock": 860400.986,
+      "payments": [
+        {
+          "transaction_id": "0.0.653866-1645650486-956252179",
+          "hbar_amount": 36.9005,
+          "hbar_price": 0.2214,
+          "usd_total": 8.1698
+        },
+        {
+          "transaction_id": "0.0.653866-1645647100-520751590",
+          "hbar_amount": 38.7804,
+          "hbar_price": 0.225,
+          "usd_total": 8.7256
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.653987",
+      "usd_total": 1.8984,
+      "shibar_payout": 115660.328,
+      "short_lock": 18984,
+      "long_lock": 96676.328,
+      "payments": [
+        {
+          "transaction_id": "0.0.653987-1645704262-341054895",
+          "hbar_amount": 9.8005,
+          "hbar_price": 0.1937,
+          "usd_total": 1.8984
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.654391",
+      "usd_total": 291.0722,
+      "shibar_payout": 17733621.0073,
+      "short_lock": 2910722,
+      "long_lock": 14822899.0073,
+      "payments": [
+        {
+          "transaction_id": "0.0.654391-1645604401-603551651",
+          "hbar_amount": 250.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 58.0751
+        },
+        {
+          "transaction_id": "0.0.654391-1645603858-719147145",
+          "hbar_amount": 1000.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 232.3001
+        },
+        {
+          "transaction_id": "0.0.654391-1645603687-091813446",
+          "hbar_amount": 3.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 0.697
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.655034",
+      "usd_total": 19.9777,
+      "shibar_payout": 1217144.6136,
+      "short_lock": 199777,
+      "long_lock": 1017367.6136,
+      "payments": [
+        {
+          "transaction_id": "0.0.655034-1645651056-242848932",
+          "hbar_amount": 44.6357,
+          "hbar_price": 0.2214,
+          "usd_total": 9.8823
+        },
+        {
+          "transaction_id": "0.0.655034-1645618316-825110976",
+          "hbar_amount": 42.5605,
+          "hbar_price": 0.2372,
+          "usd_total": 10.0954
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.656153",
+      "usd_total": 58.6251,
+      "shibar_payout": 3571743.7286,
+      "short_lock": 586251,
+      "long_lock": 2985492.7286,
+      "payments": [
+        {
+          "transaction_id": "0.0.656153-1645609199-535603449",
+          "hbar_amount": 250.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 58.6251
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.656231",
+      "usd_total": 96.0243,
+      "shibar_payout": 5850296.0561,
+      "short_lock": 960243,
+      "long_lock": 4890053.0561,
+      "payments": [
+        {
+          "transaction_id": "0.0.656231-1645651283-953714590",
+          "hbar_amount": 233.5305,
+          "hbar_price": 0.2214,
+          "usd_total": 51.7037
+        },
+        {
+          "transaction_id": "0.0.656231-1645616242-649713590",
+          "hbar_amount": 189.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 44.3206
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.656363",
+      "usd_total": 223.4001,
+      "shibar_payout": 13610687.336,
+      "short_lock": 2234001,
+      "long_lock": 11376686.336,
+      "payments": [
+        {
+          "transaction_id": "0.0.656363-1645653741-666588249",
+          "hbar_amount": 1000.0005,
+          "hbar_price": 0.2234,
+          "usd_total": 223.4001
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.657759",
+      "usd_total": 124.3292,
+      "shibar_payout": 7574776.6806,
+      "short_lock": 1243292,
+      "long_lock": 6331484.6806,
+      "payments": [
+        {
+          "transaction_id": "0.0.657759-1645701582-108490483",
+          "hbar_amount": 55.0005,
+          "hbar_price": 0.1948,
+          "usd_total": 10.7141
+        },
+        {
+          "transaction_id": "0.0.657759-1645619983-051232359",
+          "hbar_amount": 100.0004,
+          "hbar_price": 0.2372,
+          "usd_total": 23.7201
+        },
+        {
+          "transaction_id": "0.0.657759-1645618145-893736941",
+          "hbar_amount": 60.0004,
+          "hbar_price": 0.2372,
+          "usd_total": 14.2321
+        },
+        {
+          "transaction_id": "0.0.657759-1645609480-294156540",
+          "hbar_amount": 75.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 17.5876
+        },
+        {
+          "transaction_id": "0.0.657759-1645606858-432905366",
+          "hbar_amount": 50.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 11.6151
+        },
+        {
+          "transaction_id": "0.0.657759-1645605998-408035420",
+          "hbar_amount": 100.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 23.2301
+        },
+        {
+          "transaction_id": "0.0.657759-1645605444-925353129",
+          "hbar_amount": 100.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 23.2301
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.659028",
+      "usd_total": 53.7,
+      "shibar_payout": 3271681.2121,
+      "short_lock": 537000,
+      "long_lock": 2734681.2121,
+      "payments": [
+        {
+          "transaction_id": "0.0.659028-1645665883-778572347",
+          "hbar_amount": 0.0505,
+          "hbar_price": 0.2142,
+          "usd_total": 0.0108
+        },
+        {
+          "transaction_id": "0.0.659028-1645652833-081371391",
+          "hbar_amount": 0.0505,
+          "hbar_price": 0.2214,
+          "usd_total": 0.0112
+        },
+        {
+          "transaction_id": "0.0.659028-1645640496-636105180",
+          "hbar_amount": 29.0004,
+          "hbar_price": 0.2282,
+          "usd_total": 6.6179
+        },
+        {
+          "transaction_id": "0.0.659028-1645632752-983784970",
+          "hbar_amount": 200.0004,
+          "hbar_price": 0.2353,
+          "usd_total": 47.0601
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.659075",
+      "usd_total": 232.7363,
+      "shibar_payout": 14179496.8357,
+      "short_lock": 2327363,
+      "long_lock": 11852133.8357,
+      "payments": [
+        {
+          "transaction_id": "0.0.659075-1645604721-398118972",
+          "hbar_amount": 500.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 116.1501
+        },
+        {
+          "transaction_id": "0.0.659075-1645603163-868310068",
+          "hbar_amount": 500.0004,
+          "hbar_price": 0.2286,
+          "usd_total": 114.3001
+        },
+        {
+          "transaction_id": "0.0.659075-1645603045-269205486",
+          "hbar_amount": 10.0004,
+          "hbar_price": 0.2286,
+          "usd_total": 2.2861
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.659311",
+      "usd_total": 22.3401,
+      "shibar_payout": 1361074.2169,
+      "short_lock": 223401,
+      "long_lock": 1137673.2169,
+      "payments": [
+        {
+          "transaction_id": "0.0.659311-1645656922-793082221",
+          "hbar_amount": 100.0004,
+          "hbar_price": 0.2234,
+          "usd_total": 22.3401
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.659319",
+      "usd_total": 141.4693,
+      "shibar_payout": 8619040.0539,
+      "short_lock": 1414693,
+      "long_lock": 7204347.0539,
+      "payments": [
+        {
+          "transaction_id": "0.0.659319-1645640376-506744638",
+          "hbar_amount": 200.0004,
+          "hbar_price": 0.2282,
+          "usd_total": 45.6401
+        },
+        {
+          "transaction_id": "0.0.659319-1645620250-175086510",
+          "hbar_amount": 97.0004,
+          "hbar_price": 0.2372,
+          "usd_total": 23.0085
+        },
+        {
+          "transaction_id": "0.0.659319-1645619795-275809546",
+          "hbar_amount": 10.0004,
+          "hbar_price": 0.2372,
+          "usd_total": 2.3721
+        },
+        {
+          "transaction_id": "0.0.659319-1645619723-114661182",
+          "hbar_amount": 197.0004,
+          "hbar_price": 0.2372,
+          "usd_total": 46.7285
+        },
+        {
+          "transaction_id": "0.0.659319-1645619677-263746749",
+          "hbar_amount": 100.0004,
+          "hbar_price": 0.2372,
+          "usd_total": 23.7201
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.662034",
+      "usd_total": 135.009,
+      "shibar_payout": 8225445.2283,
+      "short_lock": 1350090,
+      "long_lock": 6875355.2283,
+      "payments": [
+        {
+          "transaction_id": "0.0.662034-1645705876-625789624",
+          "hbar_amount": 697.0005,
+          "hbar_price": 0.1937,
+          "usd_total": 135.009
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.662699",
+      "usd_total": 1119.0002,
+      "shibar_payout": 68175268.7269,
+      "short_lock": 11190002,
+      "long_lock": 56985266.7269,
+      "payments": [
+        {
+          "transaction_id": "0.0.662699-1645639204-818433083",
+          "hbar_amount": 4300.0004,
+          "hbar_price": 0.233,
+          "usd_total": 1001.9001
+        },
+        {
+          "transaction_id": "0.0.662699-1645623576-463349641",
+          "hbar_amount": 500.0004,
+          "hbar_price": 0.2342,
+          "usd_total": 117.1001
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.663055",
+      "usd_total": 15.6572,
+      "shibar_payout": 953917.4502,
+      "short_lock": 156572,
+      "long_lock": 797345.4502,
+      "payments": [
+        {
+          "transaction_id": "0.0.663055-1645709787-872639974",
+          "hbar_amount": 20.0005,
+          "hbar_price": 0.1966,
+          "usd_total": 3.9321
+        },
+        {
+          "transaction_id": "0.0.663055-1645614805-516463765",
+          "hbar_amount": 50.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 11.7251
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.663476",
+      "usd_total": 200.1963,
+      "shibar_payout": 12196992.0565,
+      "short_lock": 2001963,
+      "long_lock": 10195029.0565,
+      "payments": [
+        {
+          "transaction_id": "0.0.663476-1645650529-807679612",
+          "hbar_amount": 15.0005,
+          "hbar_price": 0.2214,
+          "usd_total": 3.3211
+        },
+        {
+          "transaction_id": "0.0.663476-1645647951-055584219",
+          "hbar_amount": 25.0004,
+          "hbar_price": 0.225,
+          "usd_total": 5.6251
+        },
+        {
+          "transaction_id": "0.0.663476-1645646806-689244637",
+          "hbar_amount": 850.0004,
+          "hbar_price": 0.225,
+          "usd_total": 191.2501
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.688487",
+      "usd_total": 22.5601,
+      "shibar_payout": 1374477.7526,
+      "short_lock": 225601,
+      "long_lock": 1148876.7526,
+      "payments": [
+        {
+          "transaction_id": "0.0.688487-1645645283-511008380",
+          "hbar_amount": 100.0004,
+          "hbar_price": 0.2256,
+          "usd_total": 22.5601
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.688593",
+      "usd_total": 84.1201,
+      "shibar_payout": 5125030.7398,
+      "short_lock": 841201,
+      "long_lock": 4283829.7398,
+      "payments": [
+        {
+          "transaction_id": "0.0.688593-1645726957-909937674",
+          "hbar_amount": 400.0005,
+          "hbar_price": 0.2103,
+          "usd_total": 84.1201
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.691029",
+      "usd_total": 407.883,
+      "shibar_payout": 24850337.9482,
+      "short_lock": 4078830,
+      "long_lock": 20771507.9482,
+      "payments": [
+        {
+          "transaction_id": "0.0.691029-1645726754-529615274",
+          "hbar_amount": 1000.0005,
+          "hbar_price": 0.2103,
+          "usd_total": 210.3001
+        },
+        {
+          "transaction_id": "0.0.691029-1645689030-477505597",
+          "hbar_amount": 500.0005,
+          "hbar_price": 0.1932,
+          "usd_total": 96.6001
+        },
+        {
+          "transaction_id": "0.0.691029-1645649505-503811452",
+          "hbar_amount": 0.1448,
+          "hbar_price": 0.225,
+          "usd_total": 0.0326
+        },
+        {
+          "transaction_id": "0.0.691029-1645649286-039743027",
+          "hbar_amount": 138.0004,
+          "hbar_price": 0.225,
+          "usd_total": 31.0501
+        },
+        {
+          "transaction_id": "0.0.691029-1645637213-196490957",
+          "hbar_amount": 300.0004,
+          "hbar_price": 0.233,
+          "usd_total": 69.9001
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.692130",
+      "usd_total": 295.9084,
+      "shibar_payout": 18028267.2769,
+      "short_lock": 2959084,
+      "long_lock": 15069183.2769,
+      "payments": [
+        {
+          "transaction_id": "0.0.692130-1645651829-667059019",
+          "hbar_amount": 650.0005,
+          "hbar_price": 0.2214,
+          "usd_total": 143.9101
+        },
+        {
+          "transaction_id": "0.0.692130-1645629303-163080515",
+          "hbar_amount": 50.0004,
+          "hbar_price": 0.2303,
+          "usd_total": 11.5151
+        },
+        {
+          "transaction_id": "0.0.692130-1645629021-500795316",
+          "hbar_amount": 600.0004,
+          "hbar_price": 0.2303,
+          "usd_total": 138.1801
+        },
+        {
+          "transaction_id": "0.0.692130-1645628931-748065557",
+          "hbar_amount": 10.0004,
+          "hbar_price": 0.2303,
+          "usd_total": 2.3031
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.701923",
+      "usd_total": 38.934,
+      "shibar_payout": 2372060.2665,
+      "short_lock": 389340,
+      "long_lock": 1982720.2665,
+      "payments": [
+        {
+          "transaction_id": "0.0.701923-1645706290-956249056",
+          "hbar_amount": 50.0005,
+          "hbar_price": 0.1937,
+          "usd_total": 9.6851
+        },
+        {
+          "transaction_id": "0.0.701923-1645705968-535240016",
+          "hbar_amount": 150.0005,
+          "hbar_price": 0.1937,
+          "usd_total": 29.0551
+        },
+        {
+          "transaction_id": "0.0.701923-1645705768-191931238",
+          "hbar_amount": 1.0005,
+          "hbar_price": 0.1937,
+          "usd_total": 0.1938
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.702103",
+      "usd_total": 10221.2005,
+      "shibar_payout": 622728298.707,
+      "short_lock": 102212005,
+      "long_lock": 520516293.707,
+      "payments": [
+        {
+          "transaction_id": "0.0.702103-1645603865-690138026",
+          "hbar_amount": 500.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 116.1501
+        },
+        {
+          "transaction_id": "0.0.702103-1645603817-842652538",
+          "hbar_amount": 1500.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 348.4501
+        },
+        {
+          "transaction_id": "0.0.702103-1645603580-839185907",
+          "hbar_amount": 1900.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 441.3701
+        },
+        {
+          "transaction_id": "0.0.702103-1645603504-250734327",
+          "hbar_amount": 40000.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 9292.0001
+        },
+        {
+          "transaction_id": "0.0.702103-1645603413-250233899",
+          "hbar_amount": 100.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 23.2301
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.702183",
+      "usd_total": 2314.5152,
+      "shibar_payout": 141012214.0572,
+      "short_lock": 23145152,
+      "long_lock": 117867062.0572,
+      "payments": [
+        {
+          "transaction_id": "0.0.702183-1645631268-007017275",
+          "hbar_amount": 10000.0004,
+          "hbar_price": 0.2303,
+          "usd_total": 2303.0001
+        },
+        {
+          "transaction_id": "0.0.702183-1645630073-187804106",
+          "hbar_amount": 50.0004,
+          "hbar_price": 0.2303,
+          "usd_total": 11.5151
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.704335",
+      "usd_total": 10.4941,
+      "shibar_payout": 639354.745,
+      "short_lock": 104941,
+      "long_lock": 534413.745,
+      "payments": [
+        {
+          "transaction_id": "0.0.704335-1645611591-763298658",
+          "hbar_amount": 45.0004,
+          "hbar_price": 0.2332,
+          "usd_total": 10.4941
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.706203",
+      "usd_total": 43.8377,
+      "shibar_payout": 2670818.9845,
+      "short_lock": 438377,
+      "long_lock": 2232441.9845,
+      "payments": [
+        {
+          "transaction_id": "0.0.706203-1645714237-761431296",
+          "hbar_amount": 219.7379,
+          "hbar_price": 0.1995,
+          "usd_total": 43.8377
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.706475",
+      "usd_total": 46.2279,
+      "shibar_payout": 2816442.3073,
+      "short_lock": 462279,
+      "long_lock": 2354163.3073,
+      "payments": [
+        {
+          "transaction_id": "0.0.706475-1645606273-415105102",
+          "hbar_amount": 99.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 22.9978
+        },
+        {
+          "transaction_id": "0.0.706475-1645605665-923900431",
+          "hbar_amount": 100.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 23.2301
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.706940",
+      "usd_total": 583.7974,
+      "shibar_payout": 35567951.3078,
+      "short_lock": 5837974,
+      "long_lock": 29729977.3078,
+      "payments": [
+        {
+          "transaction_id": "0.0.706940-1645607037-646565852",
+          "hbar_amount": 0.0404,
+          "hbar_price": 0.2345,
+          "usd_total": 0.0095
+        },
+        {
+          "transaction_id": "0.0.706940-1645607012-415101242",
+          "hbar_amount": 2479.5004,
+          "hbar_price": 0.2345,
+          "usd_total": 581.4428
+        },
+        {
+          "transaction_id": "0.0.706940-1645606949-375923680",
+          "hbar_amount": 10.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 2.3451
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.708074",
+      "usd_total": 301.8342,
+      "shibar_payout": 18389297.6033,
+      "short_lock": 3018342,
+      "long_lock": 15370955.6033,
+      "payments": [
+        {
+          "transaction_id": "0.0.708074-1645727846-107134133",
+          "hbar_amount": 122.0005,
+          "hbar_price": 0.2103,
+          "usd_total": 25.6567
+        },
+        {
+          "transaction_id": "0.0.708074-1645727634-265531387",
+          "hbar_amount": 1.5005,
+          "hbar_price": 0.2103,
+          "usd_total": 0.3156
+        },
+        {
+          "transaction_id": "0.0.708074-1645727300-787713842",
+          "hbar_amount": 123.0005,
+          "hbar_price": 0.2103,
+          "usd_total": 25.867
+        },
+        {
+          "transaction_id": "0.0.708074-1645726692-122447253",
+          "hbar_amount": 244.0005,
+          "hbar_price": 0.2103,
+          "usd_total": 51.3133
+        },
+        {
+          "transaction_id": "0.0.708074-1645724614-188539282",
+          "hbar_amount": 122.0005,
+          "hbar_price": 0.2036,
+          "usd_total": 24.8393
+        },
+        {
+          "transaction_id": "0.0.708074-1645721352-173511854",
+          "hbar_amount": 120.0005,
+          "hbar_price": 0.2044,
+          "usd_total": 24.5281
+        },
+        {
+          "transaction_id": "0.0.708074-1645720641-075469685",
+          "hbar_amount": 20.0005,
+          "hbar_price": 0.2044,
+          "usd_total": 4.0881
+        },
+        {
+          "transaction_id": "0.0.708074-1645720529-868399095",
+          "hbar_amount": 40.0005,
+          "hbar_price": 0.2044,
+          "usd_total": 8.1761
+        },
+        {
+          "transaction_id": "0.0.708074-1645720367-919751888",
+          "hbar_amount": 55.0005,
+          "hbar_price": 0.2044,
+          "usd_total": 11.2421
+        },
+        {
+          "transaction_id": "0.0.708074-1645720200-349330469",
+          "hbar_amount": 100.0005,
+          "hbar_price": 0.2044,
+          "usd_total": 20.4401
+        },
+        {
+          "transaction_id": "0.0.708074-1645719466-507430667",
+          "hbar_amount": 1.5005,
+          "hbar_price": 0.2044,
+          "usd_total": 0.3067
+        },
+        {
+          "transaction_id": "0.0.708074-1645719251-577822653",
+          "hbar_amount": 10.0005,
+          "hbar_price": 0.2044,
+          "usd_total": 2.0441
+        },
+        {
+          "transaction_id": "0.0.708074-1645719033-412171778",
+          "hbar_amount": 255.0005,
+          "hbar_price": 0.2044,
+          "usd_total": 52.1221
+        },
+        {
+          "transaction_id": "0.0.708074-1645718612-702974021",
+          "hbar_amount": 246.0005,
+          "hbar_price": 0.2044,
+          "usd_total": 50.2825
+        },
+        {
+          "transaction_id": "0.0.708074-1645718204-297499721",
+          "hbar_amount": 3.0005,
+          "hbar_price": 0.2041,
+          "usd_total": 0.6124
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.708536",
+      "usd_total": 196.204,
+      "shibar_payout": 11953760.5313,
+      "short_lock": 1962040,
+      "long_lock": 9991720.5313,
+      "payments": [
+        {
+          "transaction_id": "0.0.708536-1645604911-259170294",
+          "hbar_amount": 400.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 92.9201
+        },
+        {
+          "transaction_id": "0.0.708536-1645603256-511002416",
+          "hbar_amount": 50.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 11.6151
+        },
+        {
+          "transaction_id": "0.0.708536-1645603201-676403651",
+          "hbar_amount": 400.0004,
+          "hbar_price": 0.2286,
+          "usd_total": 91.4401
+        },
+        {
+          "transaction_id": "0.0.708536-1645603009-506117052",
+          "hbar_amount": 1.0004,
+          "hbar_price": 0.2286,
+          "usd_total": 0.2287
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.709867",
+      "usd_total": 608.6262,
+      "shibar_payout": 37080649.976,
+      "short_lock": 6086262,
+      "long_lock": 30994387.976,
+      "payments": [
+        {
+          "transaction_id": "0.0.709867-1645603487-234649179",
+          "hbar_amount": 20.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 4.6461
+        },
+        {
+          "transaction_id": "0.0.709867-1645603288-923154590",
+          "hbar_amount": 2600.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 603.9801
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.711444",
+      "usd_total": 11237.4578,
+      "shibar_payout": 684643939.5828,
+      "short_lock": 112374578,
+      "long_lock": 572269361.5828,
+      "payments": [
+        {
+          "transaction_id": "0.0.711444-1645707521-898039509",
+          "hbar_amount": 6000.0005,
+          "hbar_price": 0.1937,
+          "usd_total": 1162.2001
+        },
+        {
+          "transaction_id": "0.0.711444-1645604392-091739212",
+          "hbar_amount": 4000.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 929.2001
+        },
+        {
+          "transaction_id": "0.0.711444-1645602921-058476933",
+          "hbar_amount": 40000.0004,
+          "hbar_price": 0.2286,
+          "usd_total": 9144.0001
+        },
+        {
+          "transaction_id": "0.0.711444-1645602813-219237145",
+          "hbar_amount": 9.0004,
+          "hbar_price": 0.2286,
+          "usd_total": 2.0575
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.711720",
+      "usd_total": 1340.4814,
+      "shibar_payout": 81669046.7691,
+      "short_lock": 13404814,
+      "long_lock": 68264232.7691,
+      "payments": [
+        {
+          "transaction_id": "0.0.711720-1645632034-527074457",
+          "hbar_amount": 800.0004,
+          "hbar_price": 0.2303,
+          "usd_total": 184.2401
+        },
+        {
+          "transaction_id": "0.0.711720-1645604215-094640982",
+          "hbar_amount": 57.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 13.2412
+        },
+        {
+          "transaction_id": "0.0.711720-1645603009-106254715",
+          "hbar_amount": 5000.0004,
+          "hbar_price": 0.2286,
+          "usd_total": 1143.0001
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.712297",
+      "usd_total": 152.0851,
+      "shibar_payout": 9265809.3911,
+      "short_lock": 1520851,
+      "long_lock": 7744958.3911,
+      "payments": [
+        {
+          "transaction_id": "0.0.712297-1645613822-500655503",
+          "hbar_amount": 50.0004,
+          "hbar_price": 0.2332,
+          "usd_total": 11.6601
+        },
+        {
+          "transaction_id": "0.0.712297-1645613285-272563067",
+          "hbar_amount": 14.0004,
+          "hbar_price": 0.2332,
+          "usd_total": 3.2649
+        },
+        {
+          "transaction_id": "0.0.712297-1645602924-775510314",
+          "hbar_amount": 600.0004,
+          "hbar_price": 0.2286,
+          "usd_total": 137.1601
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.712860",
+      "usd_total": 128.5253,
+      "shibar_payout": 7830424.7539,
+      "short_lock": 1285253,
+      "long_lock": 6545171.7539,
+      "payments": [
+        {
+          "transaction_id": "0.0.712860-1645636258-566749449",
+          "hbar_amount": 250.0004,
+          "hbar_price": 0.233,
+          "usd_total": 58.2501
+        },
+        {
+          "transaction_id": "0.0.712860-1645622398-766352179",
+          "hbar_amount": 295.0004,
+          "hbar_price": 0.2342,
+          "usd_total": 69.0891
+        },
+        {
+          "transaction_id": "0.0.712860-1645621413-982397449",
+          "hbar_amount": 5.0004,
+          "hbar_price": 0.2372,
+          "usd_total": 1.1861
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.715328",
+      "usd_total": 1102.2638,
+      "shibar_payout": 67155600.8416,
+      "short_lock": 11022638,
+      "long_lock": 56132962.8416,
+      "payments": [
+        {
+          "transaction_id": "0.0.715328-1645604723-405201065",
+          "hbar_amount": 4635.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 1076.7106
+        },
+        {
+          "transaction_id": "0.0.715328-1645604341-669211663",
+          "hbar_amount": 100.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 23.2301
+        },
+        {
+          "transaction_id": "0.0.715328-1645603583-081347084",
+          "hbar_amount": 10.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 2.3231
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.720311",
+      "usd_total": 116.1501,
+      "shibar_payout": 7076463.6862,
+      "short_lock": 1161501,
+      "long_lock": 5914962.6862,
+      "payments": [
+        {
+          "transaction_id": "0.0.720311-1645604560-875820510",
+          "hbar_amount": 500.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 116.1501
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.721008",
+      "usd_total": 23.5301,
+      "shibar_payout": 1433575.1599,
+      "short_lock": 235301,
+      "long_lock": 1198274.1599,
+      "payments": [
+        {
+          "transaction_id": "0.0.721008-1645633061-796761550",
+          "hbar_amount": 100.0004,
+          "hbar_price": 0.2353,
+          "usd_total": 23.5301
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.722288",
+      "usd_total": 11698.5067,
+      "shibar_payout": 712733418.6139,
+      "short_lock": 116985067,
+      "long_lock": 595748351.6139,
+      "payments": [
+        {
+          "transaction_id": "0.0.722288-1645706604-967466590",
+          "hbar_amount": 3.0005,
+          "hbar_price": 0.1937,
+          "usd_total": 0.5812
+        },
+        {
+          "transaction_id": "0.0.722288-1645623516-918872852",
+          "hbar_amount": 19900.0004,
+          "hbar_price": 0.2342,
+          "usd_total": 4660.5801
+        },
+        {
+          "transaction_id": "0.0.722288-1645609900-982141680",
+          "hbar_amount": 10000.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 2345.0001
+        },
+        {
+          "transaction_id": "0.0.722288-1645609802-844802063",
+          "hbar_amount": 10000.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 2345.0001
+        },
+        {
+          "transaction_id": "0.0.722288-1645609716-609275949",
+          "hbar_amount": 10000.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 2345.0001
+        },
+        {
+          "transaction_id": "0.0.722288-1645609597-133869590",
+          "hbar_amount": 10.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 2.3451
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.723083",
+      "usd_total": 181.1943,
+      "shibar_payout": 11039292.1237,
+      "short_lock": 1811943,
+      "long_lock": 9227349.1237,
+      "payments": [
+        {
+          "transaction_id": "0.0.723083-1645603680-360296949",
+          "hbar_amount": 30.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 6.9691
+        },
+        {
+          "transaction_id": "0.0.723083-1645603625-535104179",
+          "hbar_amount": 700.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 162.6101
+        },
+        {
+          "transaction_id": "0.0.723083-1645603531-681868449",
+          "hbar_amount": 50.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 11.6151
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.723261",
+      "usd_total": 463.9361,
+      "shibar_payout": 28265382.1595,
+      "short_lock": 4639361,
+      "long_lock": 23626021.1595,
+      "payments": [
+        {
+          "transaction_id": "0.0.723261-1645731408-492992449",
+          "hbar_amount": 500.0005,
+          "hbar_price": 0.2144,
+          "usd_total": 107.2001
+        },
+        {
+          "transaction_id": "0.0.723261-1645730867-984250590",
+          "hbar_amount": 500.0005,
+          "hbar_price": 0.2144,
+          "usd_total": 107.2001
+        },
+        {
+          "transaction_id": "0.0.723261-1645633328-403106949",
+          "hbar_amount": 1000.0004,
+          "hbar_price": 0.2353,
+          "usd_total": 235.3001
+        },
+        {
+          "transaction_id": "0.0.723261-1645632382-953184449",
+          "hbar_amount": 50.0004,
+          "hbar_price": 0.2353,
+          "usd_total": 11.7651
+        },
+        {
+          "transaction_id": "0.0.723261-1645628158-141751590",
+          "hbar_amount": 1.0004,
+          "hbar_price": 0.2325,
+          "usd_total": 0.2326
+        },
+        {
+          "transaction_id": "0.0.723261-1645559523-020535590",
+          "hbar_amount": 10.0005,
+          "hbar_price": 0.2238,
+          "usd_total": 2.2381
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.723934",
+      "usd_total": 11.6384,
+      "shibar_payout": 709071.4082,
+      "short_lock": 116384,
+      "long_lock": 592687.4082,
+      "payments": [
+        {
+          "transaction_id": "0.0.723934-1645639853-851861465",
+          "hbar_amount": 50.0004,
+          "hbar_price": 0.2282,
+          "usd_total": 11.4101
+        },
+        {
+          "transaction_id": "0.0.723934-1645639541-116590170",
+          "hbar_amount": 1.0004,
+          "hbar_price": 0.2282,
+          "usd_total": 0.2283
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.724002",
+      "usd_total": 69.4801,
+      "shibar_payout": 4233086.3647,
+      "short_lock": 694801,
+      "long_lock": 3538285.3647,
+      "payments": [
+        {
+          "transaction_id": "0.0.724002-1645756526-561181449",
+          "hbar_amount": 2.0005,
+          "hbar_price": 0.2184,
+          "usd_total": 0.4369
+        },
+        {
+          "transaction_id": "0.0.724002-1645650023-230143590",
+          "hbar_amount": 5.0005,
+          "hbar_price": 0.225,
+          "usd_total": 1.1251
+        },
+        {
+          "transaction_id": "0.0.724002-1645623109-351087590",
+          "hbar_amount": 290.0004,
+          "hbar_price": 0.2342,
+          "usd_total": 67.9181
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.724620",
+      "usd_total": 936.8276,
+      "shibar_payout": 57076373.517,
+      "short_lock": 9368276,
+      "long_lock": 47708097.517,
+      "payments": [
+        {
+          "transaction_id": "0.0.724620-1645607394-716755757",
+          "hbar_amount": 3995.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 936.8276
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.724760",
+      "usd_total": 127.6142,
+      "shibar_payout": 7774915.8386,
+      "short_lock": 1276142,
+      "long_lock": 6498773.8386,
+      "payments": [
+        {
+          "transaction_id": "0.0.724760-1645615703-009015590",
+          "hbar_amount": 400.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 93.8001
+        },
+        {
+          "transaction_id": "0.0.724760-1645614119-302765449",
+          "hbar_amount": 145.0004,
+          "hbar_price": 0.2332,
+          "usd_total": 33.8141
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.724788",
+      "usd_total": 234.2656,
+      "shibar_payout": 14272669.6863,
+      "short_lock": 2342656,
+      "long_lock": 11930013.6863,
+      "payments": [
+        {
+          "transaction_id": "0.0.724788-1645617190-008424590",
+          "hbar_amount": 999.0004,
+          "hbar_price": 0.2345,
+          "usd_total": 234.2656
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.724840",
+      "usd_total": 8984.3997,
+      "shibar_payout": 547376009.3137,
+      "short_lock": 89843997,
+      "long_lock": 457532012.3137,
+      "payments": [
+        {
+          "transaction_id": "0.0.724840-1645703340-706573590",
+          "hbar_amount": 3.0005,
+          "hbar_price": 0.1948,
+          "usd_total": 0.5845
+        },
+        {
+          "transaction_id": "0.0.724840-1645625321-633401590",
+          "hbar_amount": 33590.0004,
+          "hbar_price": 0.2325,
+          "usd_total": 7809.6751
+        },
+        {
+          "transaction_id": "0.0.724840-1645619446-571393449",
+          "hbar_amount": 4950.0004,
+          "hbar_price": 0.2372,
+          "usd_total": 1174.1401
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.724857",
+      "usd_total": 30.1605,
+      "shibar_payout": 1837533.3556,
+      "short_lock": 301605,
+      "long_lock": 1535928.3556,
+      "payments": [
+        {
+          "transaction_id": "0.0.724857-1645621857-098592680",
+          "hbar_amount": 100.7804,
+          "hbar_price": 0.2342,
+          "usd_total": 23.6028
+        },
+        {
+          "transaction_id": "0.0.724857-1645621734-090530449",
+          "hbar_amount": 28.0004,
+          "hbar_price": 0.2342,
+          "usd_total": 6.5577
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.724877",
+      "usd_total": 48.0531,
+      "shibar_payout": 2927642.9134,
+      "short_lock": 480531,
+      "long_lock": 2447111.9134,
+      "payments": [
+        {
+          "transaction_id": "0.0.724877-1645641578-765073697",
+          "hbar_amount": 4.0004,
+          "hbar_price": 0.2282,
+          "usd_total": 0.9129
+        },
+        {
+          "transaction_id": "0.0.724877-1645621632-673771029",
+          "hbar_amount": 100.0004,
+          "hbar_price": 0.2342,
+          "usd_total": 23.4201
+        },
+        {
+          "transaction_id": "0.0.724877-1645621250-107715632",
+          "hbar_amount": 100.0004,
+          "hbar_price": 0.2372,
+          "usd_total": 23.7201
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.724890",
+      "usd_total": 115.9294,
+      "shibar_payout": 7063017.5029,
+      "short_lock": 1159294,
+      "long_lock": 5903723.5029,
+      "payments": [
+        {
+          "transaction_id": "0.0.724890-1645623519-129784852",
+          "hbar_amount": 200.0004,
+          "hbar_price": 0.2342,
+          "usd_total": 46.8401
+        },
+        {
+          "transaction_id": "0.0.724890-1645623295-548664242",
+          "hbar_amount": 180.0004,
+          "hbar_price": 0.2342,
+          "usd_total": 42.1561
+        },
+        {
+          "transaction_id": "0.0.724890-1645622893-188972680",
+          "hbar_amount": 95.0004,
+          "hbar_price": 0.2342,
+          "usd_total": 22.2491
+        },
+        {
+          "transaction_id": "0.0.724890-1645622802-648096063",
+          "hbar_amount": 20.0004,
+          "hbar_price": 0.2342,
+          "usd_total": 4.6841
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.724905",
+      "usd_total": 279.444,
+      "shibar_payout": 17025171.0358,
+      "short_lock": 2794440,
+      "long_lock": 14230731.0358,
+      "payments": [
+        {
+          "transaction_id": "0.0.724905-1645651982-676805099",
+          "hbar_amount": 420.0005,
+          "hbar_price": 0.2214,
+          "usd_total": 92.9881
+        },
+        {
+          "transaction_id": "0.0.724905-1645651752-361062786",
+          "hbar_amount": 1.0005,
+          "hbar_price": 0.2214,
+          "usd_total": 0.2215
+        },
+        {
+          "transaction_id": "0.0.724905-1645625002-326235090",
+          "hbar_amount": 800.0004,
+          "hbar_price": 0.2325,
+          "usd_total": 186.0001
+        },
+        {
+          "transaction_id": "0.0.724905-1645624341-010361490",
+          "hbar_amount": 1.0004,
+          "hbar_price": 0.2342,
+          "usd_total": 0.2343
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.725022",
+      "usd_total": 2277.6672,
+      "shibar_payout": 138767243.6791,
+      "short_lock": 22776672,
+      "long_lock": 115990571.6791,
+      "payments": [
+        {
+          "transaction_id": "0.0.725022-1645631520-627317680",
+          "hbar_amount": 9880.0004,
+          "hbar_price": 0.2303,
+          "usd_total": 2275.3641
+        },
+        {
+          "transaction_id": "0.0.725022-1645631117-396123949",
+          "hbar_amount": 10.0004,
+          "hbar_price": 0.2303,
+          "usd_total": 2.3031
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.725076",
+      "usd_total": 1515.1687,
+      "shibar_payout": 92311898.8621,
+      "short_lock": 15151687,
+      "long_lock": 77160211.8621,
+      "payments": [
+        {
+          "transaction_id": "0.0.725076-1645635000-937947179",
+          "hbar_amount": 6439.3059,
+          "hbar_price": 0.2353,
+          "usd_total": 1515.1687
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.725135",
+      "usd_total": 160.9799,
+      "shibar_payout": 9807726.5242,
+      "short_lock": 1609799,
+      "long_lock": 8197927.5242,
+      "payments": [
+        {
+          "transaction_id": "0.0.725135-1645631489-728235428",
+          "hbar_amount": 689.0004,
+          "hbar_price": 0.2303,
+          "usd_total": 158.6768
+        },
+        {
+          "transaction_id": "0.0.725135-1645631228-084981487",
+          "hbar_amount": 10.0004,
+          "hbar_price": 0.2303,
+          "usd_total": 2.3031
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.725167",
+      "usd_total": 4705.7648,
+      "shibar_payout": 286699483.8835,
+      "short_lock": 47057648,
+      "long_lock": 239641835.8835,
+      "payments": [
+        {
+          "transaction_id": "0.0.725167-1645632282-515889449",
+          "hbar_amount": 19999.0004,
+          "hbar_price": 0.2353,
+          "usd_total": 4705.7648
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.725291",
+      "usd_total": 90.4965,
+      "shibar_payout": 5513513.9443,
+      "short_lock": 904965,
+      "long_lock": 4608548.9443,
+      "payments": [
+        {
+          "transaction_id": "0.0.725291-1645640539-095642267",
+          "hbar_amount": 396.5664,
+          "hbar_price": 0.2282,
+          "usd_total": 90.4965
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.725323",
+      "usd_total": 16.0771,
+      "shibar_payout": 979499.9258,
+      "short_lock": 160771,
+      "long_lock": 818728.9258,
+      "payments": [
+        {
+          "transaction_id": "0.0.725323-1645638807-850527462",
+          "hbar_amount": 69.0004,
+          "hbar_price": 0.233,
+          "usd_total": 16.0771
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.725357",
+      "usd_total": 44.7274,
+      "shibar_payout": 2725024.1014,
+      "short_lock": 447274,
+      "long_lock": 2277750.1014,
+      "payments": [
+        {
+          "transaction_id": "0.0.725357-1645640606-533007077",
+          "hbar_amount": 96.0004,
+          "hbar_price": 0.2282,
+          "usd_total": 21.9073
+        },
+        {
+          "transaction_id": "0.0.725357-1645640459-208305798",
+          "hbar_amount": 100.0004,
+          "hbar_price": 0.2282,
+          "usd_total": 22.8201
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.725385",
+      "usd_total": 41.487,
+      "shibar_payout": 2527602.2057,
+      "short_lock": 414870,
+      "long_lock": 2112732.2057,
+      "payments": [
+        {
+          "transaction_id": "0.0.725385-1645651047-065330729",
+          "hbar_amount": 100.0005,
+          "hbar_price": 0.2214,
+          "usd_total": 22.1401
+        },
+        {
+          "transaction_id": "0.0.725385-1645642141-673359843",
+          "hbar_amount": 84.7804,
+          "hbar_price": 0.2282,
+          "usd_total": 19.3469
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.725433",
+      "usd_total": 10.8651,
+      "shibar_payout": 661957.9802,
+      "short_lock": 108651,
+      "long_lock": 553306.9802,
+      "payments": [
+        {
+          "transaction_id": "0.0.725433-1645737709-989649449",
+          "hbar_amount": 50.0005,
+          "hbar_price": 0.2173,
+          "usd_total": 10.8651
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.725495",
+      "usd_total": 999.9002,
+      "shibar_payout": 60919081.9046,
+      "short_lock": 9999002,
+      "long_lock": 50920079.9046,
+      "payments": [
+        {
+          "transaction_id": "0.0.725495-1645651114-276826179",
+          "hbar_amount": 3500.0005,
+          "hbar_price": 0.2214,
+          "usd_total": 774.9001
+        },
+        {
+          "transaction_id": "0.0.725495-1645649340-204107449",
+          "hbar_amount": 1000.0004,
+          "hbar_price": 0.225,
+          "usd_total": 225.0001
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.725551",
+      "usd_total": 85.1155,
+      "shibar_payout": 5185675.6463,
+      "short_lock": 851155,
+      "long_lock": 4334520.6463,
+      "payments": [
+        {
+          "transaction_id": "0.0.725551-1645655673-379278094",
+          "hbar_amount": 381.0005,
+          "hbar_price": 0.2234,
+          "usd_total": 85.1155
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.725580",
+      "usd_total": 2510.9845,
+      "shibar_payout": 152982138.034,
+      "short_lock": 25109845,
+      "long_lock": 127872293.034,
+      "payments": [
+        {
+          "transaction_id": "0.0.725580-1645705352-542167949",
+          "hbar_amount": 4900.0005,
+          "hbar_price": 0.1937,
+          "usd_total": 949.1301
+        },
+        {
+          "transaction_id": "0.0.725580-1645705317-965721179",
+          "hbar_amount": 5000.0005,
+          "hbar_price": 0.1937,
+          "usd_total": 968.5001
+        },
+        {
+          "transaction_id": "0.0.725580-1645705144-523180590",
+          "hbar_amount": 100.0005,
+          "hbar_price": 0.1937,
+          "usd_total": 19.3701
+        },
+        {
+          "transaction_id": "0.0.725580-1645677125-753361179",
+          "hbar_amount": 2780.0005,
+          "hbar_price": 0.1993,
+          "usd_total": 554.0541
+        },
+        {
+          "transaction_id": "0.0.725580-1645677044-593493449",
+          "hbar_amount": 100.0005,
+          "hbar_price": 0.1993,
+          "usd_total": 19.9301
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.725581",
+      "usd_total": 44.9036,
+      "shibar_payout": 2735759.115,
+      "short_lock": 449036,
+      "long_lock": 2286723.115,
+      "payments": [
+        {
+          "transaction_id": "0.0.725581-1645657000-102994590",
+          "hbar_amount": 200.0005,
+          "hbar_price": 0.2234,
+          "usd_total": 44.6801
+        },
+        {
+          "transaction_id": "0.0.725581-1645655994-402271179",
+          "hbar_amount": 1.0005,
+          "hbar_price": 0.2234,
+          "usd_total": 0.2235
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.725590",
+      "usd_total": 1102.3768,
+      "shibar_payout": 67162485.385,
+      "short_lock": 11023768,
+      "long_lock": 56138717.385,
+      "payments": [
+        {
+          "transaction_id": "0.0.725590-1645657512-805693179",
+          "hbar_amount": 4000.0005,
+          "hbar_price": 0.2198,
+          "usd_total": 879.2001
+        },
+        {
+          "transaction_id": "0.0.725590-1645656187-834512449",
+          "hbar_amount": 999.0005,
+          "hbar_price": 0.2234,
+          "usd_total": 223.1767
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.725597",
+      "usd_total": 24.1782,
+      "shibar_payout": 1473060.7576,
+      "short_lock": 241782,
+      "long_lock": 1231278.7576,
+      "payments": [
+        {
+          "transaction_id": "0.0.725597-1645657596-870953212",
+          "hbar_amount": 70.0005,
+          "hbar_price": 0.2198,
+          "usd_total": 15.3861
+        },
+        {
+          "transaction_id": "0.0.725597-1645657354-480551390",
+          "hbar_amount": 40.0005,
+          "hbar_price": 0.2198,
+          "usd_total": 8.7921
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.725662",
+      "usd_total": 198.7057,
+      "shibar_payout": 12106177.0097,
+      "short_lock": 1987057,
+      "long_lock": 10119120.0097,
+      "payments": [
+        {
+          "transaction_id": "0.0.725662-1645712602-455628432",
+          "hbar_amount": 985.0005,
+          "hbar_price": 0.1995,
+          "usd_total": 196.5076
+        },
+        {
+          "transaction_id": "0.0.725662-1645660478-211287383",
+          "hbar_amount": 10.0005,
+          "hbar_price": 0.2198,
+          "usd_total": 2.1981
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.725718",
+      "usd_total": 61.3201,
+      "shibar_payout": 3735937.0408,
+      "short_lock": 613201,
+      "long_lock": 3122736.0408,
+      "payments": [
+        {
+          "transaction_id": "0.0.725718-1645720020-943075179",
+          "hbar_amount": 300.0005,
+          "hbar_price": 0.2044,
+          "usd_total": 61.3201
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.725831",
+      "usd_total": 1030.1777,
+      "shibar_payout": 62763743.5042,
+      "short_lock": 10301777,
+      "long_lock": 52461966.5042,
+      "payments": [
+        {
+          "transaction_id": "0.0.725831-1645706688-439582949",
+          "hbar_amount": 2220.0005,
+          "hbar_price": 0.1937,
+          "usd_total": 430.0141
+        },
+        {
+          "transaction_id": "0.0.725831-1645703818-043142449",
+          "hbar_amount": 1001.0005,
+          "hbar_price": 0.1948,
+          "usd_total": 194.9949
+        },
+        {
+          "transaction_id": "0.0.725831-1645700755-028704590",
+          "hbar_amount": 535.0005,
+          "hbar_price": 0.1948,
+          "usd_total": 104.2181
+        },
+        {
+          "transaction_id": "0.0.725831-1645672380-391234852",
+          "hbar_amount": 1494.0005,
+          "hbar_price": 0.2001,
+          "usd_total": 298.9495
+        },
+        {
+          "transaction_id": "0.0.725831-1645672040-180548680",
+          "hbar_amount": 10.0005,
+          "hbar_price": 0.2001,
+          "usd_total": 2.0011
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.725943",
+      "usd_total": 269.3251,
+      "shibar_payout": 16408675.4117,
+      "short_lock": 2693251,
+      "long_lock": 13715424.4117,
+      "payments": [
+        {
+          "transaction_id": "0.0.725943-1645713040-090166179",
+          "hbar_amount": 1350.0005,
+          "hbar_price": 0.1995,
+          "usd_total": 269.3251
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.726278",
+      "usd_total": 1163.3002,
+      "shibar_payout": 70874253.4139,
+      "short_lock": 11633002,
+      "long_lock": 59241251.4139,
+      "payments": [
+        {
+          "transaction_id": "0.0.726278-1645704178-146796914",
+          "hbar_amount": 5000.0005,
+          "hbar_price": 0.1937,
+          "usd_total": 968.5001
+        },
+        {
+          "transaction_id": "0.0.726278-1645700806-676312132",
+          "hbar_amount": 1000.0005,
+          "hbar_price": 0.1948,
+          "usd_total": 194.8001
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.726362",
+      "usd_total": 202.0327,
+      "shibar_payout": 12308875.0244,
+      "short_lock": 2020327,
+      "long_lock": 10288548.0244,
+      "payments": [
+        {
+          "transaction_id": "0.0.726362-1645704520-754005595",
+          "hbar_amount": 1030.0005,
+          "hbar_price": 0.1937,
+          "usd_total": 199.5111
+        },
+        {
+          "transaction_id": "0.0.726362-1645704335-691416968",
+          "hbar_amount": 10.0005,
+          "hbar_price": 0.1937,
+          "usd_total": 1.9371
+        },
+        {
+          "transaction_id": "0.0.726362-1645703692-633720794",
+          "hbar_amount": 3.0005,
+          "hbar_price": 0.1948,
+          "usd_total": 0.5845
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.726373",
+      "usd_total": 105.373,
+      "shibar_payout": 6419867.1203,
+      "short_lock": 1053730,
+      "long_lock": 5366137.1203,
+      "payments": [
+        {
+          "transaction_id": "0.0.726373-1645706165-514371622",
+          "hbar_amount": 45.0005,
+          "hbar_price": 0.1937,
+          "usd_total": 8.7166
+        },
+        {
+          "transaction_id": "0.0.726373-1645704706-742261363",
+          "hbar_amount": 499.0005,
+          "hbar_price": 0.1937,
+          "usd_total": 96.6564
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.726401",
+      "usd_total": 304.1091,
+      "shibar_payout": 18527896.2549,
+      "short_lock": 3041091,
+      "long_lock": 15486805.2549,
+      "payments": [
+        {
+          "transaction_id": "0.0.726401-1645716033-078402182",
+          "hbar_amount": 1490.0005,
+          "hbar_price": 0.2041,
+          "usd_total": 304.1091
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.726404",
+      "usd_total": 46.4881,
+      "shibar_payout": 2832295.0345,
+      "short_lock": 464881,
+      "long_lock": 2367414.0345,
+      "payments": [
+        {
+          "transaction_id": "0.0.726404-1645705797-537926952",
+          "hbar_amount": 240.0005,
+          "hbar_price": 0.1937,
+          "usd_total": 46.4881
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.726406",
+      "usd_total": 38.9601,
+      "shibar_payout": 2373650.4132,
+      "short_lock": 389601,
+      "long_lock": 1984049.4132,
+      "payments": [
+        {
+          "transaction_id": "0.0.726406-1645703191-870321179",
+          "hbar_amount": 200.0005,
+          "hbar_price": 0.1948,
+          "usd_total": 38.9601
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.726407",
+      "usd_total": 19.3179,
+      "shibar_payout": 1176946.1916,
+      "short_lock": 193179,
+      "long_lock": 983767.1916,
+      "payments": [
+        {
+          "transaction_id": "0.0.726407-1645704422-146100687",
+          "hbar_amount": 89.7305,
+          "hbar_price": 0.1937,
+          "usd_total": 17.3808
+        },
+        {
+          "transaction_id": "0.0.726407-1645704333-181190644",
+          "hbar_amount": 10.0005,
+          "hbar_price": 0.1937,
+          "usd_total": 1.9371
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.726412",
+      "usd_total": 579.1632,
+      "shibar_payout": 35285611.921,
+      "short_lock": 5791632,
+      "long_lock": 29493979.921,
+      "payments": [
+        {
+          "transaction_id": "0.0.726412-1645704444-451485063",
+          "hbar_amount": 2980.0005,
+          "hbar_price": 0.1937,
+          "usd_total": 577.2261
+        },
+        {
+          "transaction_id": "0.0.726412-1645704263-382198949",
+          "hbar_amount": 10.0005,
+          "hbar_price": 0.1937,
+          "usd_total": 1.9371
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.726420",
+      "usd_total": 387.4001,
+      "shibar_payout": 23602413.9427,
+      "short_lock": 3874001,
+      "long_lock": 19728412.9427,
+      "payments": [
+        {
+          "transaction_id": "0.0.726420-1645705019-980409449",
+          "hbar_amount": 2000.0005,
+          "hbar_price": 0.1937,
+          "usd_total": 387.4001
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.726459",
+      "usd_total": 1161.8127,
+      "shibar_payout": 70783627.2351,
+      "short_lock": 11618127,
+      "long_lock": 59165500.2351,
+      "payments": [
+        {
+          "transaction_id": "0.0.726459-1645707361-536592449",
+          "hbar_amount": 5998.0005,
+          "hbar_price": 0.1937,
+          "usd_total": 1161.8127
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.726494",
+      "usd_total": 196.4035,
+      "shibar_payout": 11965915.1012,
+      "short_lock": 1964035,
+      "long_lock": 10001880.1012,
+      "payments": [
+        {
+          "transaction_id": "0.0.726494-1645710695-078350560",
+          "hbar_amount": 999.0005,
+          "hbar_price": 0.1966,
+          "usd_total": 196.4035
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.726495",
+      "usd_total": 60.9462,
+      "shibar_payout": 3713157.1227,
+      "short_lock": 609462,
+      "long_lock": 3103695.1227,
+      "payments": [
+        {
+          "transaction_id": "0.0.726495-1645708685-090791416",
+          "hbar_amount": 210.0005,
+          "hbar_price": 0.1966,
+          "usd_total": 41.2861
+        },
+        {
+          "transaction_id": "0.0.726495-1645708286-627895903",
+          "hbar_amount": 100.0005,
+          "hbar_price": 0.1966,
+          "usd_total": 19.6601
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.726504",
+      "usd_total": 423.2286,
+      "shibar_payout": 25785271.1178,
+      "short_lock": 4232286,
+      "long_lock": 21552985.1178,
+      "payments": [
+        {
+          "transaction_id": "0.0.726504-1645710619-774803179",
+          "hbar_amount": 2152.7396,
+          "hbar_price": 0.1966,
+          "usd_total": 423.2286
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.726511",
+      "usd_total": 189.7806,
+      "shibar_payout": 11562413.8442,
+      "short_lock": 1897806,
+      "long_lock": 9664607.8442,
+      "payments": [
+        {
+          "transaction_id": "0.0.726511-1645717752-048725179",
+          "hbar_amount": 926.8405,
+          "hbar_price": 0.2041,
+          "usd_total": 189.1681
+        },
+        {
+          "transaction_id": "0.0.726511-1645717691-429776449",
+          "hbar_amount": 1.0005,
+          "hbar_price": 0.2041,
+          "usd_total": 0.2042
+        },
+        {
+          "transaction_id": "0.0.726511-1645716599-371977590",
+          "hbar_amount": 2.0005,
+          "hbar_price": 0.2041,
+          "usd_total": 0.4083
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.726512",
+      "usd_total": 651.3829,
+      "shibar_payout": 39685608.8601,
+      "short_lock": 6513829,
+      "long_lock": 33171779.8601,
+      "payments": [
+        {
+          "transaction_id": "0.0.726512-1645747478-515912449",
+          "hbar_amount": 2999.0005,
+          "hbar_price": 0.2172,
+          "usd_total": 651.3829
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.726513",
+      "usd_total": 150.4219,
+      "shibar_payout": 9164478.6613,
+      "short_lock": 1504219,
+      "long_lock": 7660259.6613,
+      "payments": [
+        {
+          "transaction_id": "0.0.726513-1645716657-678706949",
+          "hbar_amount": 736.0005,
+          "hbar_price": 0.2041,
+          "usd_total": 150.2177
+        },
+        {
+          "transaction_id": "0.0.726513-1645715883-444597179",
+          "hbar_amount": 1.0005,
+          "hbar_price": 0.2041,
+          "usd_total": 0.2042
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.726521",
+      "usd_total": 9.7711,
+      "shibar_payout": 595305.8527,
+      "short_lock": 97711,
+      "long_lock": 497594.8527,
+      "payments": [
+        {
+          "transaction_id": "0.0.726521-1645709110-656624449",
+          "hbar_amount": 49.7005,
+          "hbar_price": 0.1966,
+          "usd_total": 9.7711
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.726559",
+      "usd_total": 89.9747,
+      "shibar_payout": 5481723.1946,
+      "short_lock": 899747,
+      "long_lock": 4581976.1946,
+      "payments": [
+        {
+          "transaction_id": "0.0.726559-1645713142-783287523",
+          "hbar_amount": 441.0005,
+          "hbar_price": 0.1995,
+          "usd_total": 87.9796
+        },
+        {
+          "transaction_id": "0.0.726559-1645712958-704988873",
+          "hbar_amount": 10.0005,
+          "hbar_price": 0.1995,
+          "usd_total": 1.9951
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.726582",
+      "usd_total": 73.8152,
+      "shibar_payout": 4497203.0355,
+      "short_lock": 738152,
+      "long_lock": 3759051.0355,
+      "payments": [
+        {
+          "transaction_id": "0.0.726582-1645713364-390953591",
+          "hbar_amount": 270.0005,
+          "hbar_price": 0.1995,
+          "usd_total": 53.8651
+        },
+        {
+          "transaction_id": "0.0.726582-1645713087-537211479",
+          "hbar_amount": 100.0005,
+          "hbar_price": 0.1995,
+          "usd_total": 19.9501
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.726587",
+      "usd_total": 320.2802,
+      "shibar_payout": 19513123.1459,
+      "short_lock": 3202802,
+      "long_lock": 16310321.1459,
+      "payments": [
+        {
+          "transaction_id": "0.0.726587-1645726354-936683502",
+          "hbar_amount": 100.0005,
+          "hbar_price": 0.2103,
+          "usd_total": 21.0301
+        },
+        {
+          "transaction_id": "0.0.726587-1645713176-668386947",
+          "hbar_amount": 1500.0005,
+          "hbar_price": 0.1995,
+          "usd_total": 299.2501
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.726593",
+      "usd_total": 89.7751,
+      "shibar_payout": 5469562.5322,
+      "short_lock": 897751,
+      "long_lock": 4571811.5322,
+      "payments": [
+        {
+          "transaction_id": "0.0.726593-1645713683-032301570",
+          "hbar_amount": 450.0005,
+          "hbar_price": 0.1995,
+          "usd_total": 89.7751
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.726596",
+      "usd_total": 1975.0504,
+      "shibar_payout": 120330266.0439,
+      "short_lock": 19750504,
+      "long_lock": 100579762.0439,
+      "payments": [
+        {
+          "transaction_id": "0.0.726596-1645713847-509136520",
+          "hbar_amount": 5000.0005,
+          "hbar_price": 0.1995,
+          "usd_total": 997.5001
+        },
+        {
+          "transaction_id": "0.0.726596-1645713569-271694856",
+          "hbar_amount": 400.0005,
+          "hbar_price": 0.1995,
+          "usd_total": 79.8001
+        },
+        {
+          "transaction_id": "0.0.726596-1645712995-623277179",
+          "hbar_amount": 3500.0005,
+          "hbar_price": 0.1995,
+          "usd_total": 698.2501
+        },
+        {
+          "transaction_id": "0.0.726596-1645712884-858524449",
+          "hbar_amount": 1000.0005,
+          "hbar_price": 0.1995,
+          "usd_total": 199.5001
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.726619",
+      "usd_total": 208.5905,
+      "shibar_payout": 12708410.0533,
+      "short_lock": 2085905,
+      "long_lock": 10622505.0533,
+      "payments": [
+        {
+          "transaction_id": "0.0.726619-1645715438-939668852",
+          "hbar_amount": 524.0005,
+          "hbar_price": 0.2041,
+          "usd_total": 106.9485
+        },
+        {
+          "transaction_id": "0.0.726619-1645715140-259497242",
+          "hbar_amount": 400.0005,
+          "hbar_price": 0.2041,
+          "usd_total": 81.6401
+        },
+        {
+          "transaction_id": "0.0.726619-1645715060-815141680",
+          "hbar_amount": 98.0005,
+          "hbar_price": 0.2041,
+          "usd_total": 20.0019
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.726625",
+      "usd_total": 324.111,
+      "shibar_payout": 19746515.2574,
+      "short_lock": 3241110,
+      "long_lock": 16505405.2574,
+      "payments": [
+        {
+          "transaction_id": "0.0.726625-1645716571-934918852",
+          "hbar_amount": 989.0005,
+          "hbar_price": 0.2041,
+          "usd_total": 201.855
+        },
+        {
+          "transaction_id": "0.0.726625-1645715412-273705242",
+          "hbar_amount": 599.0005,
+          "hbar_price": 0.2041,
+          "usd_total": 122.256
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.726939",
+      "usd_total": 21.0301,
+      "shibar_payout": 1281262.2543,
+      "short_lock": 210301,
+      "long_lock": 1070961.2543,
+      "payments": [
+        {
+          "transaction_id": "0.0.726939-1645728438-976263063",
+          "hbar_amount": 100.0005,
+          "hbar_price": 0.2103,
+          "usd_total": 21.0301
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.8584",
+      "usd_total": 1394.0325,
+      "shibar_payout": 84931656.2245,
+      "short_lock": 13940325,
+      "long_lock": 70991331.2245,
+      "payments": [
+        {
+          "transaction_id": "0.0.8584-1645606725-127813780",
+          "hbar_amount": 6000.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 1393.8001
+        },
+        {
+          "transaction_id": "0.0.8584-1645606420-448398558",
+          "hbar_amount": 1.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 0.2324
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.93834",
+      "usd_total": 4216.6025,
+      "shibar_payout": 256897191.3963,
+      "short_lock": 42166025,
+      "long_lock": 214731166.3963,
+      "payments": [
+        {
+          "transaction_id": "0.0.93834-1645728293-948466449",
+          "hbar_amount": 5.0005,
+          "hbar_price": 0.2103,
+          "usd_total": 1.0516
+        },
+        {
+          "transaction_id": "0.0.93834-1645727008-479499449",
+          "hbar_amount": 500.0005,
+          "hbar_price": 0.2103,
+          "usd_total": 105.1501
+        },
+        {
+          "transaction_id": "0.0.93834-1645726973-772528590",
+          "hbar_amount": 500.0005,
+          "hbar_price": 0.2103,
+          "usd_total": 105.1501
+        },
+        {
+          "transaction_id": "0.0.93834-1645713771-000138590",
+          "hbar_amount": 2500.0005,
+          "hbar_price": 0.1995,
+          "usd_total": 498.7501
+        },
+        {
+          "transaction_id": "0.0.93834-1645623694-175304949",
+          "hbar_amount": 5000.0004,
+          "hbar_price": 0.2342,
+          "usd_total": 1171.0001
+        },
+        {
+          "transaction_id": "0.0.93834-1645621633-260629179",
+          "hbar_amount": 4000.0004,
+          "hbar_price": 0.2342,
+          "usd_total": 936.8001
+        },
+        {
+          "transaction_id": "0.0.93834-1645621514-562210449",
+          "hbar_amount": 1000.0004,
+          "hbar_price": 0.2372,
+          "usd_total": 237.2001
+        },
+        {
+          "transaction_id": "0.0.93834-1645605339-498076949",
+          "hbar_amount": 4400.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 1022.1201
+        },
+        {
+          "transaction_id": "0.0.93834-1645605210-916122449",
+          "hbar_amount": 500.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 116.1501
+        },
+        {
+          "transaction_id": "0.0.93834-1645604538-247899590",
+          "hbar_amount": 100.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 23.2301
+        }
+      ]
+    },
+    {
+      "wallet": "0.0.93907",
+      "usd_total": 2373.6263,
+      "shibar_payout": 144613567.4146,
+      "short_lock": 23736263,
+      "long_lock": 120877304.4146,
+      "payments": [
+        {
+          "transaction_id": "0.0.93907-1645618210-566475179",
+          "hbar_amount": 10000.0004,
+          "hbar_price": 0.2372,
+          "usd_total": 2372.0001
+        },
+        {
+          "transaction_id": "0.0.93907-1645606215-212954449",
+          "hbar_amount": 7.0004,
+          "hbar_price": 0.2323,
+          "usd_total": 1.6262
+        }
+      ]
+    }
+  ]
+}
