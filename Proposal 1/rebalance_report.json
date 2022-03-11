@@ -1,16 +1,16 @@
 {
   "report": {
-    "usd_total": 164135.796,
-    "hbar_total": 728538.1918,
+    "usd_total": 164085.9137,
+    "hbar_total": 728320.0208,
     "shibar_distributed": 10000000000
   },
   "holders": [
     {
       "wallet": "0.0.106186",
       "usd_total": 5159.0003,
-      "shibar_payout": 314312930.252,
+      "shibar_payout": 314408481.7318,
       "short_lock": 51590003,
-      "long_lock": 262722927.252,
+      "long_lock": 262818478.7318,
       "payments": [
         {
           "transaction_id": "0.0.106186-1645610236-269033303",
@@ -35,9 +35,9 @@
     {
       "wallet": "0.0.108625",
       "usd_total": 474.4002,
-      "shibar_payout": 28902909.1497,
+      "shibar_payout": 28911695.6662,
       "short_lock": 4744002,
-      "long_lock": 24158907.1497,
+      "long_lock": 24167693.6662,
       "payments": [
         {
           "transaction_id": "0.0.108625-1645621322-746966449",
@@ -56,9 +56,9 @@
     {
       "wallet": "0.0.109376",
       "usd_total": 26.0642,
-      "shibar_payout": 1587965.6135,
+      "shibar_payout": 1588448.3569,
       "short_lock": 260642,
-      "long_lock": 1327323.6135,
+      "long_lock": 1327806.3569,
       "payments": [
         {
           "transaction_id": "0.0.109376-1645617793-315797590",
@@ -89,9 +89,9 @@
     {
       "wallet": "0.0.1142",
       "usd_total": 1.7539,
-      "shibar_payout": 106856.6419,
+      "shibar_payout": 106889.1257,
       "short_lock": 17539,
-      "long_lock": 89317.642,
+      "long_lock": 89350.1266,
       "payments": [
         {
           "transaction_id": "0.0.1142-1645728098-033872590",
@@ -122,9 +122,9 @@
     {
       "wallet": "0.0.120681",
       "usd_total": 237.2002,
-      "shibar_payout": 14451460.6674,
+      "shibar_payout": 14455853.9275,
       "short_lock": 2372002,
-      "long_lock": 12079458.6674,
+      "long_lock": 12083851.9275,
       "payments": [
         {
           "transaction_id": "0.0.120681-1645619933-576652449",
@@ -143,9 +143,9 @@
     {
       "wallet": "0.0.124390",
       "usd_total": 257.6201,
-      "shibar_payout": 15695546.3877,
+      "shibar_payout": 15700317.8512,
       "short_lock": 2576201,
-      "long_lock": 13119345.3877,
+      "long_lock": 13124116.8512,
       "payments": [
         {
           "transaction_id": "0.0.124390-1645624084-206042721",
@@ -158,9 +158,9 @@
     {
       "wallet": "0.0.132174",
       "usd_total": 2.1031,
-      "shibar_payout": 128131.7087,
+      "shibar_payout": 128170.6609,
       "short_lock": 21031,
-      "long_lock": 107100.7087,
+      "long_lock": 107139.6609,
       "payments": [
         {
           "transaction_id": "0.0.132174-1645728694-312457179",
@@ -173,9 +173,9 @@
     {
       "wallet": "0.0.13280",
       "usd_total": 1171.0002,
-      "shibar_payout": 71343377.1631,
+      "shibar_payout": 71365065.629,
       "short_lock": 11710002,
-      "long_lock": 59633375.1631,
+      "long_lock": 59655063.629,
       "payments": [
         {
           "transaction_id": "0.0.13280-1645624071-735186063",
@@ -194,9 +194,9 @@
     {
       "wallet": "0.0.151226",
       "usd_total": 138.2528,
-      "shibar_payout": 8423074.2696,
+      "shibar_payout": 8425634.8935,
       "short_lock": 1382528,
-      "long_lock": 7040546.2696,
+      "long_lock": 7043106.8935,
       "payments": [
         {
           "transaction_id": "0.0.151226-1645727748-951385222",
@@ -227,9 +227,9 @@
     {
       "wallet": "0.0.152825",
       "usd_total": 1163.8232,
-      "shibar_payout": 70906117.2738,
+      "shibar_payout": 70927672.8122,
       "short_lock": 11638232,
-      "long_lock": 59267885.2738,
+      "long_lock": 59289440.8122,
       "payments": [
         {
           "transaction_id": "0.0.152825-1645604235-492518069",
@@ -248,9 +248,9 @@
     {
       "wallet": "0.0.204362",
       "usd_total": 137.783,
-      "shibar_payout": 8394451.6283,
+      "shibar_payout": 8397003.551,
       "short_lock": 1377830,
-      "long_lock": 7016621.6283,
+      "long_lock": 7019173.551,
       "payments": [
         {
           "transaction_id": "0.0.204362-1645642712-479579369",
@@ -287,9 +287,9 @@
     {
       "wallet": "0.0.205729",
       "usd_total": 10.2051,
-      "shibar_payout": 621747.3731,
+      "shibar_payout": 621936.385,
       "short_lock": 102051,
-      "long_lock": 519696.3731,
+      "long_lock": 519885.385,
       "payments": [
         {
           "transaction_id": "0.0.205729-1645715251-441552449",
@@ -302,9 +302,9 @@
     {
       "wallet": "0.0.208775",
       "usd_total": 1690.6958,
-      "shibar_payout": 103005915.9064,
+      "shibar_payout": 103037229.8192,
       "short_lock": 16906958,
-      "long_lock": 86098957.9064,
+      "long_lock": 86130271.8192,
       "payments": [
         {
           "transaction_id": "0.0.208775-1645699498-855646179",
@@ -317,9 +317,9 @@
     {
       "wallet": "0.0.216935",
       "usd_total": 230.3001,
-      "shibar_payout": 14031070.9554,
+      "shibar_payout": 14035336.4166,
       "short_lock": 2303001,
-      "long_lock": 11728069.9554,
+      "long_lock": 11732335.4166,
       "payments": [
         {
           "transaction_id": "0.0.216935-1645630324-960493826",
@@ -332,9 +332,9 @@
     {
       "wallet": "0.0.220667",
       "usd_total": 23.4501,
-      "shibar_payout": 1428701.1469,
+      "shibar_payout": 1429135.4737,
       "short_lock": 234501,
-      "long_lock": 1194200.1469,
+      "long_lock": 1194634.4737,
       "payments": [
         {
           "transaction_id": "0.0.220667-1645607385-631157428",
@@ -347,9 +347,9 @@
     {
       "wallet": "0.0.224534",
       "usd_total": 23.4501,
-      "shibar_payout": 1428701.1469,
+      "shibar_payout": 1429135.4737,
       "short_lock": 234501,
-      "long_lock": 1194200.1469,
+      "long_lock": 1194634.4737,
       "payments": [
         {
           "transaction_id": "0.0.224534-1645609452-443065396",
@@ -362,9 +362,9 @@
     {
       "wallet": "0.0.231224",
       "usd_total": 194.8002,
-      "shibar_payout": 11868233.7886,
+      "shibar_payout": 11871841.7448,
       "short_lock": 1948002,
-      "long_lock": 9920231.7886,
+      "long_lock": 9923839.7448,
       "payments": [
         {
           "transaction_id": "0.0.231224-1645700978-215724576",
@@ -383,9 +383,9 @@
     {
       "wallet": "0.0.240740",
       "usd_total": 230.3002,
-      "shibar_payout": 14031077.0479,
+      "shibar_payout": 14035342.5109,
       "short_lock": 2303002,
-      "long_lock": 11728075.0479,
+      "long_lock": 11732340.5109,
       "payments": [
         {
           "transaction_id": "0.0.240740-1645629433-575763881",
@@ -404,9 +404,9 @@
     {
       "wallet": "0.0.243104",
       "usd_total": 2608.963,
-      "shibar_payout": 158951494.0422,
+      "shibar_payout": 158999815.4729,
       "short_lock": 26089630,
-      "long_lock": 132861864.0422,
+      "long_lock": 132910185.4729,
       "payments": [
         {
           "transaction_id": "0.0.243104-1645618782-063066134",
@@ -425,9 +425,9 @@
     {
       "wallet": "0.0.25207",
       "usd_total": 4220.5116,
-      "shibar_payout": 257135353.948,
+      "shibar_payout": 257213523.3812,
       "short_lock": 42205116,
-      "long_lock": 214930237.948,
+      "long_lock": 215008407.3812,
       "payments": [
         {
           "transaction_id": "0.0.25207-1645728215-842824449",
@@ -470,9 +470,9 @@
     {
       "wallet": "0.0.262277",
       "usd_total": 234.7347,
-      "shibar_payout": 14301249.6799,
+      "shibar_payout": 14305597.2757,
       "short_lock": 2347347,
-      "long_lock": 11953902.6799,
+      "long_lock": 11958250.2757,
       "payments": [
         {
           "transaction_id": "0.0.262277-1645616991-875601853",
@@ -491,9 +491,9 @@
     {
       "wallet": "0.0.271496",
       "usd_total": 167.1815,
-      "shibar_payout": 10185560.0103,
+      "shibar_payout": 10188656.4319,
       "short_lock": 1671815,
-      "long_lock": 8513745.0103,
+      "long_lock": 8516841.4319,
       "payments": [
         {
           "transaction_id": "0.0.271496-1645610646-864178698",
@@ -524,9 +524,9 @@
     {
       "wallet": "0.0.281445",
       "usd_total": 2.3451,
-      "shibar_payout": 142875.598,
+      "shibar_payout": 142919.0323,
       "short_lock": 23451,
-      "long_lock": 119424.598,
+      "long_lock": 119468.0323,
       "payments": [
         {
           "transaction_id": "0.0.281445-1645617308-871816449",
@@ -539,9 +539,9 @@
     {
       "wallet": "0.0.289304",
       "usd_total": 11.8601,
-      "shibar_payout": 722578.5166,
+      "shibar_payout": 722798.1813,
       "short_lock": 118601,
-      "long_lock": 603977.5166,
+      "long_lock": 604197.1813,
       "payments": [
         {
           "transaction_id": "0.0.289304-1645620141-155633170",
@@ -554,9 +554,9 @@
     {
       "wallet": "0.0.305873",
       "usd_total": 24.309,
-      "shibar_payout": 1481029.7688,
+      "shibar_payout": 1481480.0035,
       "short_lock": 243090,
-      "long_lock": 1237939.7688,
+      "long_lock": 1238390.0035,
       "payments": [
         {
           "transaction_id": "0.0.305873-1645628675-278822483",
@@ -593,9 +593,9 @@
     {
       "wallet": "0.0.316647",
       "usd_total": 208.2361,
-      "shibar_payout": 12686818.1758,
+      "shibar_payout": 12690674.9827,
       "short_lock": 2082361,
-      "long_lock": 10604457.1758,
+      "long_lock": 10608313.9827,
       "payments": [
         {
           "transaction_id": "0.0.316647-1645607536-969389664",
@@ -608,9 +608,9 @@
     {
       "wallet": "0.0.325127",
       "usd_total": 106.9603,
-      "shibar_payout": 6516573.6303,
+      "shibar_payout": 6518554.6759,
       "short_lock": 1069603,
-      "long_lock": 5446970.6303,
+      "long_lock": 5448951.6759,
       "payments": [
         {
           "transaction_id": "0.0.325127-1645702686-176849949",
@@ -635,9 +635,9 @@
     {
       "wallet": "0.0.332052",
       "usd_total": 10.4536,
-      "shibar_payout": 636887.2759,
+      "shibar_payout": 637080.8904,
       "short_lock": 104536,
-      "long_lock": 532351.2759,
+      "long_lock": 532544.8904,
       "payments": [
         {
           "transaction_id": "0.0.332052-1645605826-734338449",
@@ -650,9 +650,9 @@
     {
       "wallet": "0.0.333291",
       "usd_total": 437.5502,
-      "shibar_payout": 26657816.9213,
+      "shibar_payout": 26665920.9273,
       "short_lock": 4375502,
-      "long_lock": 22282314.9213,
+      "long_lock": 22290418.9273,
       "payments": [
         {
           "transaction_id": "0.0.333291-1645666328-566770590",
@@ -671,9 +671,9 @@
     {
       "wallet": "0.0.354842",
       "usd_total": 965.553,
-      "shibar_payout": 58826473.1723,
+      "shibar_payout": 58844356.4854,
       "short_lock": 9655530,
-      "long_lock": 49170943.1723,
+      "long_lock": 49188826.4854,
       "payments": [
         {
           "transaction_id": "0.0.354842-1645636759-968764590",
@@ -710,9 +710,9 @@
     {
       "wallet": "0.0.35657",
       "usd_total": 466.4207,
-      "shibar_payout": 28416756.8176,
+      "shibar_payout": 28425395.5433,
       "short_lock": 4664207,
-      "long_lock": 23752549.8176,
+      "long_lock": 23761188.5433,
       "payments": [
         {
           "transaction_id": "0.0.35657-1645614937-942763321",
@@ -731,9 +731,9 @@
     {
       "wallet": "0.0.356713",
       "usd_total": 233.0001,
-      "shibar_payout": 14195568.8935,
+      "shibar_payout": 14199884.3622,
       "short_lock": 2330001,
-      "long_lock": 11865567.8935,
+      "long_lock": 11869883.3622,
       "payments": [
         {
           "transaction_id": "0.0.356713-1645637999-079951260",
@@ -746,9 +746,9 @@
     {
       "wallet": "0.0.360340",
       "usd_total": 1007.0601,
-      "shibar_payout": 61355299.9737,
+      "shibar_payout": 61373952.053,
       "short_lock": 10070601,
-      "long_lock": 51284698.9737,
+      "long_lock": 51303351.053,
       "payments": [
         {
           "transaction_id": "0.0.360340-1645622666-726488835",
@@ -761,9 +761,9 @@
     {
       "wallet": "0.0.397088",
       "usd_total": 1881.4609,
-      "shibar_payout": 114628310.5728,
+      "shibar_payout": 114663157.7065,
       "short_lock": 18814609,
-      "long_lock": 95813701.5728,
+      "long_lock": 95848548.7065,
       "payments": [
         {
           "transaction_id": "0.0.397088-1645728206-968824949",
@@ -794,9 +794,9 @@
     {
       "wallet": "0.0.397546",
       "usd_total": 1235.9603,
-      "shibar_payout": 75301081.7945,
+      "shibar_payout": 75323973.407,
       "short_lock": 12359603,
-      "long_lock": 62941478.7945,
+      "long_lock": 62964370.407,
       "payments": [
         {
           "transaction_id": "0.0.397546-1645613837-115022140",
@@ -821,9 +821,9 @@
     {
       "wallet": "0.0.412535",
       "usd_total": 1139.3402,
-      "shibar_payout": 69414486.5268,
+      "shibar_payout": 69435588.6078,
       "short_lock": 11393402,
-      "long_lock": 58021084.5268,
+      "long_lock": 58042186.6078,
       "payments": [
         {
           "transaction_id": "0.0.412535-1645655821-044639949",
@@ -842,9 +842,9 @@
     {
       "wallet": "0.0.422222",
       "usd_total": 98.3002,
-      "shibar_payout": 5988955.6328,
+      "shibar_payout": 5990776.282,
       "short_lock": 983002,
-      "long_lock": 5005953.6328,
+      "long_lock": 5007774.282,
       "payments": [
         {
           "transaction_id": "0.0.422222-1645710617-866663179",
@@ -863,9 +863,9 @@
     {
       "wallet": "0.0.427173",
       "usd_total": 100.0501,
-      "shibar_payout": 6095568.5742,
+      "shibar_payout": 6097421.6338,
       "short_lock": 1000501,
-      "long_lock": 5095067.5742,
+      "long_lock": 5096920.6338,
       "payments": [
         {
           "transaction_id": "0.0.427173-1645675125-149324389",
@@ -878,9 +878,9 @@
     {
       "wallet": "0.0.427625",
       "usd_total": 23.5301,
-      "shibar_payout": 1433575.1599,
+      "shibar_payout": 1434010.9684,
       "short_lock": 235301,
-      "long_lock": 1198274.1599,
+      "long_lock": 1198709.9684,
       "payments": [
         {
           "transaction_id": "0.0.427625-1645633265-834254634",
@@ -893,9 +893,9 @@
     {
       "wallet": "0.0.428115",
       "usd_total": 1189.3203,
-      "shibar_payout": 72459532.2278,
+      "shibar_payout": 72481560.0061,
       "short_lock": 11893203,
-      "long_lock": 60566329.2278,
+      "long_lock": 60588357.0061,
       "payments": [
         {
           "transaction_id": "0.0.428115-1645613734-273657544",
@@ -920,9 +920,9 @@
     {
       "wallet": "0.0.433278",
       "usd_total": 54.4113,
-      "shibar_payout": 3315017.28,
+      "shibar_payout": 3316025.0489,
       "short_lock": 544113,
-      "long_lock": 2770904.28,
+      "long_lock": 2771912.0489,
       "payments": [
         {
           "transaction_id": "0.0.433278-1645608790-701265426",
@@ -947,9 +947,9 @@
     {
       "wallet": "0.0.433328",
       "usd_total": 232.6105,
-      "shibar_payout": 14171832.4502,
+      "shibar_payout": 14176140.7031,
       "short_lock": 2326105,
-      "long_lock": 11845727.4502,
+      "long_lock": 11850035.7031,
       "payments": [
         {
           "transaction_id": "0.0.433328-1645625883-096369305",
@@ -986,9 +986,9 @@
     {
       "wallet": "0.0.434029",
       "usd_total": 478.0602,
-      "shibar_payout": 29125895.2435,
+      "shibar_payout": 29134749.548,
       "short_lock": 4780602,
-      "long_lock": 24345293.2435,
+      "long_lock": 24354147.548,
       "payments": [
         {
           "transaction_id": "0.0.434029-1645612576-081271590",
@@ -1007,9 +1007,9 @@
     {
       "wallet": "0.0.438300",
       "usd_total": 2.3301,
-      "shibar_payout": 141961.7205,
+      "shibar_payout": 142004.877,
       "short_lock": 23301,
-      "long_lock": 118660.7205,
+      "long_lock": 118703.877,
       "payments": [
         {
           "transaction_id": "0.0.438300-1645637533-251051899",
@@ -1022,9 +1022,9 @@
     {
       "wallet": "0.0.439737",
       "usd_total": 1025.2001,
-      "shibar_payout": 62460482.4166,
+      "shibar_payout": 62479470.4727,
       "short_lock": 10252001,
-      "long_lock": 52208481.4166,
+      "long_lock": 52227469.4727,
       "payments": [
         {
           "transaction_id": "0.0.439737-1645639151-904881864",
@@ -1037,9 +1037,9 @@
     {
       "wallet": "0.0.443325",
       "usd_total": 65.9401,
-      "shibar_payout": 4017411.2903,
+      "shibar_payout": 4018632.5878,
       "short_lock": 659401,
-      "long_lock": 3358010.2903,
+      "long_lock": 3359231.5878,
       "payments": [
         {
           "transaction_id": "0.0.443325-1645659729-500370781",
@@ -1052,9 +1052,9 @@
     {
       "wallet": "0.0.445590",
       "usd_total": 4234.0002,
-      "shibar_payout": 257957149.0914,
+      "shibar_payout": 258035568.3512,
       "short_lock": 42340002,
-      "long_lock": 215617147.0914,
+      "long_lock": 215695566.3512,
       "payments": [
         {
           "transaction_id": "0.0.445590-1645702763-234320948",
@@ -1072,10 +1072,10 @@
     },
     {
       "wallet": "0.0.452365",
-      "usd_total": 1043.0211,
-      "shibar_payout": 63546229.7328,
-      "short_lock": 10430211,
-      "long_lock": 53116018.7328,
+      "usd_total": 1043.0424,
+      "shibar_payout": 63566845.9577,
+      "short_lock": 10430424,
+      "long_lock": 53136421.9577,
       "payments": [
         {
           "transaction_id": "0.0.452365-1645720168-711268807",
@@ -1106,15 +1106,21 @@
           "hbar_amount": 30.0004,
           "hbar_price": 0.2323,
           "usd_total": 6.9691
+        },
+        {
+          "transaction_id": "0.0.452365-1646674709-316612460",
+          "hbar_amount": 0.1005,
+          "hbar_price": 0.2117,
+          "usd_total": 0.0213
         }
       ]
     },
     {
       "wallet": "0.0.454313",
       "usd_total": 464.6002,
-      "shibar_payout": 28305842.5598,
+      "shibar_payout": 28314447.5674,
       "short_lock": 4646002,
-      "long_lock": 23659840.5598,
+      "long_lock": 23668445.5674,
       "payments": [
         {
           "transaction_id": "0.0.454313-1645604004-829045009",
@@ -1133,9 +1139,9 @@
     {
       "wallet": "0.0.454451",
       "usd_total": 7.9801,
-      "shibar_payout": 486188.8872,
+      "shibar_payout": 486336.6891,
       "short_lock": 79801,
-      "long_lock": 406387.8872,
+      "long_lock": 406535.6891,
       "payments": [
         {
           "transaction_id": "0.0.454451-1645713211-236194214",
@@ -1148,9 +1154,9 @@
     {
       "wallet": "0.0.454500",
       "usd_total": 23.2302,
-      "shibar_payout": 1415303.7038,
+      "shibar_payout": 1415733.9577,
       "short_lock": 232302,
-      "long_lock": 1183001.7038,
+      "long_lock": 1183431.9577,
       "payments": [
         {
           "transaction_id": "0.0.454500-1645606143-727180827",
@@ -1169,9 +1175,9 @@
     {
       "wallet": "0.0.454647",
       "usd_total": 23.2301,
-      "shibar_payout": 1415297.6113,
+      "shibar_payout": 1415727.8633,
       "short_lock": 232301,
-      "long_lock": 1182996.6113,
+      "long_lock": 1183426.8633,
       "payments": [
         {
           "transaction_id": "0.0.454647-1645604610-563634646",
@@ -1184,9 +1190,9 @@
     {
       "wallet": "0.0.454785",
       "usd_total": 106.5352,
-      "shibar_payout": 6490674.3438,
+      "shibar_payout": 6492647.516,
       "short_lock": 1065352,
-      "long_lock": 5425322.3438,
+      "long_lock": 5427295.516,
       "payments": [
         {
           "transaction_id": "0.0.454785-1645707344-961114675",
@@ -1205,9 +1211,9 @@
     {
       "wallet": "0.0.454786",
       "usd_total": 464.6001,
-      "shibar_payout": 28305836.4673,
+      "shibar_payout": 28314441.473,
       "short_lock": 4646001,
-      "long_lock": 23659835.4673,
+      "long_lock": 23668440.473,
       "payments": [
         {
           "transaction_id": "0.0.454786-1645604632-469992507",
@@ -1220,9 +1226,9 @@
     {
       "wallet": "0.0.454804",
       "usd_total": 21.8221,
-      "shibar_payout": 1329514.9828,
+      "shibar_payout": 1329919.1569,
       "short_lock": 218221,
-      "long_lock": 1111293.9828,
+      "long_lock": 1111698.1569,
       "payments": [
         {
           "transaction_id": "0.0.454804-1645716064-789256870",
@@ -1247,9 +1253,9 @@
     {
       "wallet": "0.0.454863",
       "usd_total": 1130.3532,
-      "shibar_payout": 68866952.0937,
+      "shibar_payout": 68887887.7237,
       "short_lock": 11303532,
-      "long_lock": 57563420.0937,
+      "long_lock": 57584355.7237,
       "payments": [
         {
           "transaction_id": "0.0.454863-1645643113-347755485",
@@ -1268,9 +1274,9 @@
     {
       "wallet": "0.0.454940",
       "usd_total": 233.2001,
-      "shibar_payout": 14207753.9259,
+      "shibar_payout": 14212073.0989,
       "short_lock": 2332001,
-      "long_lock": 11875752.9259,
+      "long_lock": 11880072.0989,
       "payments": [
         {
           "transaction_id": "0.0.454940-1645612938-203578063",
@@ -1283,9 +1289,9 @@
     {
       "wallet": "0.0.455364",
       "usd_total": 69.1851,
-      "shibar_payout": 4215113.4418,
+      "shibar_payout": 4216394.841,
       "short_lock": 691851,
-      "long_lock": 3523262.4418,
+      "long_lock": 3524543.841,
       "payments": [
         {
           "transaction_id": "0.0.455364-1645624932-322288296",
@@ -1298,9 +1304,9 @@
     {
       "wallet": "0.0.456097",
       "usd_total": 38.9601,
-      "shibar_payout": 2373650.4132,
+      "shibar_payout": 2374372.0056,
       "short_lock": 389601,
-      "long_lock": 1984049.4132,
+      "long_lock": 1984771.0056,
       "payments": [
         {
           "transaction_id": "0.0.456097-1645702508-330099019",
@@ -1313,9 +1319,9 @@
     {
       "wallet": "0.0.458073",
       "usd_total": 23.9817,
-      "shibar_payout": 1461088.9632,
+      "shibar_payout": 1461533.1359,
       "short_lock": 239817,
-      "long_lock": 1221271.9632,
+      "long_lock": 1221716.1359,
       "payments": [
         {
           "transaction_id": "0.0.458073-1645666629-072411004",
@@ -1358,9 +1364,9 @@
     {
       "wallet": "0.0.458156",
       "usd_total": 10.2,
-      "shibar_payout": 621436.6548,
+      "shibar_payout": 621625.5722,
       "short_lock": 102000,
-      "long_lock": 519436.6548,
+      "long_lock": 519625.5722,
       "payments": [
         {
           "transaction_id": "0.0.458156-1645619907-756292366",
@@ -1391,9 +1397,9 @@
     {
       "wallet": "0.0.465176",
       "usd_total": 4435.3555,
-      "shibar_payout": 270224753.4109,
+      "shibar_payout": 270306902.036,
       "short_lock": 44353555,
-      "long_lock": 225871198.4109,
+      "long_lock": 225953347.036,
       "payments": [
         {
           "transaction_id": "0.0.465176-1645718908-509845795",
@@ -1430,9 +1436,9 @@
     {
       "wallet": "0.0.466028",
       "usd_total": 104.8653,
-      "shibar_payout": 6388935.4154,
+      "shibar_payout": 6390877.6589,
       "short_lock": 1048653,
-      "long_lock": 5340282.4154,
+      "long_lock": 5342224.6589,
       "payments": [
         {
           "transaction_id": "0.0.466028-1645606984-894425364",
@@ -1457,9 +1463,9 @@
     {
       "wallet": "0.0.467126",
       "usd_total": 1.1171,
-      "shibar_payout": 68059.4987,
+      "shibar_payout": 68080.1889,
       "short_lock": 11171,
-      "long_lock": 56888.4987,
+      "long_lock": 56909.1889,
       "payments": [
         {
           "transaction_id": "0.0.467126-1645655721-947490231",
@@ -1472,9 +1478,9 @@
     {
       "wallet": "0.0.467228",
       "usd_total": 234.5001,
-      "shibar_payout": 14286956.6368,
+      "shibar_payout": 14291299.8875,
       "short_lock": 2345001,
-      "long_lock": 11941955.6368,
+      "long_lock": 11946298.8875,
       "payments": [
         {
           "transaction_id": "0.0.467228-1645616497-470682290",
@@ -1487,9 +1493,9 @@
     {
       "wallet": "0.0.474514",
       "usd_total": 4.4962,
-      "shibar_payout": 273931.7144,
+      "shibar_payout": 274014.99,
       "short_lock": 44962,
-      "long_lock": 228969.7144,
+      "long_lock": 229052.99,
       "payments": [
         {
           "transaction_id": "0.0.474514-1645650214-149634680",
@@ -1508,9 +1514,9 @@
     {
       "wallet": "0.0.475962",
       "usd_total": 145.2603,
-      "shibar_payout": 8850007.3439,
+      "shibar_payout": 8852697.756,
       "short_lock": 1452603,
-      "long_lock": 7397404.3439,
+      "long_lock": 7400094.756,
       "payments": [
         {
           "transaction_id": "0.0.475962-1645700846-968691005",
@@ -1535,9 +1541,9 @@
     {
       "wallet": "0.0.481349",
       "usd_total": 12.1373,
-      "shibar_payout": 739466.9716,
+      "shibar_payout": 739691.7704,
       "short_lock": 121373,
-      "long_lock": 618093.9716,
+      "long_lock": 618318.7704,
       "payments": [
         {
           "transaction_id": "0.0.481349-1645715759-086656794",
@@ -1562,9 +1568,9 @@
     {
       "wallet": "0.0.481621",
       "usd_total": 45.0001,
-      "shibar_payout": 2741638.3931,
+      "shibar_payout": 2742471.8542,
       "short_lock": 450001,
-      "long_lock": 2291637.3931,
+      "long_lock": 2292470.8542,
       "payments": [
         {
           "transaction_id": "0.0.481621-1645647187-958959232",
@@ -1577,9 +1583,9 @@
     {
       "wallet": "0.0.481936",
       "usd_total": 49.8751,
-      "shibar_payout": 3038648.559,
+      "shibar_payout": 3039572.3116,
       "short_lock": 498751,
-      "long_lock": 2539897.559,
+      "long_lock": 2540821.3116,
       "payments": [
         {
           "transaction_id": "0.0.481936-1645712157-042267357",
@@ -1592,9 +1598,9 @@
     {
       "wallet": "0.0.481938",
       "usd_total": 75.0502,
-      "shibar_payout": 4572445.6108,
+      "shibar_payout": 4573835.6394,
       "short_lock": 750502,
-      "long_lock": 3821943.6108,
+      "long_lock": 3823333.6394,
       "payments": [
         {
           "transaction_id": "0.0.481938-1645638461-779591518",
@@ -1613,9 +1619,9 @@
     {
       "wallet": "0.0.482186",
       "usd_total": 17.1044,
-      "shibar_payout": 1042088.3449,
+      "shibar_payout": 1042405.141,
       "short_lock": 171044,
-      "long_lock": 871044.3449,
+      "long_lock": 871361.141,
       "payments": [
         {
           "transaction_id": "0.0.482186-1645708973-905079956",
@@ -1634,9 +1640,9 @@
     {
       "wallet": "0.0.482874",
       "usd_total": 48.4251,
-      "shibar_payout": 2950307.0738,
+      "shibar_payout": 2951203.9704,
       "short_lock": 484251,
-      "long_lock": 2466056.0738,
+      "long_lock": 2466952.9704,
       "payments": [
         {
           "transaction_id": "0.0.482874-1645704271-582560616",
@@ -1649,9 +1655,9 @@
     {
       "wallet": "0.0.483509",
       "usd_total": 236.6464,
-      "shibar_payout": 14417720.3125,
+      "shibar_payout": 14422103.3155,
       "short_lock": 2366464,
-      "long_lock": 12051256.3125,
+      "long_lock": 12055639.3155,
       "payments": [
         {
           "transaction_id": "0.0.483509-1645641240-666485601",
@@ -1676,9 +1682,9 @@
     {
       "wallet": "0.0.484172",
       "usd_total": 114.1001,
-      "shibar_payout": 6951567.1036,
+      "shibar_payout": 6953680.3877,
       "short_lock": 1141001,
-      "long_lock": 5810566.1036,
+      "long_lock": 5812679.3877,
       "payments": [
         {
           "transaction_id": "0.0.484172-1645640082-856150378",
@@ -1691,9 +1697,9 @@
     {
       "wallet": "0.0.484262",
       "usd_total": 23.5302,
-      "shibar_payout": 1433581.2524,
+      "shibar_payout": 1434017.0627,
       "short_lock": 235302,
-      "long_lock": 1198279.2524,
+      "long_lock": 1198715.0627,
       "payments": [
         {
           "transaction_id": "0.0.484262-1645633251-650198897",
@@ -1712,9 +1718,9 @@
     {
       "wallet": "0.0.484491",
       "usd_total": 225.9033,
-      "shibar_payout": 13763195.2021,
+      "shibar_payout": 13767379.2287,
       "short_lock": 2259033,
-      "long_lock": 11504162.2021,
+      "long_lock": 11508346.2287,
       "payments": [
         {
           "transaction_id": "0.0.484491-1645665784-884495969",
@@ -1739,9 +1745,9 @@
     {
       "wallet": "0.0.484814",
       "usd_total": 3.765,
-      "shibar_payout": 229383.2358,
+      "shibar_payout": 229452.9686,
       "short_lock": 37650,
-      "long_lock": 191733.2358,
+      "long_lock": 191802.9686,
       "payments": [
         {
           "transaction_id": "0.0.484814-1645633578-011351291",
@@ -1760,9 +1766,9 @@
     {
       "wallet": "0.0.488378",
       "usd_total": 422.2178,
-      "shibar_payout": 25723687.9638,
+      "shibar_payout": 25731507.9935,
       "short_lock": 4222178,
-      "long_lock": 21501509.9638,
+      "long_lock": 21509329.9935,
       "payments": [
         {
           "transaction_id": "0.0.488378-1645648091-568821322",
@@ -1799,9 +1805,9 @@
     {
       "wallet": "0.0.488925",
       "usd_total": 9.7756,
-      "shibar_payout": 595580.016,
+      "shibar_payout": 595761.0729,
       "short_lock": 97756,
-      "long_lock": 497824.016,
+      "long_lock": 498005.0729,
       "payments": [
         {
           "transaction_id": "0.0.488925-1645714416-920788449",
@@ -1814,9 +1820,9 @@
     {
       "wallet": "0.0.490215",
       "usd_total": 99.7501,
-      "shibar_payout": 6077291.0255,
+      "shibar_payout": 6079138.5288,
       "short_lock": 997501,
-      "long_lock": 5079790.0255,
+      "long_lock": 5081637.5288,
       "payments": [
         {
           "transaction_id": "0.0.490215-1645714812-327944942",
@@ -1829,9 +1835,9 @@
     {
       "wallet": "0.0.490839",
       "usd_total": 108.5457,
-      "shibar_payout": 6613164.3825,
+      "shibar_payout": 6615174.7918,
       "short_lock": 1085457,
-      "long_lock": 5527707.3825,
+      "long_lock": 5529717.7918,
       "payments": [
         {
           "transaction_id": "0.0.490839-1645609347-491252937",
@@ -1850,9 +1856,9 @@
     {
       "wallet": "0.0.490906",
       "usd_total": 23.2301,
-      "shibar_payout": 1415297.6113,
+      "shibar_payout": 1415727.8633,
       "short_lock": 232301,
-      "long_lock": 1182996.6113,
+      "long_lock": 1183426.8633,
       "payments": [
         {
           "transaction_id": "0.0.490906-1645606406-005570082",
@@ -1865,9 +1871,9 @@
     {
       "wallet": "0.0.50163",
       "usd_total": 2372.0001,
-      "shibar_payout": 144514490.9158,
+      "shibar_payout": 144558423.4815,
       "short_lock": 23720001,
-      "long_lock": 120794489.9158,
+      "long_lock": 120838422.4815,
       "payments": [
         {
           "transaction_id": "0.0.50163-1645620308-427172590",
@@ -1880,9 +1886,9 @@
     {
       "wallet": "0.0.505487",
       "usd_total": 117.2501,
-      "shibar_payout": 7143481.3647,
+      "shibar_payout": 7145652.9909,
       "short_lock": 1172501,
-      "long_lock": 5970980.3647,
+      "long_lock": 5973151.9909,
       "payments": [
         {
           "transaction_id": "0.0.505487-1645614365-197963807",
@@ -1895,9 +1901,9 @@
     {
       "wallet": "0.0.505567",
       "usd_total": 47.4401,
-      "shibar_payout": 2890295.789,
+      "shibar_payout": 2891174.4421,
       "short_lock": 474401,
-      "long_lock": 2415894.789,
+      "long_lock": 2416773.4421,
       "payments": [
         {
           "transaction_id": "0.0.505567-1645619464-159920847",
@@ -1910,9 +1916,9 @@
     {
       "wallet": "0.0.506520",
       "usd_total": 82.0751,
-      "shibar_payout": 5000438.783,
+      "shibar_payout": 5001958.922,
       "short_lock": 820751,
-      "long_lock": 4179687.783,
+      "long_lock": 4181207.922,
       "payments": [
         {
           "transaction_id": "0.0.506520-1645616796-145676016",
@@ -1925,9 +1931,9 @@
     {
       "wallet": "0.0.507293",
       "usd_total": 446.8001,
-      "shibar_payout": 27221368.5795,
+      "shibar_payout": 27229643.9057,
       "short_lock": 4468001,
-      "long_lock": 22753367.5795,
+      "long_lock": 22761642.9057,
       "payments": [
         {
           "transaction_id": "0.0.507293-1645654354-496906274",
@@ -1940,9 +1946,9 @@
     {
       "wallet": "0.0.508156",
       "usd_total": 26.0652,
-      "shibar_payout": 1588026.5387,
+      "shibar_payout": 1588509.3005,
       "short_lock": 260652,
-      "long_lock": 1327374.5387,
+      "long_lock": 1327857.3005,
       "payments": [
         {
           "transaction_id": "0.0.508156-1645619313-859914176",
@@ -1961,9 +1967,9 @@
     {
       "wallet": "0.0.508854",
       "usd_total": 1.1766,
-      "shibar_payout": 71684.5459,
+      "shibar_payout": 71706.3381,
       "short_lock": 11766,
-      "long_lock": 59918.5459,
+      "long_lock": 59940.3381,
       "payments": [
         {
           "transaction_id": "0.0.508854-1645633660-318769931",
@@ -1976,9 +1982,9 @@
     {
       "wallet": "0.0.509518",
       "usd_total": 462.1423,
-      "shibar_payout": 28156094.6035,
+      "shibar_payout": 28164654.0875,
       "short_lock": 4621423,
-      "long_lock": 23534671.6035,
+      "long_lock": 23543231.0875,
       "payments": [
         {
           "transaction_id": "0.0.509518-1645645117-190714055",
@@ -2003,9 +2009,9 @@
     {
       "wallet": "0.0.509965",
       "usd_total": 111.7001,
-      "shibar_payout": 6805346.7143,
+      "shibar_payout": 6807415.5472,
       "short_lock": 1117001,
-      "long_lock": 5688345.7143,
+      "long_lock": 5690414.5472,
       "payments": [
         {
           "transaction_id": "0.0.509965-1645655267-756191563",
@@ -2018,9 +2024,9 @@
     {
       "wallet": "0.0.510242",
       "usd_total": 0.2146,
-      "shibar_payout": 13074.5398,
+      "shibar_payout": 13078.5145,
       "short_lock": 2146,
-      "long_lock": 10928.5398,
+      "long_lock": 10932.5145,
       "payments": [
         {
           "transaction_id": "0.0.510242-1645661427-497579462",
@@ -2033,9 +2039,9 @@
     {
       "wallet": "0.0.512364",
       "usd_total": 0.2257,
-      "shibar_payout": 13750.8091,
+      "shibar_payout": 13754.9894,
       "short_lock": 2257,
-      "long_lock": 11493.8091,
+      "long_lock": 11497.9894,
       "payments": [
         {
           "transaction_id": "0.0.512364-1645645993-792897449",
@@ -2048,9 +2054,9 @@
     {
       "wallet": "0.0.512836",
       "usd_total": 468.4001,
-      "shibar_payout": 28537352.0838,
+      "shibar_payout": 28546027.4705,
       "short_lock": 4684001,
-      "long_lock": 23853351.0838,
+      "long_lock": 23862026.4705,
       "payments": [
         {
           "transaction_id": "0.0.512836-1645623223-838386599",
@@ -2063,9 +2069,9 @@
     {
       "wallet": "0.0.513075",
       "usd_total": 1120.7306,
-      "shibar_payout": 68280693.6276,
+      "shibar_payout": 68301451.0343,
       "short_lock": 11207306,
-      "long_lock": 57073387.6276,
+      "long_lock": 57094145.0343,
       "payments": [
         {
           "transaction_id": "0.0.513075-1645653072-797631626",
@@ -2108,9 +2114,9 @@
     {
       "wallet": "0.0.513362",
       "usd_total": 47.3641,
-      "shibar_payout": 2885665.4767,
+      "shibar_payout": 2886542.7222,
       "short_lock": 473641,
-      "long_lock": 2412024.4767,
+      "long_lock": 2412901.7222,
       "payments": [
         {
           "transaction_id": "0.0.513362-1645710418-324949986",
@@ -2129,9 +2135,9 @@
     {
       "wallet": "0.0.513683",
       "usd_total": 21.9801,
-      "shibar_payout": 1339141.1585,
+      "shibar_payout": 1339548.2589,
       "short_lock": 219801,
-      "long_lock": 1119340.1585,
+      "long_lock": 1119747.2589,
       "payments": [
         {
           "transaction_id": "0.0.513683-1645657951-506928992",
@@ -2144,9 +2150,9 @@
     {
       "wallet": "0.0.514968",
       "usd_total": 252.1717,
-      "shibar_payout": 15363601.7338,
+      "shibar_payout": 15368272.2858,
       "short_lock": 2521717,
-      "long_lock": 12841884.7338,
+      "long_lock": 12846555.2858,
       "payments": [
         {
           "transaction_id": "0.0.514968-1645640184-781769930",
@@ -2165,9 +2171,9 @@
     {
       "wallet": "0.0.515468",
       "usd_total": 203.9206,
-      "shibar_payout": 12423895.6382,
+      "shibar_payout": 12427672.5163,
       "short_lock": 2039206,
-      "long_lock": 10384689.6382,
+      "long_lock": 10388466.5163,
       "payments": [
         {
           "transaction_id": "0.0.515468-1645727066-254389285",
@@ -2186,9 +2192,9 @@
     {
       "wallet": "0.0.515817",
       "usd_total": 109.7251,
-      "shibar_payout": 6685019.5188,
+      "shibar_payout": 6687051.7722,
       "short_lock": 1097251,
-      "long_lock": 5587768.5188,
+      "long_lock": 5589800.7722,
       "payments": [
         {
           "transaction_id": "0.0.515817-1645711776-667302179",
@@ -2201,9 +2207,9 @@
     {
       "wallet": "0.0.517585",
       "usd_total": 161.6778,
-      "shibar_payout": 9850246.1949,
+      "shibar_payout": 9853240.6807,
       "short_lock": 1616778,
-      "long_lock": 8233468.1949,
+      "long_lock": 8236462.6807,
       "payments": [
         {
           "transaction_id": "0.0.517585-1645637717-947774483",
@@ -2222,9 +2228,9 @@
     {
       "wallet": "0.0.518370",
       "usd_total": 21.9801,
-      "shibar_payout": 1339141.1585,
+      "shibar_payout": 1339548.2589,
       "short_lock": 219801,
-      "long_lock": 1119340.1585,
+      "long_lock": 1119747.2589,
       "payments": [
         {
           "transaction_id": "0.0.518370-1645660166-776419780",
@@ -2237,9 +2243,9 @@
     {
       "wallet": "0.0.518951",
       "usd_total": 2226.7472,
-      "shibar_payout": 135664934.4181,
+      "shibar_payout": 135706176.7088,
       "short_lock": 22267472,
-      "long_lock": 113397462.4181,
+      "long_lock": 113438704.7088,
       "payments": [
         {
           "transaction_id": "0.0.518951-1645646808-385309155",
@@ -2258,9 +2264,9 @@
     {
       "wallet": "0.0.52165",
       "usd_total": 184.3051,
-      "shibar_payout": 11228818.1184,
+      "shibar_payout": 11232231.6916,
       "short_lock": 1843051,
-      "long_lock": 9385767.1184,
+      "long_lock": 9389180.6916,
       "payments": [
         {
           "transaction_id": "0.0.52165-1645657014-895399179",
@@ -2273,9 +2279,9 @@
     {
       "wallet": "0.0.523118",
       "usd_total": 2323.2326,
-      "shibar_payout": 141543323.0665,
+      "shibar_payout": 141586352.3939,
       "short_lock": 23232326,
-      "long_lock": 118310997.0665,
+      "long_lock": 118354026.3939,
       "payments": [
         {
           "transaction_id": "0.0.523118-1645604934-684226360",
@@ -2300,9 +2306,9 @@
     {
       "wallet": "0.0.535093",
       "usd_total": 105.1501,
-      "shibar_payout": 6406286.9016,
+      "shibar_payout": 6408234.4199,
       "short_lock": 1051501,
-      "long_lock": 5354785.9016,
+      "long_lock": 5356733.4199,
       "payments": [
         {
           "transaction_id": "0.0.535093-1645726482-321738491",
@@ -2315,9 +2321,9 @@
     {
       "wallet": "0.0.540435",
       "usd_total": 50.4886,
-      "shibar_payout": 3076026.1461,
+      "shibar_payout": 3076961.2614,
       "short_lock": 504886,
-      "long_lock": 2571140.1461,
+      "long_lock": 2572075.2614,
       "payments": [
         {
           "transaction_id": "0.0.540435-1645655918-373605674",
@@ -2336,9 +2342,9 @@
     {
       "wallet": "0.0.540648",
       "usd_total": 114.3001,
-      "shibar_payout": 6963752.1361,
+      "shibar_payout": 6965869.1245,
       "short_lock": 1143001,
-      "long_lock": 5820751.1361,
+      "long_lock": 5822868.1245,
       "payments": [
         {
           "transaction_id": "0.0.540648-1645603188-194506555",
@@ -2351,9 +2357,9 @@
     {
       "wallet": "0.0.540754",
       "usd_total": 57.0501,
-      "shibar_payout": 3475786.5981,
+      "shibar_payout": 3476843.2411,
       "short_lock": 570501,
-      "long_lock": 2905285.5981,
+      "long_lock": 2906342.2411,
       "payments": [
         {
           "transaction_id": "0.0.540754-1645642402-226080754",
@@ -2366,9 +2372,9 @@
     {
       "wallet": "0.0.542474",
       "usd_total": 155.5485,
-      "shibar_payout": 9476817.598,
+      "shibar_payout": 9479698.5611,
       "short_lock": 1555485,
-      "long_lock": 7921332.598,
+      "long_lock": 7924213.5611,
       "payments": [
         {
           "transaction_id": "0.0.542474-1645606579-286107638",
@@ -2399,9 +2405,9 @@
     {
       "wallet": "0.0.542623",
       "usd_total": 232.0679,
-      "shibar_payout": 14138774.4572,
+      "shibar_payout": 14143072.6604,
       "short_lock": 2320679,
-      "long_lock": 11818095.4572,
+      "long_lock": 11822393.6604,
       "payments": [
         {
           "transaction_id": "0.0.542623-1645605409-697228902",
@@ -2420,9 +2426,9 @@
     {
       "wallet": "0.0.551528",
       "usd_total": 219.2082,
-      "shibar_payout": 13355295.1484,
+      "shibar_payout": 13359355.173,
       "short_lock": 2192082,
-      "long_lock": 11163213.1484,
+      "long_lock": 11167273.173,
       "payments": [
         {
           "transaction_id": "0.0.551528-1645612752-967988768",
@@ -2441,9 +2447,9 @@
     {
       "wallet": "0.0.557223",
       "usd_total": 197.8201,
-      "shibar_payout": 12052221.686,
+      "shibar_payout": 12055885.5748,
       "short_lock": 1978201,
-      "long_lock": 10074020.686,
+      "long_lock": 10077684.5748,
       "payments": [
         {
           "transaction_id": "0.0.557223-1645657473-924004162",
@@ -2456,9 +2462,9 @@
     {
       "wallet": "0.0.568491",
       "usd_total": 23.5301,
-      "shibar_payout": 1433575.1599,
+      "shibar_payout": 1434010.9684,
       "short_lock": 235301,
-      "long_lock": 1198274.1599,
+      "long_lock": 1198709.9684,
       "payments": [
         {
           "transaction_id": "0.0.568491-1645632475-358360773",
@@ -2471,9 +2477,9 @@
     {
       "wallet": "0.0.577070",
       "usd_total": 2.1981,
-      "shibar_payout": 133919.5991,
+      "shibar_payout": 133960.3108,
       "short_lock": 21981,
-      "long_lock": 111938.5991,
+      "long_lock": 111979.3108,
       "payments": [
         {
           "transaction_id": "0.0.577070-1645660046-145882108",
@@ -2486,9 +2492,9 @@
     {
       "wallet": "0.0.58031",
       "usd_total": 105.3901,
-      "shibar_payout": 6420908.9405,
+      "shibar_payout": 6422860.904,
       "short_lock": 1053901,
-      "long_lock": 5367007.9405,
+      "long_lock": 5368959.904,
       "payments": [
         {
           "transaction_id": "0.0.58031-1645622051-361236611",
@@ -2501,9 +2507,9 @@
     {
       "wallet": "0.0.581850",
       "usd_total": 97.4001,
-      "shibar_payout": 5934116.8943,
+      "shibar_payout": 5935920.8724,
       "short_lock": 974001,
-      "long_lock": 4960115.8943,
+      "long_lock": 4961919.8724,
       "payments": [
         {
           "transaction_id": "0.0.581850-1645702930-413802018",
@@ -2515,25 +2521,31 @@
     },
     {
       "wallet": "0.0.581943",
-      "usd_total": 117.2501,
-      "shibar_payout": 7143481.3647,
-      "short_lock": 1172501,
-      "long_lock": 5970980.3647,
+      "usd_total": 117.2709,
+      "shibar_payout": 7146920.6195,
+      "short_lock": 1172709,
+      "long_lock": 5974211.6195,
       "payments": [
         {
           "transaction_id": "0.0.581943-1645614416-212620963",
           "hbar_amount": 500.0004,
           "hbar_price": 0.2345,
           "usd_total": 117.2501
+        },
+        {
+          "transaction_id": "0.0.581943-1646753295-593826531",
+          "hbar_amount": 0.1005,
+          "hbar_price": 0.2073,
+          "usd_total": 0.0208
         }
       ]
     },
     {
       "wallet": "0.0.585529",
       "usd_total": 137.5609,
-      "shibar_payout": 8380920.1498,
+      "shibar_payout": 8383467.9588,
       "short_lock": 1375609,
-      "long_lock": 7005311.1498,
+      "long_lock": 7007858.9588,
       "payments": [
         {
           "transaction_id": "0.0.585529-1645708653-680428036",
@@ -2546,9 +2558,9 @@
     {
       "wallet": "0.0.589369",
       "usd_total": 30.6601,
-      "shibar_payout": 1867971.5667,
+      "shibar_payout": 1868539.4321,
       "short_lock": 306601,
-      "long_lock": 1561370.5667,
+      "long_lock": 1561938.4321,
       "payments": [
         {
           "transaction_id": "0.0.589369-1645720942-803245972",
@@ -2561,9 +2573,9 @@
     {
       "wallet": "0.0.590448",
       "usd_total": 97.0955,
-      "shibar_payout": 5915559.0899,
+      "shibar_payout": 5917357.4264,
       "short_lock": 970955,
-      "long_lock": 4944604.0899,
+      "long_lock": 4946402.4264,
       "payments": [
         {
           "transaction_id": "0.0.590448-1645705450-257472590",
@@ -2588,9 +2600,9 @@
     {
       "wallet": "0.0.591522",
       "usd_total": 34.0927,
-      "shibar_payout": 2077103.2786,
+      "shibar_payout": 2077734.7203,
       "short_lock": 340927,
-      "long_lock": 1736176.2786,
+      "long_lock": 1736807.7203,
       "payments": [
         {
           "transaction_id": "0.0.591522-1645617071-630377449",
@@ -2603,9 +2615,9 @@
     {
       "wallet": "0.0.596391",
       "usd_total": 9.9091,
-      "shibar_payout": 603713.5251,
+      "shibar_payout": 603897.0547,
       "short_lock": 99091,
-      "long_lock": 504622.5251,
+      "long_lock": 504806.0547,
       "payments": [
         {
           "transaction_id": "0.0.596391-1645627762-833083398",
@@ -2624,9 +2636,9 @@
     {
       "wallet": "0.0.597763",
       "usd_total": 1473.6145,
-      "shibar_payout": 89780202.4855,
+      "shibar_payout": 89807495.7668,
       "short_lock": 14736145,
-      "long_lock": 75044057.4855,
+      "long_lock": 75071350.7668,
       "payments": [
         {
           "transaction_id": "0.0.597763-1645720108-848290642",
@@ -2753,9 +2765,9 @@
     {
       "wallet": "0.0.598777",
       "usd_total": 23.0301,
-      "shibar_payout": 1403112.5788,
+      "shibar_payout": 1403539.1266,
       "short_lock": 230301,
-      "long_lock": 1172811.5788,
+      "long_lock": 1173238.1266,
       "payments": [
         {
           "transaction_id": "0.0.598777-1645629984-034587825",
@@ -2768,9 +2780,9 @@
     {
       "wallet": "0.0.599761",
       "usd_total": 0.2346,
-      "shibar_payout": 14293.0431,
+      "shibar_payout": 14297.3882,
       "short_lock": 2346,
-      "long_lock": 11947.0431,
+      "long_lock": 11951.3882,
       "payments": [
         {
           "transaction_id": "0.0.599761-1645617220-854381983",
@@ -2783,9 +2795,9 @@
     {
       "wallet": "0.0.599826",
       "usd_total": 234.5001,
-      "shibar_payout": 14286956.6368,
+      "shibar_payout": 14291299.8875,
       "short_lock": 2345001,
-      "long_lock": 11941955.6368,
+      "long_lock": 11946298.8875,
       "payments": [
         {
           "transaction_id": "0.0.599826-1645609082-496962629",
@@ -2798,9 +2810,9 @@
     {
       "wallet": "0.0.600199",
       "usd_total": 94.3402,
-      "shibar_payout": 5747691.9904,
+      "shibar_payout": 5749439.2951,
       "short_lock": 943402,
-      "long_lock": 4804289.9904,
+      "long_lock": 4806037.2951,
       "payments": [
         {
           "transaction_id": "0.0.600199-1645620210-084707645",
@@ -2819,9 +2831,9 @@
     {
       "wallet": "0.0.600791",
       "usd_total": 594.8003,
-      "shibar_payout": 36238304.7754,
+      "shibar_payout": 36249321.2603,
       "short_lock": 5948003,
-      "long_lock": 30290301.7754,
+      "long_lock": 30301318.2603,
       "payments": [
         {
           "transaction_id": "0.0.600791-1645722144-428241242",
@@ -2846,9 +2858,9 @@
     {
       "wallet": "0.0.6050",
       "usd_total": 606.2104,
-      "shibar_payout": 36933466.969,
+      "shibar_payout": 36944694.784,
       "short_lock": 6062104,
-      "long_lock": 30871362.969,
+      "long_lock": 30882590.784,
       "payments": [
         {
           "transaction_id": "0.0.6050-1645717710-576788590",
@@ -2879,9 +2891,9 @@
     {
       "wallet": "0.0.606390",
       "usd_total": 23.4501,
-      "shibar_payout": 1428701.1469,
+      "shibar_payout": 1429135.4737,
       "short_lock": 234501,
-      "long_lock": 1194200.1469,
+      "long_lock": 1194634.4737,
       "payments": [
         {
           "transaction_id": "0.0.606390-1645608758-147060852",
@@ -2894,9 +2906,9 @@
     {
       "wallet": "0.0.607781",
       "usd_total": 48.7462,
-      "shibar_payout": 2969870.1434,
+      "shibar_payout": 2970772.9872,
       "short_lock": 487462,
-      "long_lock": 2482408.1434,
+      "long_lock": 2483310.9872,
       "payments": [
         {
           "transaction_id": "0.0.607781-1645605784-362328465",
@@ -2915,9 +2927,9 @@
     {
       "wallet": "0.0.610927",
       "usd_total": 99.8002,
-      "shibar_payout": 6080343.3762,
+      "shibar_payout": 6082191.8073,
       "short_lock": 998002,
-      "long_lock": 5082341.3762,
+      "long_lock": 5084189.8073,
       "payments": [
         {
           "transaction_id": "0.0.610927-1645715193-989413662",
@@ -2936,9 +2948,9 @@
     {
       "wallet": "0.0.612660",
       "usd_total": 237.2,
-      "shibar_payout": 14451448.4823,
+      "shibar_payout": 14455841.7387,
       "short_lock": 2372000,
-      "long_lock": 12079448.4823,
+      "long_lock": 12083841.7387,
       "payments": [
         {
           "transaction_id": "0.0.612660-1645619364-149560261",
@@ -2957,9 +2969,9 @@
     {
       "wallet": "0.0.615215",
       "usd_total": 10.2201,
-      "shibar_payout": 622661.2506,
+      "shibar_payout": 622850.5403,
       "short_lock": 102201,
-      "long_lock": 520460.2506,
+      "long_lock": 520649.5403,
       "payments": [
         {
           "transaction_id": "0.0.615215-1645719158-593375669",
@@ -2972,9 +2984,9 @@
     {
       "wallet": "0.0.615987",
       "usd_total": 2.2821,
-      "shibar_payout": 139037.3127,
+      "shibar_payout": 139079.5802,
       "short_lock": 22821,
-      "long_lock": 116216.3127,
+      "long_lock": 116258.5802,
       "payments": [
         {
           "transaction_id": "0.0.615987-1645640608-364408515",
@@ -2987,9 +2999,9 @@
     {
       "wallet": "0.0.616912",
       "usd_total": 79.8001,
-      "shibar_payout": 4861834.0389,
+      "shibar_payout": 4863312.0419,
       "short_lock": 798001,
-      "long_lock": 4063833.0389,
+      "long_lock": 4065311.0419,
       "payments": [
         {
           "transaction_id": "0.0.616912-1645711677-797320122",
@@ -3002,9 +3014,9 @@
     {
       "wallet": "0.0.618512",
       "usd_total": 20.4401,
-      "shibar_payout": 1245316.4086,
+      "shibar_payout": 1245694.9862,
       "short_lock": 204401,
-      "long_lock": 1040915.4086,
+      "long_lock": 1041293.9862,
       "payments": [
         {
           "transaction_id": "0.0.618512-1645721320-223669268",
@@ -3017,9 +3029,9 @@
     {
       "wallet": "0.0.619680",
       "usd_total": 117.6501,
-      "shibar_payout": 7167851.4296,
+      "shibar_payout": 7170030.4644,
       "short_lock": 1176501,
-      "long_lock": 5991350.4296,
+      "long_lock": 5993529.4644,
       "payments": [
         {
           "transaction_id": "0.0.619680-1645633531-880665194",
@@ -3032,9 +3044,9 @@
     {
       "wallet": "0.0.620714",
       "usd_total": 19.4801,
-      "shibar_payout": 1186828.2529,
+      "shibar_payout": 1187189.05,
       "short_lock": 194801,
-      "long_lock": 992027.2529,
+      "long_lock": 992388.05,
       "payments": [
         {
           "transaction_id": "0.0.620714-1645702270-636691963",
@@ -3045,56 +3057,56 @@
       ]
     },
     {
-      "wallet": "0.0.620748",
+      "wallet": "0.0.734771",
       "usd_total": 654.5758,
-      "shibar_payout": 39880136.8106,
+      "shibar_payout": 39892260.4165,
       "short_lock": 6545758,
-      "long_lock": 33334378.8106,
+      "long_lock": 33346502.4165,
       "payments": [
         {
-          "transaction_id": "0.0.620748-1645645789-920299551",
+          "transaction_id": "0.0.734771-1645645789-920299551",
           "hbar_amount": 1000.0004,
           "hbar_price": 0.2256,
           "usd_total": 225.6001
         },
         {
-          "transaction_id": "0.0.620748-1645645412-061917784",
+          "transaction_id": "0.0.734771-1645645412-061917784",
           "hbar_amount": 250.0004,
           "hbar_price": 0.2256,
           "usd_total": 56.4001
         },
         {
-          "transaction_id": "0.0.620748-1645645270-144577242",
+          "transaction_id": "0.0.734771-1645645270-144577242",
           "hbar_amount": 250.0004,
           "hbar_price": 0.2256,
           "usd_total": 56.4001
         },
         {
-          "transaction_id": "0.0.620748-1645645164-791719680",
+          "transaction_id": "0.0.734771-1645645164-791719680",
           "hbar_amount": 250.0004,
           "hbar_price": 0.2256,
           "usd_total": 56.4001
         },
         {
-          "transaction_id": "0.0.620748-1645625607-346739949",
+          "transaction_id": "0.0.734771-1645625607-346739949",
           "hbar_amount": 100.0004,
           "hbar_price": 0.2325,
           "usd_total": 23.2501
         },
         {
-          "transaction_id": "0.0.620748-1645625507-240643449",
+          "transaction_id": "0.0.734771-1645625507-240643449",
           "hbar_amount": 10.0004,
           "hbar_price": 0.2325,
           "usd_total": 2.3251
         },
         {
-          "transaction_id": "0.0.620748-1645624511-626680242",
+          "transaction_id": "0.0.734771-1645624511-626680242",
           "hbar_amount": 500.0004,
           "hbar_price": 0.2342,
           "usd_total": 117.1001
         },
         {
-          "transaction_id": "0.0.620748-1645624229-224003063",
+          "transaction_id": "0.0.734771-1645624229-224003063",
           "hbar_amount": 500.0004,
           "hbar_price": 0.2342,
           "usd_total": 117.1001
@@ -3104,9 +3116,9 @@
     {
       "wallet": "0.0.620808",
       "usd_total": 126.0414,
-      "shibar_payout": 7679092.7434,
+      "shibar_payout": 7681427.1961,
       "short_lock": 1260414,
-      "long_lock": 6418678.7434,
+      "long_lock": 6421013.1961,
       "payments": [
         {
           "transaction_id": "0.0.620808-1645720303-015022595",
@@ -3131,9 +3143,9 @@
     {
       "wallet": "0.0.621643",
       "usd_total": 102.3174,
-      "shibar_payout": 6233704.1945,
+      "shibar_payout": 6235599.2475,
       "short_lock": 1023174,
-      "long_lock": 5210530.1945,
+      "long_lock": 5212425.2475,
       "payments": [
         {
           "transaction_id": "0.0.621643-1645656183-949618777",
@@ -3152,9 +3164,9 @@
     {
       "wallet": "0.0.621906",
       "usd_total": 1161.5001,
-      "shibar_payout": 70764582.0294,
+      "shibar_payout": 70786094.5409,
       "short_lock": 11615001,
-      "long_lock": 59149581.0294,
+      "long_lock": 59171093.5409,
       "payments": [
         {
           "transaction_id": "0.0.621906-1645605290-458645599",
@@ -3167,9 +3179,9 @@
     {
       "wallet": "0.0.622222",
       "usd_total": 940.8155,
-      "shibar_payout": 57319336.9714,
+      "shibar_payout": 57336762.1135,
       "short_lock": 9408155,
-      "long_lock": 47911181.9714,
+      "long_lock": 47928607.1135,
       "payments": [
         {
           "transaction_id": "0.0.622222-1645606589-581345848",
@@ -3206,9 +3218,9 @@
     {
       "wallet": "0.0.622670",
       "usd_total": 579.2047,
-      "shibar_payout": 35288140.3152,
+      "shibar_payout": 35298867.9491,
       "short_lock": 5792047,
-      "long_lock": 29496093.3152,
+      "long_lock": 29506820.9491,
       "payments": [
         {
           "transaction_id": "0.0.622670-1645629841-157498063",
@@ -3227,9 +3239,9 @@
     {
       "wallet": "0.0.627512",
       "usd_total": 366.2381,
-      "shibar_payout": 22313115.6594,
+      "shibar_payout": 22319898.8714,
       "short_lock": 3662381,
-      "long_lock": 18650734.6594,
+      "long_lock": 18657517.8714,
       "payments": [
         {
           "transaction_id": "0.0.627512-1645653715-938999205",
@@ -3278,9 +3290,9 @@
     {
       "wallet": "0.0.629191",
       "usd_total": 46.6001,
-      "shibar_payout": 2839118.6527,
+      "shibar_payout": 2839981.7479,
       "short_lock": 466001,
-      "long_lock": 2373117.6527,
+      "long_lock": 2373980.7479,
       "payments": [
         {
           "transaction_id": "0.0.629191-1645638800-243896716",
@@ -3293,9 +3305,9 @@
     {
       "wallet": "0.0.632394",
       "usd_total": 8362.8002,
-      "shibar_payout": 509504958.9305,
+      "shibar_payout": 509659849.0038,
       "short_lock": 83628002,
-      "long_lock": 425876956.9305,
+      "long_lock": 426031847.0038,
       "payments": [
         {
           "transaction_id": "0.0.632394-1645604764-683973964",
@@ -3314,9 +3326,9 @@
     {
       "wallet": "0.0.632528",
       "usd_total": 6.1674,
-      "shibar_payout": 375749.8456,
+      "shibar_payout": 375864.0739,
       "short_lock": 61674,
-      "long_lock": 314075.8456,
+      "long_lock": 314190.0739,
       "payments": [
         {
           "transaction_id": "0.0.632528-1645620025-595492008",
@@ -3335,9 +3347,9 @@
     {
       "wallet": "0.0.633800",
       "usd_total": 116.6001,
-      "shibar_payout": 7103880.0092,
+      "shibar_payout": 7106039.5966,
       "short_lock": 1166001,
-      "long_lock": 5937879.0092,
+      "long_lock": 5940038.5966,
       "payments": [
         {
           "transaction_id": "0.0.633800-1645612819-152343596",
@@ -3350,9 +3362,9 @@
     {
       "wallet": "0.0.634576",
       "usd_total": 2030.2963,
-      "shibar_payout": 123696131.4642,
+      "shibar_payout": 123733735.2256,
       "short_lock": 20302963,
-      "long_lock": 103393168.4642,
+      "long_lock": 103430772.2256,
       "payments": [
         {
           "transaction_id": "0.0.634576-1645724061-121146270",
@@ -3437,9 +3449,9 @@
     {
       "wallet": "0.0.635824",
       "usd_total": 138.3553,
-      "shibar_payout": 8429319.0987,
+      "shibar_payout": 8431881.621,
       "short_lock": 1383553,
-      "long_lock": 7045766.0987,
+      "long_lock": 7048328.621,
       "payments": [
         {
           "transaction_id": "0.0.635824-1645615331-048517063",
@@ -3464,9 +3476,9 @@
     {
       "wallet": "0.0.636273",
       "usd_total": 491.5001,
-      "shibar_payout": 29944723.3314,
+      "shibar_payout": 29953826.5606,
       "short_lock": 4915001,
-      "long_lock": 25029722.3314,
+      "long_lock": 25038825.5606,
       "payments": [
         {
           "transaction_id": "0.0.636273-1645708660-336154945",
@@ -3479,9 +3491,9 @@
     {
       "wallet": "0.0.636857",
       "usd_total": 11.0593,
-      "shibar_payout": 673789.6467,
+      "shibar_payout": 673994.4795,
       "short_lock": 110593,
-      "long_lock": 563196.6467,
+      "long_lock": 563401.4795,
       "payments": [
         {
           "transaction_id": "0.0.636857-1645633742-246637000",
@@ -3500,9 +3512,9 @@
     {
       "wallet": "0.0.637839",
       "usd_total": 53.6152,
-      "shibar_payout": 3266514.7583,
+      "shibar_payout": 3267507.7824,
       "short_lock": 536152,
-      "long_lock": 2730362.7583,
+      "long_lock": 2731355.7824,
       "payments": [
         {
           "transaction_id": "0.0.637839-1645730815-581917590",
@@ -3521,9 +3533,9 @@
     {
       "wallet": "0.0.638341",
       "usd_total": 21.9801,
-      "shibar_payout": 1339141.1585,
+      "shibar_payout": 1339548.2589,
       "short_lock": 219801,
-      "long_lock": 1119340.1585,
+      "long_lock": 1119747.2589,
       "payments": [
         {
           "transaction_id": "0.0.638341-1645658752-738801671",
@@ -3536,9 +3548,9 @@
     {
       "wallet": "0.0.641810",
       "usd_total": 109.4083,
-      "shibar_payout": 6665718.4274,
+      "shibar_payout": 6667744.8132,
       "short_lock": 1094083,
-      "long_lock": 5571635.4274,
+      "long_lock": 5573661.8132,
       "payments": [
         {
           "transaction_id": "0.0.641810-1645715034-023224170",
@@ -3563,9 +3575,9 @@
     {
       "wallet": "0.0.641825",
       "usd_total": 81.3051,
-      "shibar_payout": 4953526.4081,
+      "shibar_payout": 4955032.2856,
       "short_lock": 813051,
-      "long_lock": 4140475.4081,
+      "long_lock": 4141981.2856,
       "payments": [
         {
           "transaction_id": "0.0.641825-1645604136-961883159",
@@ -3578,9 +3590,9 @@
     {
       "wallet": "0.0.642554",
       "usd_total": 209.7001,
-      "shibar_payout": 12776012.6134,
+      "shibar_payout": 12779896.5354,
       "short_lock": 2097001,
-      "long_lock": 10679011.6134,
+      "long_lock": 10682895.5354,
       "payments": [
         {
           "transaction_id": "0.0.642554-1645636128-111944336",
@@ -3593,9 +3605,9 @@
     {
       "wallet": "0.0.642821",
       "usd_total": 32.2421,
-      "shibar_payout": 1964355.1733,
+      "shibar_payout": 1964952.3395,
       "short_lock": 322421,
-      "long_lock": 1641934.1733,
+      "long_lock": 1642531.3395,
       "payments": [
         {
           "transaction_id": "0.0.642821-1645629224-591729813",
@@ -3608,9 +3620,9 @@
     {
       "wallet": "0.0.642980",
       "usd_total": 116.3003,
-      "shibar_payout": 7085614.6456,
+      "shibar_payout": 7087768.6803,
       "short_lock": 1163003,
-      "long_lock": 5922611.6456,
+      "long_lock": 5924765.6803,
       "payments": [
         {
           "transaction_id": "0.0.642980-1645666363-247914859",
@@ -3635,9 +3647,9 @@
     {
       "wallet": "0.0.644160",
       "usd_total": 22.5001,
-      "shibar_payout": 1370822.2428,
+      "shibar_payout": 1371238.9743,
       "short_lock": 225001,
-      "long_lock": 1145821.2428,
+      "long_lock": 1146237.9743,
       "payments": [
         {
           "transaction_id": "0.0.644160-1645649365-104623692",
@@ -3648,26 +3660,11 @@
       ]
     },
     {
-      "wallet": "0.0.649095",
-      "usd_total": 49.9658,
-      "shibar_payout": 3044174.4712,
-      "short_lock": 499658,
-      "long_lock": 2544516.4712,
-      "payments": [
-        {
-          "transaction_id": "0.0.649095-1645602763-768781726",
-          "hbar_amount": 218.573,
-          "hbar_price": 0.2286,
-          "usd_total": 49.9658
-        }
-      ]
-    },
-    {
       "wallet": "0.0.650437",
       "usd_total": 23.0301,
-      "shibar_payout": 1403112.5788,
+      "shibar_payout": 1403539.1266,
       "short_lock": 230301,
-      "long_lock": 1172811.5788,
+      "long_lock": 1173238.1266,
       "payments": [
         {
           "transaction_id": "0.0.650437-1645629091-772762548",
@@ -3680,9 +3677,9 @@
     {
       "wallet": "0.0.650929",
       "usd_total": 33.8401,
-      "shibar_payout": 2061713.5826,
+      "shibar_payout": 2062340.3458,
       "short_lock": 338401,
-      "long_lock": 1723312.5826,
+      "long_lock": 1723939.3458,
       "payments": [
         {
           "transaction_id": "0.0.650929-1645645335-011722470",
@@ -3695,9 +3692,9 @@
     {
       "wallet": "0.0.653423",
       "usd_total": 1049.1669,
-      "shibar_payout": 63920663.5949,
+      "shibar_payout": 63940095.5476,
       "short_lock": 10491669,
-      "long_lock": 53428994.5949,
+      "long_lock": 53448426.5476,
       "payments": [
         {
           "transaction_id": "0.0.653423-1645612274-195282852",
@@ -3710,9 +3707,9 @@
     {
       "wallet": "0.0.653866",
       "usd_total": 16.8954,
-      "shibar_payout": 1029354.986,
+      "shibar_payout": 1029667.9111,
       "short_lock": 168954,
-      "long_lock": 860400.986,
+      "long_lock": 860713.9111,
       "payments": [
         {
           "transaction_id": "0.0.653866-1645650486-956252179",
@@ -3731,9 +3728,9 @@
     {
       "wallet": "0.0.653987",
       "usd_total": 1.8984,
-      "shibar_payout": 115660.328,
+      "shibar_payout": 115695.4889,
       "short_lock": 18984,
-      "long_lock": 96676.328,
+      "long_lock": 96711.4889,
       "payments": [
         {
           "transaction_id": "0.0.653987-1645704262-341054895",
@@ -3746,9 +3743,9 @@
     {
       "wallet": "0.0.654391",
       "usd_total": 291.0722,
-      "shibar_payout": 17733621.0073,
+      "shibar_payout": 17739012.0478,
       "short_lock": 2910722,
-      "long_lock": 14822899.0073,
+      "long_lock": 14828290.0478,
       "payments": [
         {
           "transaction_id": "0.0.654391-1645604401-603551651",
@@ -3773,9 +3770,9 @@
     {
       "wallet": "0.0.655034",
       "usd_total": 19.9777,
-      "shibar_payout": 1217144.6136,
+      "shibar_payout": 1217514.6269,
       "short_lock": 199777,
-      "long_lock": 1017367.6136,
+      "long_lock": 1017737.6269,
       "payments": [
         {
           "transaction_id": "0.0.655034-1645651056-242848932",
@@ -3794,9 +3791,9 @@
     {
       "wallet": "0.0.656153",
       "usd_total": 58.6251,
-      "shibar_payout": 3571743.7286,
+      "shibar_payout": 3572829.5426,
       "short_lock": 586251,
-      "long_lock": 2985492.7286,
+      "long_lock": 2986578.5426,
       "payments": [
         {
           "transaction_id": "0.0.656153-1645609199-535603449",
@@ -3809,9 +3806,9 @@
     {
       "wallet": "0.0.656231",
       "usd_total": 96.0243,
-      "shibar_payout": 5850296.0561,
+      "shibar_payout": 5852074.5526,
       "short_lock": 960243,
-      "long_lock": 4890053.0561,
+      "long_lock": 4891831.5526,
       "payments": [
         {
           "transaction_id": "0.0.656231-1645651283-953714590",
@@ -3830,9 +3827,9 @@
     {
       "wallet": "0.0.656363",
       "usd_total": 223.4001,
-      "shibar_payout": 13610687.336,
+      "shibar_payout": 13614825.0001,
       "short_lock": 2234001,
-      "long_lock": 11376686.336,
+      "long_lock": 11380824.0001,
       "payments": [
         {
           "transaction_id": "0.0.656363-1645653741-666588249",
@@ -3845,9 +3842,9 @@
     {
       "wallet": "0.0.657759",
       "usd_total": 124.3292,
-      "shibar_payout": 7574776.6806,
+      "shibar_payout": 7577079.4212,
       "short_lock": 1243292,
-      "long_lock": 6331484.6806,
+      "long_lock": 6333787.4212,
       "payments": [
         {
           "transaction_id": "0.0.657759-1645701582-108490483",
@@ -3896,9 +3893,9 @@
     {
       "wallet": "0.0.659028",
       "usd_total": 53.7,
-      "shibar_payout": 3271681.2121,
+      "shibar_payout": 3272675.8068,
       "short_lock": 537000,
-      "long_lock": 2734681.2121,
+      "long_lock": 2735675.8068,
       "payments": [
         {
           "transaction_id": "0.0.659028-1645665883-778572347",
@@ -3929,9 +3926,9 @@
     {
       "wallet": "0.0.659075",
       "usd_total": 232.7363,
-      "shibar_payout": 14179496.8357,
+      "shibar_payout": 14183807.4184,
       "short_lock": 2327363,
-      "long_lock": 11852133.8357,
+      "long_lock": 11856444.4184,
       "payments": [
         {
           "transaction_id": "0.0.659075-1645604721-398118972",
@@ -3956,9 +3953,9 @@
     {
       "wallet": "0.0.659311",
       "usd_total": 22.3401,
-      "shibar_payout": 1361074.2169,
+      "shibar_payout": 1361487.9849,
       "short_lock": 223401,
-      "long_lock": 1137673.2169,
+      "long_lock": 1138086.9849,
       "payments": [
         {
           "transaction_id": "0.0.659311-1645656922-793082221",
@@ -3971,9 +3968,9 @@
     {
       "wallet": "0.0.659319",
       "usd_total": 141.4693,
-      "shibar_payout": 8619040.0539,
+      "shibar_payout": 8621660.2516,
       "short_lock": 1414693,
-      "long_lock": 7204347.0539,
+      "long_lock": 7206967.2516,
       "payments": [
         {
           "transaction_id": "0.0.659319-1645640376-506744638",
@@ -4010,9 +4007,9 @@
     {
       "wallet": "0.0.662034",
       "usd_total": 135.009,
-      "shibar_payout": 8225445.2283,
+      "shibar_payout": 8227945.7728,
       "short_lock": 1350090,
-      "long_lock": 6875355.2283,
+      "long_lock": 6877855.7728,
       "payments": [
         {
           "transaction_id": "0.0.662034-1645705876-625789624",
@@ -4025,9 +4022,9 @@
     {
       "wallet": "0.0.662699",
       "usd_total": 1119.0002,
-      "shibar_payout": 68175268.7269,
+      "shibar_payout": 68195994.0843,
       "short_lock": 11190002,
-      "long_lock": 56985266.7269,
+      "long_lock": 57005992.0843,
       "payments": [
         {
           "transaction_id": "0.0.662699-1645639204-818433083",
@@ -4046,9 +4043,9 @@
     {
       "wallet": "0.0.663055",
       "usd_total": 15.6572,
-      "shibar_payout": 953917.4502,
+      "shibar_payout": 954207.4421,
       "short_lock": 156572,
-      "long_lock": 797345.4502,
+      "long_lock": 797635.4421,
       "payments": [
         {
           "transaction_id": "0.0.663055-1645709787-872639974",
@@ -4067,9 +4064,9 @@
     {
       "wallet": "0.0.663476",
       "usd_total": 200.1963,
-      "shibar_payout": 12196992.0565,
+      "shibar_payout": 12200699.9556,
       "short_lock": 2001963,
-      "long_lock": 10195029.0565,
+      "long_lock": 10198736.9556,
       "payments": [
         {
           "transaction_id": "0.0.663476-1645650529-807679612",
@@ -4094,9 +4091,9 @@
     {
       "wallet": "0.0.688487",
       "usd_total": 22.5601,
-      "shibar_payout": 1374477.7526,
+      "shibar_payout": 1374895.5953,
       "short_lock": 225601,
-      "long_lock": 1148876.7526,
+      "long_lock": 1149294.5953,
       "payments": [
         {
           "transaction_id": "0.0.688487-1645645283-511008380",
@@ -4109,9 +4106,9 @@
     {
       "wallet": "0.0.688593",
       "usd_total": 84.1201,
-      "shibar_payout": 5125030.7398,
+      "shibar_payout": 5126588.7548,
       "short_lock": 841201,
-      "long_lock": 4283829.7398,
+      "long_lock": 4285387.7548,
       "payments": [
         {
           "transaction_id": "0.0.688593-1645726957-909937674",
@@ -4124,9 +4121,9 @@
     {
       "wallet": "0.0.691029",
       "usd_total": 407.883,
-      "shibar_payout": 24850337.9482,
+      "shibar_payout": 24857892.4786,
       "short_lock": 4078830,
-      "long_lock": 20771507.9482,
+      "long_lock": 20779062.4786,
       "payments": [
         {
           "transaction_id": "0.0.691029-1645726754-529615274",
@@ -4161,44 +4158,50 @@
       ]
     },
     {
-      "wallet": "0.0.692130",
-      "usd_total": 295.9084,
-      "shibar_payout": 18028267.2769,
-      "short_lock": 2959084,
-      "long_lock": 15069183.2769,
+      "wallet": "0.0.750125",
+      "usd_total": 295.9292,
+      "shibar_payout": 18035015.5188,
+      "short_lock": 2959292,
+      "long_lock": 15075723.5188,
       "payments": [
         {
-          "transaction_id": "0.0.692130-1645651829-667059019",
+          "transaction_id": "0.0.750125-1645651829-667059019",
           "hbar_amount": 650.0005,
           "hbar_price": 0.2214,
           "usd_total": 143.9101
         },
         {
-          "transaction_id": "0.0.692130-1645629303-163080515",
+          "transaction_id": "0.0.750125-1645629303-163080515",
           "hbar_amount": 50.0004,
           "hbar_price": 0.2303,
           "usd_total": 11.5151
         },
         {
-          "transaction_id": "0.0.692130-1645629021-500795316",
+          "transaction_id": "0.0.750125-1645629021-500795316",
           "hbar_amount": 600.0004,
           "hbar_price": 0.2303,
           "usd_total": 138.1801
         },
         {
-          "transaction_id": "0.0.692130-1645628931-748065557",
+          "transaction_id": "0.0.750125-1645628931-748065557",
           "hbar_amount": 10.0004,
           "hbar_price": 0.2303,
           "usd_total": 2.3031
+        },
+        {
+          "transaction_id": "0.0.750125-1646676741-913353037",
+          "hbar_amount": 0.1005,
+          "hbar_price": 0.207,
+          "usd_total": 0.0208
         }
       ]
     },
     {
       "wallet": "0.0.701923",
       "usd_total": 38.934,
-      "shibar_payout": 2372060.2665,
+      "shibar_payout": 2372781.3754,
       "short_lock": 389340,
-      "long_lock": 1982720.2665,
+      "long_lock": 1983441.3754,
       "payments": [
         {
           "transaction_id": "0.0.701923-1645706290-956249056",
@@ -4223,9 +4226,9 @@
     {
       "wallet": "0.0.702103",
       "usd_total": 10221.2005,
-      "shibar_payout": 622728298.707,
+      "shibar_payout": 622917608.8014,
       "short_lock": 102212005,
-      "long_lock": 520516293.707,
+      "long_lock": 520705603.8014,
       "payments": [
         {
           "transaction_id": "0.0.702103-1645603865-690138026",
@@ -4262,9 +4265,9 @@
     {
       "wallet": "0.0.702183",
       "usd_total": 2314.5152,
-      "shibar_payout": 141012214.0572,
+      "shibar_payout": 141055081.9269,
       "short_lock": 23145152,
-      "long_lock": 117867062.0572,
+      "long_lock": 117909929.9269,
       "payments": [
         {
           "transaction_id": "0.0.702183-1645631268-007017275",
@@ -4283,9 +4286,9 @@
     {
       "wallet": "0.0.704335",
       "usd_total": 10.4941,
-      "shibar_payout": 639354.745,
+      "shibar_payout": 639549.1096,
       "short_lock": 104941,
-      "long_lock": 534413.745,
+      "long_lock": 534608.1096,
       "payments": [
         {
           "transaction_id": "0.0.704335-1645611591-763298658",
@@ -4298,9 +4301,9 @@
     {
       "wallet": "0.0.706203",
       "usd_total": 43.8377,
-      "shibar_payout": 2670818.9845,
+      "shibar_payout": 2671630.9165,
       "short_lock": 438377,
-      "long_lock": 2232441.9845,
+      "long_lock": 2233253.9165,
       "payments": [
         {
           "transaction_id": "0.0.706203-1645714237-761431296",
@@ -4313,9 +4316,9 @@
     {
       "wallet": "0.0.706475",
       "usd_total": 46.2279,
-      "shibar_payout": 2816442.3073,
+      "shibar_payout": 2817298.5089,
       "short_lock": 462279,
-      "long_lock": 2354163.3073,
+      "long_lock": 2355019.5089,
       "payments": [
         {
           "transaction_id": "0.0.706475-1645606273-415105102",
@@ -4334,9 +4337,9 @@
     {
       "wallet": "0.0.706940",
       "usd_total": 583.7974,
-      "shibar_payout": 35567951.3078,
+      "shibar_payout": 35578764.0045,
       "short_lock": 5837974,
-      "long_lock": 29729977.3078,
+      "long_lock": 29740790.0045,
       "payments": [
         {
           "transaction_id": "0.0.706940-1645607037-646565852",
@@ -4361,9 +4364,9 @@
     {
       "wallet": "0.0.708074",
       "usd_total": 301.8342,
-      "shibar_payout": 18389297.6033,
+      "shibar_payout": 18394887.9702,
       "short_lock": 3018342,
-      "long_lock": 15370955.6033,
+      "long_lock": 15376545.9702,
       "payments": [
         {
           "transaction_id": "0.0.708074-1645727846-107134133",
@@ -4460,9 +4463,9 @@
     {
       "wallet": "0.0.708536",
       "usd_total": 196.204,
-      "shibar_payout": 11953760.5313,
+      "shibar_payout": 11957394.4878,
       "short_lock": 1962040,
-      "long_lock": 9991720.5313,
+      "long_lock": 9995354.4878,
       "payments": [
         {
           "transaction_id": "0.0.708536-1645604911-259170294",
@@ -4493,9 +4496,9 @@
     {
       "wallet": "0.0.709867",
       "usd_total": 608.6262,
-      "shibar_payout": 37080649.976,
+      "shibar_payout": 37091922.5347,
       "short_lock": 6086262,
-      "long_lock": 30994387.976,
+      "long_lock": 31005660.5347,
       "payments": [
         {
           "transaction_id": "0.0.709867-1645603487-234649179",
@@ -4514,9 +4517,9 @@
     {
       "wallet": "0.0.711444",
       "usd_total": 11237.4578,
-      "shibar_payout": 684643939.5828,
+      "shibar_payout": 684852072.1008,
       "short_lock": 112374578,
-      "long_lock": 572269361.5828,
+      "long_lock": 572477494.1008,
       "payments": [
         {
           "transaction_id": "0.0.711444-1645707521-898039509",
@@ -4547,9 +4550,9 @@
     {
       "wallet": "0.0.711720",
       "usd_total": 1340.4814,
-      "shibar_payout": 81669046.7691,
+      "shibar_payout": 81693874.25,
       "short_lock": 13404814,
-      "long_lock": 68264232.7691,
+      "long_lock": 68289060.25,
       "payments": [
         {
           "transaction_id": "0.0.711720-1645632034-527074457",
@@ -4574,9 +4577,9 @@
     {
       "wallet": "0.0.712297",
       "usd_total": 152.0851,
-      "shibar_payout": 9265809.3911,
+      "shibar_payout": 9268626.2075,
       "short_lock": 1520851,
-      "long_lock": 7744958.3911,
+      "long_lock": 7747775.2075,
       "payments": [
         {
           "transaction_id": "0.0.712297-1645613822-500655503",
@@ -4601,9 +4604,9 @@
     {
       "wallet": "0.0.712860",
       "usd_total": 128.5253,
-      "shibar_payout": 7830424.7539,
+      "shibar_payout": 7832805.2117,
       "short_lock": 1285253,
-      "long_lock": 6545171.7539,
+      "long_lock": 6547552.2117,
       "payments": [
         {
           "transaction_id": "0.0.712860-1645636258-566749449",
@@ -4628,9 +4631,9 @@
     {
       "wallet": "0.0.715328",
       "usd_total": 1102.2638,
-      "shibar_payout": 67155600.8416,
+      "shibar_payout": 67176016.2189,
       "short_lock": 11022638,
-      "long_lock": 56132962.8416,
+      "long_lock": 56153378.2189,
       "payments": [
         {
           "transaction_id": "0.0.715328-1645604723-405201065",
@@ -4655,9 +4658,9 @@
     {
       "wallet": "0.0.720311",
       "usd_total": 116.1501,
-      "shibar_payout": 7076463.6862,
+      "shibar_payout": 7078614.939,
       "short_lock": 1161501,
-      "long_lock": 5914962.6862,
+      "long_lock": 5917113.939,
       "payments": [
         {
           "transaction_id": "0.0.720311-1645604560-875820510",
@@ -4670,9 +4673,9 @@
     {
       "wallet": "0.0.721008",
       "usd_total": 23.5301,
-      "shibar_payout": 1433575.1599,
+      "shibar_payout": 1434010.9684,
       "short_lock": 235301,
-      "long_lock": 1198274.1599,
+      "long_lock": 1198709.9684,
       "payments": [
         {
           "transaction_id": "0.0.721008-1645633061-796761550",
@@ -4685,9 +4688,9 @@
     {
       "wallet": "0.0.722288",
       "usd_total": 11698.5067,
-      "shibar_payout": 712733418.6139,
+      "shibar_payout": 712950090.3648,
       "short_lock": 116985067,
-      "long_lock": 595748351.6139,
+      "long_lock": 595965023.3648,
       "payments": [
         {
           "transaction_id": "0.0.722288-1645706604-967466590",
@@ -4730,9 +4733,9 @@
     {
       "wallet": "0.0.723083",
       "usd_total": 181.1943,
-      "shibar_payout": 11039292.1237,
+      "shibar_payout": 11042648.0808,
       "short_lock": 1811943,
-      "long_lock": 9227349.1237,
+      "long_lock": 9230705.0808,
       "payments": [
         {
           "transaction_id": "0.0.723083-1645603680-360296949",
@@ -4757,9 +4760,9 @@
     {
       "wallet": "0.0.723261",
       "usd_total": 463.9361,
-      "shibar_payout": 28265382.1595,
+      "shibar_payout": 28273974.8671,
       "short_lock": 4639361,
-      "long_lock": 23626021.1595,
+      "long_lock": 23634613.8671,
       "payments": [
         {
           "transaction_id": "0.0.723261-1645731408-492992449",
@@ -4802,9 +4805,9 @@
     {
       "wallet": "0.0.723934",
       "usd_total": 11.6384,
-      "shibar_payout": 709071.4082,
+      "shibar_payout": 709286.9667,
       "short_lock": 116384,
-      "long_lock": 592687.4082,
+      "long_lock": 592902.9667,
       "payments": [
         {
           "transaction_id": "0.0.723934-1645639853-851861465",
@@ -4823,9 +4826,9 @@
     {
       "wallet": "0.0.724002",
       "usd_total": 69.4801,
-      "shibar_payout": 4233086.3647,
+      "shibar_payout": 4234373.2276,
       "short_lock": 694801,
-      "long_lock": 3538285.3647,
+      "long_lock": 3539572.2276,
       "payments": [
         {
           "transaction_id": "0.0.724002-1645756526-561181449",
@@ -4850,9 +4853,9 @@
     {
       "wallet": "0.0.724620",
       "usd_total": 936.8276,
-      "shibar_payout": 57076373.517,
+      "shibar_payout": 57093724.7979,
       "short_lock": 9368276,
-      "long_lock": 47708097.517,
+      "long_lock": 47725448.7979,
       "payments": [
         {
           "transaction_id": "0.0.724620-1645607394-716755757",
@@ -4865,9 +4868,9 @@
     {
       "wallet": "0.0.724760",
       "usd_total": 127.6142,
-      "shibar_payout": 7774915.8386,
+      "shibar_payout": 7777279.4216,
       "short_lock": 1276142,
-      "long_lock": 6498773.8386,
+      "long_lock": 6501137.4216,
       "payments": [
         {
           "transaction_id": "0.0.724760-1645615703-009015590",
@@ -4886,9 +4889,9 @@
     {
       "wallet": "0.0.724788",
       "usd_total": 234.2656,
-      "shibar_payout": 14272669.6863,
+      "shibar_payout": 14277008.5937,
       "short_lock": 2342656,
-      "long_lock": 11930013.6863,
+      "long_lock": 11934352.5937,
       "payments": [
         {
           "transaction_id": "0.0.724788-1645617190-008424590",
@@ -4901,9 +4904,9 @@
     {
       "wallet": "0.0.724840",
       "usd_total": 8984.3997,
-      "shibar_payout": 547376009.3137,
+      "shibar_payout": 547542412.2284,
       "short_lock": 89843997,
-      "long_lock": 457532012.3137,
+      "long_lock": 457698415.2284,
       "payments": [
         {
           "transaction_id": "0.0.724840-1645703340-706573590",
@@ -4928,9 +4931,9 @@
     {
       "wallet": "0.0.724857",
       "usd_total": 30.1605,
-      "shibar_payout": 1837533.3556,
+      "shibar_payout": 1838091.9678,
       "short_lock": 301605,
-      "long_lock": 1535928.3556,
+      "long_lock": 1536486.9678,
       "payments": [
         {
           "transaction_id": "0.0.724857-1645621857-098592680",
@@ -4949,9 +4952,9 @@
     {
       "wallet": "0.0.724877",
       "usd_total": 48.0531,
-      "shibar_payout": 2927642.9134,
+      "shibar_payout": 2928532.9201,
       "short_lock": 480531,
-      "long_lock": 2447111.9134,
+      "long_lock": 2448001.9201,
       "payments": [
         {
           "transaction_id": "0.0.724877-1645641578-765073697",
@@ -4976,9 +4979,9 @@
     {
       "wallet": "0.0.724890",
       "usd_total": 115.9294,
-      "shibar_payout": 7063017.5029,
+      "shibar_payout": 7065164.6681,
       "short_lock": 1159294,
-      "long_lock": 5903723.5029,
+      "long_lock": 5905870.6681,
       "payments": [
         {
           "transaction_id": "0.0.724890-1645623519-129784852",
@@ -5009,9 +5012,9 @@
     {
       "wallet": "0.0.724905",
       "usd_total": 279.444,
-      "shibar_payout": 17025171.0358,
+      "shibar_payout": 17030346.7067,
       "short_lock": 2794440,
-      "long_lock": 14230731.0358,
+      "long_lock": 14235906.7067,
       "payments": [
         {
           "transaction_id": "0.0.724905-1645651982-676805099",
@@ -5042,9 +5045,9 @@
     {
       "wallet": "0.0.725022",
       "usd_total": 2277.6672,
-      "shibar_payout": 138767243.6791,
+      "shibar_payout": 138809429.0753,
       "short_lock": 22776672,
-      "long_lock": 115990571.6791,
+      "long_lock": 116032757.0753,
       "payments": [
         {
           "transaction_id": "0.0.725022-1645631520-627317680",
@@ -5063,9 +5066,9 @@
     {
       "wallet": "0.0.725076",
       "usd_total": 1515.1687,
-      "shibar_payout": 92311898.8621,
+      "shibar_payout": 92339961.7819,
       "short_lock": 15151687,
-      "long_lock": 77160211.8621,
+      "long_lock": 77188274.7819,
       "payments": [
         {
           "transaction_id": "0.0.725076-1645635000-937947179",
@@ -5078,9 +5081,9 @@
     {
       "wallet": "0.0.725135",
       "usd_total": 160.9799,
-      "shibar_payout": 9807726.5242,
+      "shibar_payout": 9810708.084,
       "short_lock": 1609799,
-      "long_lock": 8197927.5242,
+      "long_lock": 8200909.084,
       "payments": [
         {
           "transaction_id": "0.0.725135-1645631489-728235428",
@@ -5099,9 +5102,9 @@
     {
       "wallet": "0.0.725167",
       "usd_total": 4705.7648,
-      "shibar_payout": 286699483.8835,
+      "shibar_payout": 286786640.845,
       "short_lock": 47057648,
-      "long_lock": 239641835.8835,
+      "long_lock": 239728992.845,
       "payments": [
         {
           "transaction_id": "0.0.725167-1645632282-515889449",
@@ -5114,9 +5117,9 @@
     {
       "wallet": "0.0.725291",
       "usd_total": 90.4965,
-      "shibar_payout": 5513513.9443,
+      "shibar_payout": 5515190.0586,
       "short_lock": 904965,
-      "long_lock": 4608548.9443,
+      "long_lock": 4610225.0586,
       "payments": [
         {
           "transaction_id": "0.0.725291-1645640539-095642267",
@@ -5129,9 +5132,9 @@
     {
       "wallet": "0.0.725323",
       "usd_total": 16.0771,
-      "shibar_payout": 979499.9258,
+      "shibar_payout": 979797.6948,
       "short_lock": 160771,
-      "long_lock": 818728.9258,
+      "long_lock": 819026.6948,
       "payments": [
         {
           "transaction_id": "0.0.725323-1645638807-850527462",
@@ -5144,9 +5147,9 @@
     {
       "wallet": "0.0.725357",
       "usd_total": 44.7274,
-      "shibar_payout": 2725024.1014,
+      "shibar_payout": 2725852.5117,
       "short_lock": 447274,
-      "long_lock": 2277750.1014,
+      "long_lock": 2278578.5117,
       "payments": [
         {
           "transaction_id": "0.0.725357-1645640606-533007077",
@@ -5165,9 +5168,9 @@
     {
       "wallet": "0.0.725385",
       "usd_total": 41.487,
-      "shibar_payout": 2527602.2057,
+      "shibar_payout": 2528370.5996,
       "short_lock": 414870,
-      "long_lock": 2112732.2057,
+      "long_lock": 2113500.5996,
       "payments": [
         {
           "transaction_id": "0.0.725385-1645651047-065330729",
@@ -5186,9 +5189,9 @@
     {
       "wallet": "0.0.725433",
       "usd_total": 10.8651,
-      "shibar_payout": 661957.9802,
+      "shibar_payout": 662159.2162,
       "short_lock": 108651,
-      "long_lock": 553306.9802,
+      "long_lock": 553508.2162,
       "payments": [
         {
           "transaction_id": "0.0.725433-1645737709-989649449",
@@ -5201,9 +5204,9 @@
     {
       "wallet": "0.0.725495",
       "usd_total": 999.9002,
-      "shibar_payout": 60919081.9046,
+      "shibar_payout": 60937601.3732,
       "short_lock": 9999002,
-      "long_lock": 50920079.9046,
+      "long_lock": 50938599.3732,
       "payments": [
         {
           "transaction_id": "0.0.725495-1645651114-276826179",
@@ -5222,9 +5225,9 @@
     {
       "wallet": "0.0.725551",
       "usd_total": 85.1155,
-      "shibar_payout": 5185675.6463,
+      "shibar_payout": 5187252.0974,
       "short_lock": 851155,
-      "long_lock": 4334520.6463,
+      "long_lock": 4336097.0974,
       "payments": [
         {
           "transaction_id": "0.0.725551-1645655673-379278094",
@@ -5237,9 +5240,9 @@
     {
       "wallet": "0.0.725580",
       "usd_total": 2510.9845,
-      "shibar_payout": 152982138.034,
+      "shibar_payout": 153028644.7739,
       "short_lock": 25109845,
-      "long_lock": 127872293.034,
+      "long_lock": 127918799.7739,
       "payments": [
         {
           "transaction_id": "0.0.725580-1645705352-542167949",
@@ -5276,9 +5279,9 @@
     {
       "wallet": "0.0.725581",
       "usd_total": 44.9036,
-      "shibar_payout": 2735759.115,
+      "shibar_payout": 2736590.7888,
       "short_lock": 449036,
-      "long_lock": 2286723.115,
+      "long_lock": 2287554.7888,
       "payments": [
         {
           "transaction_id": "0.0.725581-1645657000-102994590",
@@ -5297,9 +5300,9 @@
     {
       "wallet": "0.0.725590",
       "usd_total": 1102.3768,
-      "shibar_payout": 67162485.385,
+      "shibar_payout": 67182902.8551,
       "short_lock": 11023768,
-      "long_lock": 56138717.385,
+      "long_lock": 56159134.8551,
       "payments": [
         {
           "transaction_id": "0.0.725590-1645657512-805693179",
@@ -5318,9 +5321,9 @@
     {
       "wallet": "0.0.725597",
       "usd_total": 24.1782,
-      "shibar_payout": 1473060.7576,
+      "shibar_payout": 1473508.5697,
       "short_lock": 241782,
-      "long_lock": 1231278.7576,
+      "long_lock": 1231726.5697,
       "payments": [
         {
           "transaction_id": "0.0.725597-1645657596-870953212",
@@ -5339,9 +5342,9 @@
     {
       "wallet": "0.0.725662",
       "usd_total": 198.7057,
-      "shibar_payout": 12106177.0097,
+      "shibar_payout": 12109857.3009,
       "short_lock": 1987057,
-      "long_lock": 10119120.0097,
+      "long_lock": 10122800.3009,
       "payments": [
         {
           "transaction_id": "0.0.725662-1645712602-455628432",
@@ -5360,9 +5363,9 @@
     {
       "wallet": "0.0.725718",
       "usd_total": 61.3201,
-      "shibar_payout": 3735937.0408,
+      "shibar_payout": 3737072.7698,
       "short_lock": 613201,
-      "long_lock": 3122736.0408,
+      "long_lock": 3123871.7698,
       "payments": [
         {
           "transaction_id": "0.0.725718-1645720020-943075179",
@@ -5375,9 +5378,9 @@
     {
       "wallet": "0.0.725831",
       "usd_total": 1030.1777,
-      "shibar_payout": 62763743.5042,
+      "shibar_payout": 62782823.7519,
       "short_lock": 10301777,
-      "long_lock": 52461966.5042,
+      "long_lock": 52481046.7519,
       "payments": [
         {
           "transaction_id": "0.0.725831-1645706688-439582949",
@@ -5414,9 +5417,9 @@
     {
       "wallet": "0.0.725943",
       "usd_total": 269.3251,
-      "shibar_payout": 16408675.4117,
+      "shibar_payout": 16413663.6672,
       "short_lock": 2693251,
-      "long_lock": 13715424.4117,
+      "long_lock": 13720412.6672,
       "payments": [
         {
           "transaction_id": "0.0.725943-1645713040-090166179",
@@ -5429,9 +5432,9 @@
     {
       "wallet": "0.0.726278",
       "usd_total": 1163.3002,
-      "shibar_payout": 70874253.4139,
+      "shibar_payout": 70895799.2657,
       "short_lock": 11633002,
-      "long_lock": 59241251.4139,
+      "long_lock": 59262797.2657,
       "payments": [
         {
           "transaction_id": "0.0.726278-1645704178-146796914",
@@ -5450,9 +5453,9 @@
     {
       "wallet": "0.0.726362",
       "usd_total": 202.0327,
-      "shibar_payout": 12308875.0244,
+      "shibar_payout": 12312616.9361,
       "short_lock": 2020327,
-      "long_lock": 10288548.0244,
+      "long_lock": 10292289.9361,
       "payments": [
         {
           "transaction_id": "0.0.726362-1645704520-754005595",
@@ -5477,9 +5480,9 @@
     {
       "wallet": "0.0.726373",
       "usd_total": 105.373,
-      "shibar_payout": 6419867.1203,
+      "shibar_payout": 6421818.767,
       "short_lock": 1053730,
-      "long_lock": 5366137.1203,
+      "long_lock": 5368088.767,
       "payments": [
         {
           "transaction_id": "0.0.726373-1645706165-514371622",
@@ -5498,9 +5501,9 @@
     {
       "wallet": "0.0.726401",
       "usd_total": 304.1091,
-      "shibar_payout": 18527896.2549,
+      "shibar_payout": 18533528.7559,
       "short_lock": 3041091,
-      "long_lock": 15486805.2549,
+      "long_lock": 15492437.7559,
       "payments": [
         {
           "transaction_id": "0.0.726401-1645716033-078402182",
@@ -5513,9 +5516,9 @@
     {
       "wallet": "0.0.726404",
       "usd_total": 46.4881,
-      "shibar_payout": 2832295.0345,
+      "shibar_payout": 2833156.0554,
       "short_lock": 464881,
-      "long_lock": 2367414.0345,
+      "long_lock": 2368275.0554,
       "payments": [
         {
           "transaction_id": "0.0.726404-1645705797-537926952",
@@ -5528,9 +5531,9 @@
     {
       "wallet": "0.0.726406",
       "usd_total": 38.9601,
-      "shibar_payout": 2373650.4132,
+      "shibar_payout": 2374372.0056,
       "short_lock": 389601,
-      "long_lock": 1984049.4132,
+      "long_lock": 1984771.0056,
       "payments": [
         {
           "transaction_id": "0.0.726406-1645703191-870321179",
@@ -5543,9 +5546,9 @@
     {
       "wallet": "0.0.726407",
       "usd_total": 19.3179,
-      "shibar_payout": 1176946.1916,
+      "shibar_payout": 1177303.9845,
       "short_lock": 193179,
-      "long_lock": 983767.1916,
+      "long_lock": 984124.9845,
       "payments": [
         {
           "transaction_id": "0.0.726407-1645704422-146100687",
@@ -5564,9 +5567,9 @@
     {
       "wallet": "0.0.726412",
       "usd_total": 579.1632,
-      "shibar_payout": 35285611.921,
+      "shibar_payout": 35296338.7862,
       "short_lock": 5791632,
-      "long_lock": 29493979.921,
+      "long_lock": 29504706.7862,
       "payments": [
         {
           "transaction_id": "0.0.726412-1645704444-451485063",
@@ -5585,9 +5588,9 @@
     {
       "wallet": "0.0.726420",
       "usd_total": 387.4001,
-      "shibar_payout": 23602413.9427,
+      "shibar_payout": 23609589.1027,
       "short_lock": 3874001,
-      "long_lock": 19728412.9427,
+      "long_lock": 19735588.1027,
       "payments": [
         {
           "transaction_id": "0.0.726420-1645705019-980409449",
@@ -5600,9 +5603,9 @@
     {
       "wallet": "0.0.726459",
       "usd_total": 1161.8127,
-      "shibar_payout": 70783627.2351,
+      "shibar_payout": 70805145.5364,
       "short_lock": 11618127,
-      "long_lock": 59165500.2351,
+      "long_lock": 59187018.5364,
       "payments": [
         {
           "transaction_id": "0.0.726459-1645707361-536592449",
@@ -5615,9 +5618,9 @@
     {
       "wallet": "0.0.726494",
       "usd_total": 196.4035,
-      "shibar_payout": 11965915.1012,
+      "shibar_payout": 11969552.7527,
       "short_lock": 1964035,
-      "long_lock": 10001880.1012,
+      "long_lock": 10005517.7527,
       "payments": [
         {
           "transaction_id": "0.0.726494-1645710695-078350560",
@@ -5630,9 +5633,9 @@
     {
       "wallet": "0.0.726495",
       "usd_total": 60.9462,
-      "shibar_payout": 3713157.1227,
+      "shibar_payout": 3714285.9265,
       "short_lock": 609462,
-      "long_lock": 3103695.1227,
+      "long_lock": 3104823.9265,
       "payments": [
         {
           "transaction_id": "0.0.726495-1645708685-090791416",
@@ -5651,9 +5654,9 @@
     {
       "wallet": "0.0.726504",
       "usd_total": 423.2286,
-      "shibar_payout": 25785271.1178,
+      "shibar_payout": 25793109.8689,
       "short_lock": 4232286,
-      "long_lock": 21552985.1178,
+      "long_lock": 21560823.8689,
       "payments": [
         {
           "transaction_id": "0.0.726504-1645710619-774803179",
@@ -5666,9 +5669,9 @@
     {
       "wallet": "0.0.726511",
       "usd_total": 189.7806,
-      "shibar_payout": 11562413.8442,
+      "shibar_payout": 11565928.8309,
       "short_lock": 1897806,
-      "long_lock": 9664607.8442,
+      "long_lock": 9668122.8309,
       "payments": [
         {
           "transaction_id": "0.0.726511-1645717752-048725179",
@@ -5693,9 +5696,9 @@
     {
       "wallet": "0.0.726512",
       "usd_total": 651.3829,
-      "shibar_payout": 39685608.8601,
+      "shibar_payout": 39697673.3293,
       "short_lock": 6513829,
-      "long_lock": 33171779.8601,
+      "long_lock": 33183844.3293,
       "payments": [
         {
           "transaction_id": "0.0.726512-1645747478-515912449",
@@ -5708,9 +5711,9 @@
     {
       "wallet": "0.0.726513",
       "usd_total": 150.4219,
-      "shibar_payout": 9164478.6613,
+      "shibar_payout": 9167264.673,
       "short_lock": 1504219,
-      "long_lock": 7660259.6613,
+      "long_lock": 7663045.673,
       "payments": [
         {
           "transaction_id": "0.0.726513-1645716657-678706949",
@@ -5729,9 +5732,9 @@
     {
       "wallet": "0.0.726521",
       "usd_total": 9.7711,
-      "shibar_payout": 595305.8527,
+      "shibar_payout": 595486.8264,
       "short_lock": 97711,
-      "long_lock": 497594.8527,
+      "long_lock": 497775.8264,
       "payments": [
         {
           "transaction_id": "0.0.726521-1645709110-656624449",
@@ -5744,9 +5747,9 @@
     {
       "wallet": "0.0.726559",
       "usd_total": 89.9747,
-      "shibar_payout": 5481723.1946,
+      "shibar_payout": 5483389.6446,
       "short_lock": 899747,
-      "long_lock": 4581976.1946,
+      "long_lock": 4583642.6446,
       "payments": [
         {
           "transaction_id": "0.0.726559-1645713142-783287523",
@@ -5765,9 +5768,9 @@
     {
       "wallet": "0.0.726582",
       "usd_total": 73.8152,
-      "shibar_payout": 4497203.0355,
+      "shibar_payout": 4498570.1902,
       "short_lock": 738152,
-      "long_lock": 3759051.0355,
+      "long_lock": 3760418.1902,
       "payments": [
         {
           "transaction_id": "0.0.726582-1645713364-390953591",
@@ -5786,9 +5789,9 @@
     {
       "wallet": "0.0.726587",
       "usd_total": 320.2802,
-      "shibar_payout": 19513123.1459,
+      "shibar_payout": 19519055.157,
       "short_lock": 3202802,
-      "long_lock": 16310321.1459,
+      "long_lock": 16316253.157,
       "payments": [
         {
           "transaction_id": "0.0.726587-1645726354-936683502",
@@ -5807,9 +5810,9 @@
     {
       "wallet": "0.0.726593",
       "usd_total": 89.7751,
-      "shibar_payout": 5469562.5322,
+      "shibar_payout": 5471225.2853,
       "short_lock": 897751,
-      "long_lock": 4571811.5322,
+      "long_lock": 4573474.2853,
       "payments": [
         {
           "transaction_id": "0.0.726593-1645713683-032301570",
@@ -5822,9 +5825,9 @@
     {
       "wallet": "0.0.726596",
       "usd_total": 1975.0504,
-      "shibar_payout": 120330266.0439,
+      "shibar_payout": 120366846.5784,
       "short_lock": 19750504,
-      "long_lock": 100579762.0439,
+      "long_lock": 100616342.5784,
       "payments": [
         {
           "transaction_id": "0.0.726596-1645713847-509136520",
@@ -5855,9 +5858,9 @@
     {
       "wallet": "0.0.726619",
       "usd_total": 208.5905,
-      "shibar_payout": 12708410.0533,
+      "shibar_payout": 12712273.4241,
       "short_lock": 2085905,
-      "long_lock": 10622505.0533,
+      "long_lock": 10626368.4241,
       "payments": [
         {
           "transaction_id": "0.0.726619-1645715438-939668852",
@@ -5882,9 +5885,9 @@
     {
       "wallet": "0.0.726625",
       "usd_total": 324.111,
-      "shibar_payout": 19746515.2574,
+      "shibar_payout": 19752518.22,
       "short_lock": 3241110,
-      "long_lock": 16505405.2574,
+      "long_lock": 16511408.22,
       "payments": [
         {
           "transaction_id": "0.0.726625-1645716571-934918852",
@@ -5902,25 +5905,31 @@
     },
     {
       "wallet": "0.0.726939",
-      "usd_total": 21.0301,
-      "shibar_payout": 1281262.2543,
-      "short_lock": 210301,
-      "long_lock": 1070961.2543,
+      "usd_total": 21.0507,
+      "shibar_payout": 1282907.1994,
+      "short_lock": 210507,
+      "long_lock": 1072400.1994,
       "payments": [
         {
           "transaction_id": "0.0.726939-1645728438-976263063",
           "hbar_amount": 100.0005,
           "hbar_price": 0.2103,
           "usd_total": 21.0301
+        },
+        {
+          "transaction_id": "0.0.726939-1646687458-575786590",
+          "hbar_amount": 0.1005,
+          "hbar_price": 0.2047,
+          "usd_total": 0.0206
         }
       ]
     },
     {
       "wallet": "0.0.8584",
       "usd_total": 1394.0325,
-      "shibar_payout": 84931656.2245,
+      "shibar_payout": 84957475.5423,
       "short_lock": 13940325,
-      "long_lock": 70991331.2245,
+      "long_lock": 71017150.5423,
       "payments": [
         {
           "transaction_id": "0.0.8584-1645606725-127813780",
@@ -5939,9 +5948,9 @@
     {
       "wallet": "0.0.93834",
       "usd_total": 4216.6025,
-      "shibar_payout": 256897191.3963,
+      "shibar_payout": 256975288.4278,
       "short_lock": 42166025,
-      "long_lock": 214731166.3963,
+      "long_lock": 214809263.4278,
       "payments": [
         {
           "transaction_id": "0.0.93834-1645728293-948466449",
@@ -6008,9 +6017,9 @@
     {
       "wallet": "0.0.93907",
       "usd_total": 2373.6263,
-      "shibar_payout": 144613567.4146,
+      "shibar_payout": 144657530.0997,
       "short_lock": 23736263,
-      "long_lock": 120877304.4146,
+      "long_lock": 120921267.0997,
       "payments": [
         {
           "transaction_id": "0.0.93907-1645618210-566475179",
